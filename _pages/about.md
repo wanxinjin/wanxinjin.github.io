@@ -101,7 +101,7 @@ We propose a Safe Pontryagin Differentiable Programming (Safe PDP) methodology, 
 <img src="collections/figures/lfc_v.gif" alt="Kitten" title="lfc" width="150"  align="left" hspace="30" vspace=10 />
 **Learning from Incremental Directional Corrections** <br />
 <b>Wanxin Jin</b>, Todd D Murphey, and Shaoshuai Mou<br />
-Submitted to *IEEE Transactions on Robotics (T-RO), 2021,*    Under review <br />
+Submitted to *IEEE Transactions on Robotics (T-RO),*    Under review <br />
 [[PDF]](https://arxiv.org/abs/2011.15014){:target="_blank"} /
 [[Code]](https://github.com/wanxinjin/Learning-from-Directional-Corrections){:target="_blank"} /
 [[Videos]](videos#LFDC){:target="_blank"}
@@ -119,7 +119,7 @@ This paper proposes a technique which enables a robot to learn a control objecti
 <img src="collections/figures/lfd.png" alt="Kitten" title="SafePDP" width="150"  align="left" hspace="30" vspace=10 />
 **Learning from Sparse Demonstrations** <br />
 <b>Wanxin Jin</b>, Todd D Murphey, Dana Kulic, Neta Ezer, and Shaoshuai Mou<br />
-Submitted to *IEEE Transactions on Robotics (T-RO), 2021,*   Under review <br />
+Submitted to *IEEE Transactions on Robotics (T-RO),*   Under review <br />
 [[PDF]](https://arxiv.org/abs/2008.02159){:target="_blank"}/
 [[Code]](https://github.com/wanxinjin/Learning-from-Sparse-Demonstrations){:target="_blank"} /
 [[Videos]](videos#LFSD){:target="_blank"}

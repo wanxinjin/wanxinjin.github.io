@@ -1,4 +1,4 @@
-I"ÝB<p>I am a postdoctoral researcher in the <a href="https://www.grasp.upenn.edu/" target="_blank">GRASP Laboratory</a> at <a href="https://www.upenn.edu/" target="_blank">University of Pennsylvania</a>, working with <a href="https://dair.seas.upenn.edu/michael-posa/" target="_blank">Prof. Michael Posa</a>.</p>
+I"ÑB<p>I am a postdoctoral researcher in the <a href="https://www.grasp.upenn.edu/" target="_blank">GRASP Laboratory</a> at <a href="https://www.upenn.edu/" target="_blank">University of Pennsylvania</a>, working with <a href="https://dair.seas.upenn.edu/michael-posa/" target="_blank">Prof. Michael Posa</a>.</p>
 
 <p>I obtained my Ph.D. in the area of Autonomy and Control in the <a href="https://engineering.purdue.edu/AAE" target="_blank">School of Aeronautics and Astronautics</a>, <a href="https://www.purdue.edu/" target="_blank">Purdue University</a> in July 2021. Prior to Purdue,  I worked as a research assistant  at <a href="https://www.tum.de/en/" target="_blank">Technical University of Munich</a>, Germany. I  obtained my   Master and Bachelor degrees in Control Science and Engineering from <a href="http://en.hit.edu.cn/" target="_blank">Harbin Institute of Technology</a>, China.</p>
 
@@ -75,7 +75,7 @@ We propose a Safe Pontryagin Differentiable Programming (Safe PDP) methodology, 
 <p><img src="collections/figures/lfc_v.gif" alt="Kitten" title="lfc" width="150" align="left" hspace="30" vspace="10" />
 <strong>Learning from Incremental Directional Corrections</strong> <br />
 <b>Wanxin Jin</b>, Todd D Murphey, and Shaoshuai Mou<br />
-Submitted to <em>IEEE Transactions on Robotics (T-RO), 2021,</em>    Under review <br />
+Submitted to <em>IEEE Transactions on Robotics (T-RO),</em>    Under review <br />
 <a href="https://arxiv.org/abs/2011.15014" target="_blank">[PDF]</a> /
 <a href="https://github.com/wanxinjin/Learning-from-Directional-Corrections" target="_blank">[Code]</a> /
 <a href="videos#LFDC" target="_blank">[Videos]</a></p>
@@ -91,7 +91,7 @@ This paper proposes a technique which enables a robot to learn a control objecti
 <p><img src="collections/figures/lfd.png" alt="Kitten" title="SafePDP" width="150" align="left" hspace="30" vspace="10" />
 <strong>Learning from Sparse Demonstrations</strong> <br />
 <b>Wanxin Jin</b>, Todd D Murphey, Dana Kulic, Neta Ezer, and Shaoshuai Mou<br />
-Submitted to <em>IEEE Transactions on Robotics (T-RO), 2021,</em>   Under review <br />
+Submitted to <em>IEEE Transactions on Robotics (T-RO),</em>   Under review <br />
 <a href="https://arxiv.org/abs/2008.02159" target="_blank">[PDF]</a>/
 <a href="https://github.com/wanxinjin/Learning-from-Sparse-Demonstrations" target="_blank">[Code]</a> /
 <a href="videos#LFSD" target="_blank">[Videos]</a></p>
