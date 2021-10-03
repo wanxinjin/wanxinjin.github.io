@@ -16,7 +16,7 @@ social: false  # includes social icons at the bottom of the page
 ---
 I am a postdoctoral researcher in the [GRASP Laboratory](https://www.grasp.upenn.edu/){:target="_blank"} at [University of Pennsylvania](https://www.upenn.edu/){:target="_blank"}, working with [Prof. Michael Posa](https://dair.seas.upenn.edu/michael-posa/){:target="_blank"}.
 
-I obtained my Ph.D. in the area of Autonomy and Control in the [School of Aeronautics and Astronautics](https://engineering.purdue.edu/AAE){:target="_blank"}, [Purdue University](https://www.purdue.edu/){:target="_blank"} in July 2021. Prior to Purdue,  I worked as a research assistant  at [Technical University of Munich](https://www.tum.de/en/){:target="_blank"}, Germany. I  obtained my   Master and Bachelor degree in Control Science and Engineering from [Harbin Institute of Technology](http://en.hit.edu.cn/){:target="_blank"}, China.
+I obtained my Ph.D. in the area of Autonomy and Control in the [School of Aeronautics and Astronautics](https://engineering.purdue.edu/AAE){:target="_blank"}, [Purdue University](https://www.purdue.edu/){:target="_blank"} in July 2021. Prior to Purdue,  I worked as a research assistant  at [Technical University of Munich](https://www.tum.de/en/){:target="_blank"}, Germany. I  obtained my   Master and Bachelor degrees in Control Science and Engineering from [Harbin Institute of Technology](http://en.hit.edu.cn/){:target="_blank"}, China.
 
 <p align="center">
 <a href = "mailto:wanxinjin@gmail.com" target="_blank">Email</a> / 
@@ -234,6 +234,8 @@ In this paper, we consider a dynamical system whose trajectory is a result of mi
 <p style="margin-bottom:0.8cm; margin-left: 0.5cm"> </p>
 
 -----
+<br/>
 
+<script type = "text / javascript" src = "// counter.websiteout.net/js/17/5/0/0"> </script>
+<div style="text-align: right"> <a href="#top">Back to top</a> </div>
 
-<a href="#top">Back to top</a>
