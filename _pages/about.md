@@ -20,8 +20,8 @@ I obtained my Ph.D. in the area of Autonomy and Control in the [School of Aerona
 
 <p align="center">
 <a href = "mailto:wanxinjin@gmail.com" target="_blank">Email</a> / 
-<a href = "https://twitter.com/jinwanxin" target="_blank">Twitter</a> / 
 <a href = "https://github.com/wanxinjin" target="_blank">Github</a> / 
+<a href = "https://twitter.com/jinwanxin" target="_blank">Twitter</a> / 
 <a href = "https://scholar.google.com/citations?user=SoEC4h4AAAAJ&hl=en" target="_blank">Google Scholar</a> 
 </p>
 
@@ -236,6 +236,6 @@ In this paper, we consider a dynamical system whose trajectory is a result of mi
 -----
 <br/>
 
-<script type = "text / javascript" src = "// counter.websiteout.net/js/17/5/0/0"> </script>
+
 <div style="text-align: right"> <a href="#top">Back to top</a> </div>
 

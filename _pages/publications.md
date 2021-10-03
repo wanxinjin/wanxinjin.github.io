@@ -141,3 +141,6 @@ CN103079037B
 Algorithm for Large-scale Rotational Vibrations</b>, 2013. Chinese Patent CN103841296B
 
 
+<br /> 
+
+<div style="text-align: right"> <a href="#top">Back to top</a> </div>
