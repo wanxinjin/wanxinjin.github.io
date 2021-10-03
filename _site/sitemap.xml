@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/collections/posts/SafePDP.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/_pages/dropdown.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/videos/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/publications/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/teaching/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/assets/img/lfd2.pdf</loc>
+<lastmod>2020-12-01T22:28:53-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/collections/figures/fig_algorithm.pdf</loc>
+<lastmod>2021-08-21T08:41:46-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/collections/figures/lfd2.pdf</loc>
+<lastmod>2020-12-01T22:28:53-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/collections/figures/lfdc.pdf</loc>
+<lastmod>2021-08-21T08:42:01-04:00</lastmod>
+</url>
+</urlset>
