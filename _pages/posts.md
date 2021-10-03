@@ -35,13 +35,13 @@ We propose a Safe Pontryagin Differentiable Programming (Safe PDP) methodology, 
     <div class="col-sm mt-2 mt-md-0">
         <iframe width="360" height="202" src="https://www.youtube.com/embed/sC81qc2ip8U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <div class="caption">
-            Safe PDP for safe policy optimization.
+            Safe PDP for safe neural policy optimization.
         </div>
     </div>
     <div class="col-sm mt-2 mt-md-0">
           <iframe width="360" height="202" src="https://www.youtube.com/embed/vZVxgo30mDs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           <div class="caption">
-            Safe PDP for safe motion planning
+            Safe PDP for safe motion planning.
         </div>
     </div>
 </div>
@@ -180,7 +180,7 @@ This paper develops a Pontryagin Differentiable Programming (PDP) methodology, w
     <div class="col-sm mt-2 mt-md-0">
 <iframe width="360" height="202"  src="https://www.youtube.com/embed/5Jsu772Sqcg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <div class="caption">
-            PDP for optimal control
+            PDP for optimal control.
         </div>
     </div>
 
