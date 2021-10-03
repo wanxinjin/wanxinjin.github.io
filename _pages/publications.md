@@ -95,7 +95,7 @@ In _AIAA/IEEE 40th Digital Avionics Systems Conference (DASC)_ , 2021. Accepted,
 
 11. Guo Ye, Qinjie Lin, Tim Tsz-Kit Lau, <b>Wanxin Jin</b>, Cheng Zhou, Haozheng LUO, Zhuoran Yang,
 Zhaoran Wang, and Han Liu. 
-<b>Roblax: A Differentiable Robotics Framework for Physics AugmentedReinforcement Learning</b>. 
+<b>Roblax: A Differentiable Robotics Framework for Physics Augmented Reinforcement Learning</b>. 
 Submitted to _The International Conference on Learning Representations (ICLR)_,   2022, [PDF coming soon]
 
 12. <b>Wanxin Jin</b>, Zihao Liang, and Shaoshuai Mou. 
@@ -110,7 +110,7 @@ Arxiv, 2020.
 
  
 14. Zhuangzhuang Ma, Yaoxian Song, Yunlin Zhang, <b>Wanxin Jin</b>, Jinliang Shao, and Qingchen Liu. 
-<b>Distributed and constrained coverage control of unicycle robots using bilevel programming</b>.
+<b>Distributed and Constrained Coverage Control of Unicycle Robots using Bilevel Programming</b>.
 Submitted to _IEEE International Conference on Robotics and Automation (ICRA)_, 2022
 
 

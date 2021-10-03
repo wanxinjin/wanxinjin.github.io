@@ -1,4 +1,4 @@
-I"%<h3 id="journal">Journal</h3>
+I"{<h3 id="journal">Journal</h3>
 
 <ol>
   <li>
@@ -87,7 +87,7 @@ In <em>AIAA/IEEE 40th Digital Avionics Systems Conference (DASC)</em> , 2021. Ac
   <li>
     <p>Guo Ye, Qinjie Lin, Tim Tsz-Kit Lau, <b>Wanxin Jin</b>, Cheng Zhou, Haozheng LUO, Zhuoran Yang,
 Zhaoran Wang, and Han Liu. 
-<b>Roblax: A Differentiable Robotics Framework for Physics AugmentedReinforcement Learning</b>. 
+<b>Roblax: A Differentiable Robotics Framework for Physics Augmented Reinforcement Learning</b>. 
 Submitted to <em>The International Conference on Learning Representations (ICLR)</em>,   2022, [PDF coming soon]</p>
   </li>
   <li>
@@ -143,4 +143,7 @@ Algorithm for Large-scale Rotational Vibrations</b>, 2013. Chinese Patent CN1038
   </li>
 </ol>
 
+<p><br /></p>
+
+<div style="text-align: right"> <a href="#top">Back to top</a> </div>
 :ET
