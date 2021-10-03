@@ -6,7 +6,7 @@ description:
 
 profile:
   align: right
-  image: collections/figures/wanxinjin2.jpg
+  image: WanxinJIN2.jpg
   address: >
 
 
