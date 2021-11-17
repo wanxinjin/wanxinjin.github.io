@@ -24,7 +24,7 @@ Submitted to _IEEE Transactions on Robotics (T-RO)_, under review.
 
 2. <b>Wanxin Jin</b>,  Todd D Murphey, Dana Kulic, Neta Ezer, and Shaoshuai Mou. 
 [<b>Learning from Sparse Demonstrations</b>](https://arxiv.org/abs/2008.02159){:target="\_blank"}.
-Submitted to _IEEE Transactions on Robotics (T-RO)_, Conditional accepted.
+Submitted to _IEEE Transactions on Robotics (T-RO)_, Conditionally Accepted.
 [[PDF]](https://arxiv.org/abs/2008.02159){:target="_blank"}
 [[Code]](https://github.com/wanxinjin/Learning-from-Sparse-Demonstrations){:target="_blank"} 
 [[Videos]](../videos#LFSD){:target="_blank"}
