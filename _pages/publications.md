@@ -24,7 +24,7 @@ Submitted to _IEEE Transactions on Robotics (T-RO)_, under review.
 
 2. <b>Wanxin Jin</b>,  Todd D Murphey, Dana Kulic, Neta Ezer, and Shaoshuai Mou. 
 [<b>Learning from Sparse Demonstrations</b>](https://arxiv.org/abs/2008.02159){:target="\_blank"}.
-Submitted to _IEEE Transactions on Robotics (T-RO)_, under review.
+Submitted to _IEEE Transactions on Robotics (T-RO)_, Conditional accepted.
 [[PDF]](https://arxiv.org/abs/2008.02159){:target="_blank"}
 [[Code]](https://github.com/wanxinjin/Learning-from-Sparse-Demonstrations){:target="_blank"} 
 [[Videos]](../videos#LFSD){:target="_blank"}
@@ -70,7 +70,7 @@ Electronics (T-IE)_, 64(4):3030–3038, 2016
 
 8. <b>Wanxin Jin</b>, Shaoshuai Mou, and George J. Pappas. 
 [<b>Safe Pontryagin Differentiable Programming</b>](https://arxiv.org/abs/2105.14937){:target="\_blank"}.  
-In _Advances in Neural Information Processing Systems (NeurIPS)_, 2021. Accepted.
+In _Advances in Neural Information Processing Systems (NeurIPS)_, 2021.
 [[PDF]](https://arxiv.org/abs/2105.14937){:target="_blank"} 
 [[Code]](https://github.com/wanxinjin/Safe-PDP){:target="_blank"}
 [[Videos]](videos#SafePDP){:target="_blank"}
@@ -86,7 +86,7 @@ In _Advances in Neural Information Processing Systems (NeurIPS)_, 2021. Accepted
 
 10. Sooyung Byeon, <b>Wanxin Jin</b>, Dawei Sun, and Inseok Hwang. 
 <b>Human-Automation Interaction for Assisting Novices to Emulate Experts by Inferring Task Objective Functions</b>. 
-In _AIAA/IEEE 40th Digital Avionics Systems Conference (DASC)_ , 2021. Accepted, 🔥 **Best Student Paper Finalist** 
+In _AIAA/IEEE 40th Digital Avionics Systems Conference (DASC)_ , 2021. 🔥 **Best Student Paper Finalist** 
 
 
 <p style="margin-bottom:1.0cm; margin-left: 0.5cm"> </p>
