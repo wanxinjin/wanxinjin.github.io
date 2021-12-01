@@ -10,7 +10,7 @@ horizontal: true
 #### Table of Contents
 
 - [Safe Pontryagin Differentiable Programming](#SafePDP)
-- [Learning from Incremental Directional Corrections](#LFDC)
+- [Learning from Human Directional Corrections](#LFDC)
 - [Learning from Sparse Demonstrations](#LFSD)
 - [Pontryagin Differentiable Programming: An End-to-End Learning and Control Framework](#PDP)
 
@@ -28,7 +28,7 @@ horizontal: true
 <img src="{{ '/collections/figures/SafePDP.png' | relative_url }}" alt="Kitten" align="left" title="SafePDP" width="250" hspace=20  />
 
 
-We propose a Safe Pontryagin Differentiable Programming (Safe PDP) methodology, which establishes a theoretical and algorithmic safe differentiable framework to solve a broad class of safety-critical learning and control tasks -- problems that require the guarantee of both immediate and long-term constraint satisfaction at any stage of the learning and control progress. In the spirit of interior-point methods, Safe PDP handles different types of state and input constraints by incorporating them into the cost and loss through barrier functions. We prove the following fundamental features of Safe PDP: first, both the constrained solution and its gradient in backward pass can be approximated by solving a more efficient unconstrained counterpart; second, the approximation for both the solution and its gradient can be controlled for arbitrary accuracy using a barrier parameter; and third, importantly, any intermediate results throughout the approximation and optimization are strictly respecting all constraints, thus guaranteeing safety throughout the entire learning and control process. We demonstrate the capabilities of Safe PDP in solving various safe learning and control tasks, including safe policy optimization, safe motion planning, and learning MPCs from demonstrations, on different challenging control systems such as 6-DoF maneuvering quadrotor and 6-DoF rocket powered landing.
+We propose a Safe Pontryagin Differentiable Programming (Safe PDP) methodology, which establishes a theoretical and algorithmic framework to solve a broad class of safety-critical learning and control tasks -- problems that require the guarantee of safety constraint satisfaction at any stage of the learning and control progress. In the spirit of interior-point methods, Safe PDP handles different types of system constraints on states and inputs by incorporating them into the cost or loss through barrier functions. We prove three fundamentals of the proposed Safe PDP: first, both the solution and its gradient in the backward pass can be approximated by solving their more efficient unconstrained counterparts; second, the approximation for both the solution and its gradient can be controlled for arbitrary accuracy by a barrier parameter; and third, importantly, all intermediate results throughout the approximation and optimization strictly respect the constraints, thus guaranteeing safety throughout the entire learning and control process. We demonstrate the capabilities of Safe PDP in solving various safety-critical tasks, including safe policy optimization, safe motion planning, and learning MPCs from demonstrations, on different challenging systems such as 6-DoF maneuvering quadrotor and 6-DoF rocket powered landing.
 
 
 <div class="row">
@@ -75,15 +75,35 @@ Safe-PDP Paper: [https://arxiv.org/abs/2105.14937](https://arxiv.org/abs/2105.14
 <br /> 
 <br /> 
 
-#### [Learning from Incremental Directional Corrections](https://arxiv.org/abs/2011.15014){:target="_blank"}
+#### [Learning from Human Directional Corrections](https://arxiv.org/abs/2011.15014){:target="_blank"}
 
 <p style="margin-bottom:0.8cm; margin-left: 0.5cm"> </p>
 
 <img src="{{ '/collections/figures/lfdc.png' | relative_url }}" alt="Kitten" align="left" title="SafePDP" width="350" hspace=20  />
-This paper proposes a technique which enables a robot to learn a control objective function incrementally from human user’s corrections. The human’s corrections can be as simple as directional corrections—corrections that indicate the direction of a control change without indicating its magnitude—applied at some time instances during the robot’s motion. We only assume that each of the human’s corrections, regardless of its magnitude, points in a direction that improves the robot’s current motion relative to an implicit objective function. The proposed method uses the direction of a correction to update the estimate of the objective function based on a cutting plane technique. We establish the theoretical results to show that this process of incremental correction and update guarantees convergence of the learned objective function to the implicit one. The method is validated by two human-robot games, where human players teach a 2-link robot arm and a 6-DoF quadrotor system for motion planning in environments with obstacles, and also on a real  quadrotor system in a user study.
+This paper proposes an approach which enables a robot to learn a control
+objective function incrementally from human's directional corrections. Existing
+methods learn from human's magnitude corrections and require a human to
+carefully choose correction magnitudes, which otherwise can easily lead to
+over-correction and learning inefficiency. The proposed method only requires
+human's directional corrections --- corrections that only indicate the
+direction of a control change without indicating its magnitude --- applied at
+some time instances during the robot's motion. We only assume that each of
+human's corrections, regardless of its magnitude, points in a direction that
+improves the robot's current motion relative to an implicit control objective
+function. Thus, human's valid corrections always account for half of the
+correction space. The proposed method uses the direction of a correction to
+update the estimate of the objective function based on a cutting plane
+technique. We have established the theoretical results to show that this
+process guarantees the convergence of the learned objective function to the
+implicit one. The proposed approach has been examined by numerical examples, a
+user study on two human-robot games, and a real-world quadrotor experiment. The
+results confirm the convergence of the approach and show that the approach is
+significantly more effective (higher success rate), efficient/effortless (less
+human corrections needed), and accessible (fewer early wasted trials) than the
+state-of-the-art robot interactive learning schemes.
 
 
-<div class="row">
+<!-- <div class="row">
     <div class="col-sm mt-2 mt-md-0">
         <iframe width="360" height="202" src="https://www.youtube.com/embed/sXXwBNZ9oP4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <div class="caption">
@@ -97,7 +117,21 @@ This paper proposes a technique which enables a robot to learn a control objecti
         </div>
     </div>
 </div>
+ -->
 
+
+<div class="row">
+      <div class="col-sm mt-3 mt-md-0">
+    </div>
+      <div class="col-sm mt-3 mt-md-0">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kBkEiLH9llI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <div class="caption">
+A drone learns from human's directional corrections.
+      </div>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+    </div>
+</div>
 
 
 
@@ -144,6 +178,10 @@ This paper develops a Continuous Pontryagin Differentiable Programming method wh
         </div>
     </div>
 </div>
+
+
+
+
 
 
 

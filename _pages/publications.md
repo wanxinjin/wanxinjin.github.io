@@ -13,11 +13,11 @@ nav: true
 
 
 1.   <b>Wanxin Jin</b>, Todd D Murphey, and Shaoshuai Mou. 
-[<b>Learning from Incremental Directional Corrections</b>](https://arxiv.org/abs/2011.15014){:target="\_blank"}.
+[<b>Learning from Human Directional Corrections</b>](https://arxiv.org/abs/2011.15014){:target="\_blank"}.
 Submitted to _IEEE Transactions on Robotics (T-RO)_, under review.
 [[Arxiv]](https://arxiv.org/abs/2011.15014){:target="_blank"} 
 [[Code]](https://github.com/wanxinjin/Learning-from-Directional-Corrections){:target="_blank"} 
-[[Videos]](../videos#SafePDP){:target="_blank"}
+[[Videos]](../videos#LFDC){:target="_blank"}
 
 
 
@@ -87,6 +87,7 @@ In _Advances in Neural Information Processing Systems (NeurIPS)_, 2021.
 10. Sooyung Byeon, <b>Wanxin Jin</b>, Dawei Sun, and Inseok Hwang. 
 <b>Human-Automation Interaction for Assisting Novices to Emulate Experts by Inferring Task Objective Functions</b>. 
 In _AIAA/IEEE 40th Digital Avionics Systems Conference (DASC)_ , 2021. 🔥 **Best Student Paper Finalist** 
+[[PDF]](https://ieeexplore.ieee.org/document/9594324){:target="_blank"} 
 
 
 <p style="margin-bottom:1.0cm; margin-left: 0.5cm"> </p>

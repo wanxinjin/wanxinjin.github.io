@@ -1,4 +1,4 @@
-I"�0<h4 id="table-of-contents">Table of Contents</h4>
+I"�2<h4 id="table-of-contents">Table of Contents</h4>
 
 <ul>
   <li><a href="#SafePDP">Safe Pontryagin Differentiable Programming</a></li>
@@ -67,18 +67,32 @@ Safe-PDP Paper: <a href="https://arxiv.org/abs/2105.14937" target="_blank">https
 <p><img src="/collections/figures/lfdc.png" alt="Kitten" align="left" title="SafePDP" width="350" hspace="20" />
 This paper proposes a technique which enables a robot to learn a control objective function incrementally from human user’s corrections. The human’s corrections can be as simple as directional corrections—corrections that indicate the direction of a control change without indicating its magnitude—applied at some time instances during the robot’s motion. We only assume that each of the human’s corrections, regardless of its magnitude, points in a direction that improves the robot’s current motion relative to an implicit objective function. The proposed method uses the direction of a correction to update the estimate of the objective function based on a cutting plane technique. We establish the theoretical results to show that this process of incremental correction and update guarantees convergence of the learned objective function to the implicit one. The method is validated by two human-robot games, where human players teach a 2-link robot arm and a 6-DoF quadrotor system for motion planning in environments with obstacles, and also on a real  quadrotor system in a user study.</p>
 
-<div class="row">
+<!-- <div class="row">
     <div class="col-sm mt-2 mt-md-0">
-        <iframe width="360" height="202" src="https://www.youtube.com/embed/sXXwBNZ9oP4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+        <iframe width="360" height="202" src="https://www.youtube.com/embed/sXXwBNZ9oP4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <div class="caption">
             Quadrotor learns from human's directional corrections in Environment 1.
         </div>
     </div>
     <div class="col-sm mt-2 mt-md-0">
-        <iframe width="360" height="202" src="https://www.youtube.com/embed/6fP6uIAWxgs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+        <iframe width="360" height="202" src="https://www.youtube.com/embed/6fP6uIAWxgs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           <div class="caption">
             Quadrotor learns from human's directional corrections in Environment 2.
         </div>
+    </div>
+</div>
+ -->
+
+<div class="row">
+      <div class="col-sm mt-3 mt-md-0">
+    </div>
+      <div class="col-sm mt-3 mt-md-0">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kBkEiLH9llI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+        <div class="caption">
+A drone learns from human's directional corrections.
+      </div>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
     </div>
 </div>
 
