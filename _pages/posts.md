@@ -9,65 +9,13 @@ horizontal: true
 
 #### Table of Contents
 
-- [Safe Pontryagin Differentiable Programming](#SafePDP)
 - [Learning from Human Directional Corrections](#LFDC)
+- [Safe Pontryagin Differentiable Programming](#SafePDP)
 - [Learning from Sparse Demonstrations](#LFSD)
 - [Pontryagin Differentiable Programming: An End-to-End Learning and Control Framework](#PDP)
 
 
-<a name="SafePDP"></a> 
 
-<br /> 
-<br /> 
-
-
-#### [Safe Pontryagin Differentiable Programming](https://arxiv.org/abs/2105.14937){:target="_blank"}
-
-<p style="margin-bottom:0.8cm; margin-left: 0.5cm"> </p>
-
-<img src="{{ '/collections/figures/SafePDP.png' | relative_url }}" alt="Kitten" align="left" title="SafePDP" width="250" hspace=20  />
-
-
-We propose a Safe Pontryagin Differentiable Programming (Safe PDP) methodology, which establishes a theoretical and algorithmic framework to solve a broad class of safety-critical learning and control tasks -- problems that require the guarantee of safety constraint satisfaction at any stage of the learning and control progress. In the spirit of interior-point methods, Safe PDP handles different types of system constraints on states and inputs by incorporating them into the cost or loss through barrier functions. We prove three fundamentals of the proposed Safe PDP: first, both the solution and its gradient in the backward pass can be approximated by solving their more efficient unconstrained counterparts; second, the approximation for both the solution and its gradient can be controlled for arbitrary accuracy by a barrier parameter; and third, importantly, all intermediate results throughout the approximation and optimization strictly respect the constraints, thus guaranteeing safety throughout the entire learning and control process. We demonstrate the capabilities of Safe PDP in solving various safety-critical tasks, including safe policy optimization, safe motion planning, and learning MPCs from demonstrations, on different challenging systems such as 6-DoF maneuvering quadrotor and 6-DoF rocket powered landing.
-
-
-<div class="row">
-    <div class="col-sm mt-2 mt-md-0">
-        <iframe width="360" height="202" src="https://www.youtube.com/embed/sC81qc2ip8U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        <div class="caption">
-            Safe PDP for safe neural policy optimization.
-        </div>
-    </div>
-    <div class="col-sm mt-2 mt-md-0">
-          <iframe width="360" height="202" src="https://www.youtube.com/embed/vZVxgo30mDs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-          <div class="caption">
-            Safe PDP for safe motion planning.
-        </div>
-    </div>
-</div>
-
-
-<div class="row">
-      <div class="col-sm mt-3 mt-md-0">
-    </div>
-      <div class="col-sm mt-3 mt-md-0">
-        <iframe width="360" height="202" src="https://www.youtube.com/embed/OBiLYYlWi98" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        <div class="caption">
-          Safe PDP for learning MPCs (i.e., jointly learning dynamics,  constraints, and control cost) from demonstrations.
-      </div>
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-    </div>
-</div>
-
-
-
-Safe-PDP Package (in Python): [https://github.com/wanxinjin/Safe-PDP](https://github.com/wanxinjin/Safe-PDP){:target="_blank"}<br />
-Safe-PDP Paper: [https://arxiv.org/abs/2105.14937](https://arxiv.org/abs/2105.14937){:target="_blank"}<br />
-
-<br /> 
-
-----
 
 
 <a name="LFDC"></a> 
@@ -141,6 +89,63 @@ Codes (in Python): [https://github.com/wanxinjin/Learning-from-Directional-Corre
 Paper: [https://arxiv.org/abs/2011.15014](https://arxiv.org/abs/2011.15014){:target="_blank"}<br />
 
 <br /> 
+
+----
+
+
+<a name="SafePDP"></a> 
+
+<br /> 
+<br /> 
+
+
+#### [Safe Pontryagin Differentiable Programming](https://arxiv.org/abs/2105.14937){:target="_blank"}
+
+<p style="margin-bottom:0.8cm; margin-left: 0.5cm"> </p>
+
+<img src="{{ '/collections/figures/SafePDP.png' | relative_url }}" alt="Kitten" align="left" title="SafePDP" width="250" hspace=20  />
+
+
+We propose a Safe Pontryagin Differentiable Programming (Safe PDP) methodology, which establishes a theoretical and algorithmic framework to solve a broad class of safety-critical learning and control tasks -- problems that require the guarantee of safety constraint satisfaction at any stage of the learning and control progress. In the spirit of interior-point methods, Safe PDP handles different types of system constraints on states and inputs by incorporating them into the cost or loss through barrier functions. We prove three fundamentals of the proposed Safe PDP: first, both the solution and its gradient in the backward pass can be approximated by solving their more efficient unconstrained counterparts; second, the approximation for both the solution and its gradient can be controlled for arbitrary accuracy by a barrier parameter; and third, importantly, all intermediate results throughout the approximation and optimization strictly respect the constraints, thus guaranteeing safety throughout the entire learning and control process. We demonstrate the capabilities of Safe PDP in solving various safety-critical tasks, including safe policy optimization, safe motion planning, and learning MPCs from demonstrations, on different challenging systems such as 6-DoF maneuvering quadrotor and 6-DoF rocket powered landing.
+
+
+<div class="row">
+    <div class="col-sm mt-2 mt-md-0">
+        <iframe width="360" height="202" src="https://www.youtube.com/embed/sC81qc2ip8U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <div class="caption">
+            Safe PDP for safe neural policy optimization.
+        </div>
+    </div>
+    <div class="col-sm mt-2 mt-md-0">
+          <iframe width="360" height="202" src="https://www.youtube.com/embed/vZVxgo30mDs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <div class="caption">
+            Safe PDP for safe motion planning.
+        </div>
+    </div>
+</div>
+
+
+<div class="row">
+      <div class="col-sm mt-3 mt-md-0">
+    </div>
+      <div class="col-sm mt-3 mt-md-0">
+        <iframe width="360" height="202" src="https://www.youtube.com/embed/OBiLYYlWi98" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <div class="caption">
+          Safe PDP for learning MPCs (i.e., jointly learning dynamics,  constraints, and control cost) from demonstrations.
+      </div>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+    </div>
+</div>
+
+
+
+Safe-PDP Package (in Python): [https://github.com/wanxinjin/Safe-PDP](https://github.com/wanxinjin/Safe-PDP){:target="_blank"}<br />
+Safe-PDP Paper: [https://arxiv.org/abs/2105.14937](https://arxiv.org/abs/2105.14937){:target="_blank"}<br />
+
+<br /> 
+
+
 
 ----
 
