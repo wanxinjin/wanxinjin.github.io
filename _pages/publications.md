@@ -15,7 +15,7 @@ nav: true
 1.   <b>Wanxin Jin</b>, Todd D Murphey, and Shaoshuai Mou. 
 [<b>Learning from Human Directional Corrections</b>](https://arxiv.org/abs/2011.15014){:target="\_blank"}.
 Submitted to _IEEE Transactions on Robotics (T-RO)_, under review.
-[[Arxiv]](https://arxiv.org/abs/2011.15014){:target="_blank"} 
+[[PDF]](https://arxiv.org/abs/2011.15014){:target="_blank"} 
 [[Code]](https://github.com/wanxinjin/Learning-from-Directional-Corrections){:target="_blank"} 
 [[Videos]](../videos#LFDC){:target="_blank"}
 
