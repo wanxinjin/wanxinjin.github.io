@@ -79,7 +79,7 @@ the complementary benefits of these three disciplines to develop new theories, m
 
 <p style="margin-bottom:500; margin-left: -1.0cm"> </p>
 
-<img src="collections/figures/lam_5.gif" alt="Kitten" title="SafePDP" width="160"  align="left" hspace="25" vspace=0 />
+<img src="collections/figures/learn_lcs.gif" alt="Kitten" title="SafePDP" width="160"  align="left" hspace="25" vspace=0 />
 <p style="margin-bottom:0.8cm; margin-left: 0.5cm"> </p>
 **Learning Linear Complementarity Systems** <br />
 <b>Wanxin Jin</b>, Alp Aydinoglu, Mathew Halm, and Michael Posa<br />

@@ -1,4 +1,4 @@
-I"zJ<p>I am a postdoctoral researcher in the <a href="https://www.grasp.upenn.edu/" target="_blank">GRASP Laboratory</a> at <a href="https://www.upenn.edu/" target="_blank">University of Pennsylvania</a>, working with <a href="https://dair.seas.upenn.edu/" target="_blank">Prof. Michael Posa</a>.</p>
+I"¼J<p>I am a postdoctoral researcher in the <a href="https://www.grasp.upenn.edu/" target="_blank">GRASP Laboratory</a> at <a href="https://www.upenn.edu/" target="_blank">University of Pennsylvania</a>, working with <a href="https://dair.seas.upenn.edu/" target="_blank">Prof. Michael Posa</a>.</p>
 
 <p>I obtained my Ph.D. in the area of Autonomy and Control in the <a href="https://engineering.purdue.edu/AAE" target="_blank">School of Aeronautics and Astronautics</a>, <a href="https://www.purdue.edu/" target="_blank">Purdue University</a> in July 2021. Prior to Purdue,  I worked as a research assistant  at <a href="https://www.tum.de/en/" target="_blank">Technical University of Munich</a>, Germany. I  obtained my   Master and Bachelor degrees in Control Science and Engineering from <a href="http://en.hit.edu.cn/" target="_blank">Harbin Institute of Technology</a>, China.</p>
 
@@ -54,12 +54,13 @@ the complementary benefits of these three disciplines to develop new theories, m
 
 <h3 id="selected-publications--submissions">Selected Publications &amp; Submissions</h3>
 
-<p style="margin-bottom:100; margin-left: -1.0cm"> </p>
+<p style="margin-bottom:500; margin-left: -1.0cm"> </p>
 
-<p><img src="collections/figures/lam_5.gif" alt="Kitten" title="SafePDP" width="120" align="left" hspace="30" vspace="10" />
-<strong>Learning Linear Complementarity Systems</strong> <br />
+<p><img src="collections/figures/learn_lcs.gif" alt="Kitten" title="SafePDP" width="160" align="left" hspace="25" vspace="0" /></p>
+<p style="margin-bottom:0.8cm; margin-left: 0.5cm"> </p>
+<p><strong>Learning Linear Complementarity Systems</strong> <br />
 <b>Wanxin Jin</b>, Alp Aydinoglu, Mathew Halm, and Michael Posa<br />
-<em>Arixv, 2021,</em> <br />
+<em>Arixv</em>, 2021 <br />
 <a href="https://arxiv.org/abs/2112.13284" target="_blank">[PDF]</a> / 
 <a href="" target="_blank">[Code]</a></p>
 
