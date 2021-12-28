@@ -197,7 +197,7 @@
 <hr />
 
 <h3 id="research-interests">Research Interests</h3>
-<p>My research lies at the intersection of   control, machine learning, and optimization, with  motivations stemming from  fundamental and pressing challenges in   robot and human-robot autonomy.</p>
+<p>My research lies at the intersection of control, machine learning, and optimization, with emphasis on addressing the fundamental and pressing challenges in autonomous systems and human-robot systems.</p>
 
 <body>
   <div style="width: 100%;">
@@ -206,9 +206,9 @@
       </div>
       <div style="margin-left: 18%; height: 100px; background: transparent;"> 
           <ul>
-            <li>Differentiable control  and learning,  Safe learning and control</li>
-            <li>(Inverse) optimal control, (Inverse) reinforcement learning </li> 
-            <li>Differential games, Robust control, Adversarial learning</li>
+            <li>Differentiable control  and learning,  Safe learning and control,</li>
+            <li>(Inverse) optimal control, (Inverse) reinforcement learning, </li> 
+            <li> Hybrid control system, Robust control, Adversarial learning</li>
         </ul>
       </div>
   </div>
@@ -221,14 +221,15 @@
       </div>
       <div style="margin-left: 18%; height: 100px; background: transparent;"> 
           <ul>
-            <li>Robot learning with human-on-the-loop, Human-robot collaboration</li>
-            <li>Learning from demonstrations, Contact-rich robot manipulations</li> 
-            <li>Motion and task planning, Computation of cognition &amp; motor control</li>
+            <li>Learning with human-on-the-loop, Human-robot teaming, </li>
+            <li>Contact-rich robot manipulations, Learning from demonstrations, </li> 
+            <li>Computation of cognition &amp; motor control, Task and motion planning </li>
         </ul>
       </div>
   </div>
 </body>
-<p>My long-term goal  is to bring together the complementary benefits of the   three areas to develop new theories, methods, and systems that provision  efficiency,  safety, robustness,  long-duration adaptability  and can be effortlessly deployed onto   real-world robots and human-robot systems.</p>
+<p>My goal is to integrate
+the complementary benefits of these three disciplines to develop new theories, methods, and systems that provision efficiency, reliablity, and interactive intelligence for next-generation autonomous systems and human-robot systems.</p>
 
 <p style="margin-bottom:0.8cm; margin-left: 0.5cm"> </p>
 
@@ -236,12 +237,29 @@
 
 <h3 id="selected-publications--submissions">Selected Publications &amp; Submissions</h3>
 
-<p style="margin-bottom:100; margin-left: -1.0cm"> </p>
+<p style="margin-bottom:500; margin-left: -1.0cm"> </p>
+
+<p><img src="collections/figures/lam_5.gif" alt="Kitten" title="SafePDP" width="160" align="left" hspace="25" vspace="0" /></p>
+<p style="margin-bottom:0.8cm; margin-left: 0.5cm"> </p>
+<p><strong>Learning Linear Complementarity Systems</strong> <br />
+<b>Wanxin Jin</b>, Alp Aydinoglu, Mathew Halm, and Michael Posa<br />
+<em>Arixv</em>, 2021 <br />
+<a href="https://arxiv.org/abs/2112.13284" target="_blank">[PDF]</a> / 
+<a href="" target="_blank">[Code]</a></p>
+
+<p style="margin-bottom:-0.4cm; margin-left: 0.5cm"> </p>
+
+<details>
+  <summary>Abstract </summary>
+This paper investigates the learning, or system identification, of a class of piecewise-affine dynamical systems known as linear complementarity systems (LCSs). We propose a violation-based loss which enables efficient learning of the LCS parameterization, without prior knowledge of the hybrid mode boundaries, using gradient-based methods. The proposed violation-based loss incorporates both dynamics prediction loss and a novel complementarity - violation loss. We show several properties attained by this loss formulation, including its differentiability, the efficient computation of first- and second-order derivatives, and its relationship to the traditional prediction loss, which strictly enforces complementarity. We apply this violation-based loss formulation to learn LCSs with tens of thousands of (potentially stiff) hybrid modes. The results demonstrate a state-of-the-art ability to identify piecewise-affine dynamics, outperforming methods which must differentiate through non-smooth linear complementarity problems.
+</details>
+
+<p style="margin-bottom:1.0cm; margin-left: 0.5cm"> </p>
 
 <p><img src="collections/figures/SafePDP.png" alt="Kitten" title="SafePDP" width="150" align="left" hspace="30" vspace="10" />
 <strong>Safe Pontryagin Differentiable Programming</strong> <br />
 <b>Wanxin Jin</b>, Shaoshuai Mou, and George J. Pappas<br />
-<em>Advances in Neural Information Processing Systems (NeurIPS), 2021,</em> <br />
+<em>Advances in Neural Information Processing Systems (NeurIPS)</em>, 2021<br />
 <a href="https://arxiv.org/abs/2105.14937" target="_blank">[PDF]</a> / 
 <a href="https://github.com/wanxinjin/Safe-PDP" target="_blank">[Code]</a> / 
 <a href="videos#SafePDP" target="_blank">[Videos]</a></p>
@@ -258,7 +276,7 @@ We propose a Safe Pontryagin Differentiable Programming (Safe PDP) methodology, 
 <p><img src="collections/figures/lfc_v.gif" alt="Kitten" title="lfc" width="150" align="left" hspace="30" vspace="10" />
 <strong>Learning from Human Directional Corrections</strong> <br />
 <b>Wanxin Jin</b>, Todd D Murphey, and Shaoshuai Mou<br />
-Submitted to <em>IEEE Transactions on Robotics (T-RO),</em>    Under review <br />
+Submitted to <em>IEEE Transactions on Robotics (T-RO)</em>,    Under review <br />
 <a href="https://arxiv.org/abs/2011.15014" target="_blank">[PDF]</a> /
 <a href="https://github.com/wanxinjin/Learning-from-Directional-Corrections" target="_blank">[Code]</a> /
 <a href="videos#LFDC" target="_blank">[Videos]</a></p>
@@ -294,7 +312,7 @@ state-of-the-art robot interactive learning schemes.
 <p><img src="collections/figures/lfd.png" alt="Kitten" title="SafePDP" width="150" align="left" hspace="30" vspace="10" />
 <strong>Learning from Sparse Demonstrations</strong> <br />
 <b>Wanxin Jin</b>, Todd D Murphey, Dana Kulic, Neta Ezer, and Shaoshuai Mou<br />
-Submitted to <em>IEEE Transactions on Robotics (T-RO),</em>   Conditionally Accepted<br />
+Submitted to <em>IEEE Transactions on Robotics (T-RO)</em>,   Conditionally Accepted<br />
 <a href="https://arxiv.org/abs/2008.02159" target="_blank">[PDF]</a>/
 <a href="https://github.com/wanxinjin/Learning-from-Sparse-Demonstrations" target="_blank">[Code]</a> /
 <a href="videos#LFSD" target="_blank">[Videos]</a></p>
@@ -310,7 +328,7 @@ This paper proposes an approach which enables a robot to learn an objective func
 <p><img src="collections/figures/PDP.png" alt="Kitten" title="SafePDP" width="150" align="left" hspace="30" vspace="20" />
 <strong>Pontryagin Differentiable Programming: An End-to-End Learning and Control Framework</strong> <br />
 <b>Wanxin Jin</b>, Zhaoran Wang, Zhuoran Yang, and Shaoshuai Mou<br />
-<em>Advances in Neural Information Processing Systems (NeurIPS),  2020</em> <br />
+<em>Advances in Neural Information Processing Systems (NeurIPS),</em>  2020 <br />
 <a href="https://papers.nips.cc/paper/2020/file/5a7b238ba0f6502e5d6be14424b20ded-Paper.pdf" target="_blank">[PDF]</a> /
 <a href="https://github.com/wanxinjin/Pontryagin-Differentiable-Programming" target="_blank">[Code]</a> /
 <a href="videos#PDP" target="_blank">[Videos]</a></p>
@@ -339,8 +357,8 @@ robot arm, 6-DoF maneuvering quadrotor, and 6-DoF rocket powered landing.
 <p><img src="collections/figures/ioc_incomplete.png" alt="Kitten" title="SafePDP" width="150" align="left" hspace="30" vspace="30" />
 <strong>Inverse Optimal Control from Incomplete Trajectory Observations</strong> <br />
 <b>Wanxin Jin</b>,  Dana Kulic, Shaoshuai Mou, and Sandra Hirche <br />
-<em>The International Journal of Robotics Research (IJRR), 40(6-7):848–865,
-2021</em> <br />
+<em>The International Journal of Robotics Research (IJRR),</em> 40(6-7):848–865,
+2021 <br />
 <a href="https://journals.sagepub.com/doi/full/10.1177/0278364921996384" target="_blank">[PDF]</a> /
 <a href="https://github.com/wanxinjin/IOC-from-Incomplete-Trajectory-Observations" target="_blank">[Code]</a></p>
 
@@ -355,7 +373,7 @@ This article develops a methodology that enables learning an objective function 
 <p><img src="collections/figures/DIOC.png" alt="Kitten" title="SafePDP" width="150" align="left" hspace="30" vspace="30" />
 <strong>Distributed Inverse Optimal Control</strong> <br />
 <b>Wanxin Jin</b> and Shaoshuai Mou <br />
-<em>Automatica, Volume 129, 2021</em> <br />
+<em>Automatica</em>, Volume 129, 2021 <br />
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0005109821001783" target="_blank">[PDF]</a> /
 <a href="https://github.com/ZihaoLiang/Inverse-Optimal-Control-from-Demonstration-Segments" target="_blank">[Code]</a></p>
 
@@ -370,8 +388,8 @@ This paper develops a distributed approach for inverse optimal control (IOC) in 
 <p><img src="collections/figures/ioc_multiphase.png" alt="Kitten" title="SafePDP" width="150" align="left" hspace="30" vspace="10" />
 <strong>Inverse Optimal Control for Multiphase cost functions</strong> <br />
 <b>Wanxin Jin</b>, Dana Kulic, Jonathan  Lin, Shaoshuai Mou, and Sandra Hirche <br />
-<em>IEEE Transactions on Robotics (T-RO), 35(6):1387–1398,
-2019</em> <br />
+<em>IEEE Transactions on Robotics (T-RO)</em>, 35(6):1387–1398,
+2019 <br />
 <a href="https://ieeexplore.ieee.org/document/8778698" target="_blank">[PDF]</a> / 
 <a href="https://github.com/adaptivesystemslab/ioc" target="_blank">[Code]</a></p>
 
@@ -428,7 +446,7 @@ In this paper, we consider a dynamical system whose trajectory is a result of mi
 
     
     
-    Last updated: November 30, 2021.
+    Last updated: December 28, 2021.
     
   </div>
 </footer>

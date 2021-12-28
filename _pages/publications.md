@@ -94,23 +94,39 @@ In _AIAA/IEEE 40th Digital Avionics Systems Conference (DASC)_ , 2021. 🔥 **Be
 
 ### Preprints
 
-11. Guo Ye, Qinjie Lin, Tim Tsz-Kit Lau, <b>Wanxin Jin</b>, Cheng Zhou, Haozheng LUO, Zhuoran Yang,
-Zhaoran Wang, and Han Liu. 
-<b>Roblax: A Differentiable Robotics Framework for Physics Augmented Reinforcement Learning</b>. 
-Submitted to _The International Conference on Learning Representations (ICLR)_,   2022, [PDF coming soon]
-
-12. <b>Wanxin Jin</b>, Zihao Liang, and Shaoshuai Mou. 
-[<b>Inverse Optimal Control from Demonstration Segments</b>](https://arxiv.org/abs/2010.15034){:target="_blank"}. 
-Submitted to _American Control Conference (ACC)_, 2022
+11. <b>Wanxin Jin</b>, Alp Aydinoglu, Mathew Halm, and Michael Posa.
+[<b>Learning Linear Complementarity Systems</b>](https://arxiv.org/abs/2112.13284){:target="_blank"}.
+Arxiv, 2021.
 
 
-13. <b>Wanxin Jin</b>, ZhaoranWang, Zhuoran Yang, and Shaoshuai Mou.
+
+
+12. <b>Wanxin Jin</b>, ZhaoranWang, Zhuoran Yang, and Shaoshuai Mou.
 [<b>Neural Certificates for Safe Control Policies</b>](https://arxiv.org/abs/2006.08465){:target="_blank"}.
 Arxiv, 2020.
 
 
- 
-14. Zhuangzhuang Ma, Yaoxian Song, Yunlin Zhang, <b>Wanxin Jin</b>, Jinliang Shao, and Qingchen Liu. 
+
+
+
+
+
+
+
+
+13. Guo Ye, Qinjie Lin, Tim Tsz-Kit Lau, <b>Wanxin Jin</b>, Cheng Zhou, Haozheng LUO, Zhuoran Yang,
+Zhaoran Wang, and Han Liu. 
+<b>Roblax: A Differentiable Robotics Framework for Physics Augmented Reinforcement Learning</b>. 
+Submitted to _The International Conference on Learning Representations (ICLR)_,   2022, [PDF coming soon]
+
+14. <b>Wanxin Jin</b>, Zihao Liang, and Shaoshuai Mou. 
+[<b>Inverse Optimal Control from Demonstration Segments</b>](https://arxiv.org/abs/2010.15034){:target="_blank"}. 
+Submitted to _American Control Conference (ACC)_, 2022
+
+
+
+
+15. Zhuangzhuang Ma, Yaoxian Song, Yunlin Zhang, <b>Wanxin Jin</b>, Jinliang Shao, and Qingchen Liu. 
 <b>Distributed and Constrained Coverage Control of Unicycle Robots using Bilevel Programming</b>.
 Submitted to _IEEE International Conference on Robotics and Automation (ICRA)_, 2022
 
