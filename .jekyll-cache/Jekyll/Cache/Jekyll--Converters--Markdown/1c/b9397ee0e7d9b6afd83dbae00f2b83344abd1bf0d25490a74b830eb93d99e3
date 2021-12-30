@@ -1,11 +1,11 @@
-I"‘<h3 id="journal">Journal</h3>
+I"Û<h3 id="journal">Journal</h3>
 
 <ol>
   <li>
     <p><b>Wanxin Jin</b>, Todd D Murphey, and Shaoshuai Mou. 
 <a href="https://arxiv.org/abs/2011.15014" target="\_blank"><b>Learning from Human Directional Corrections</b></a>.
 Submitted to <em>IEEE Transactions on Robotics (T-RO)</em>, under review.
-<a href="https://arxiv.org/abs/2011.15014" target="_blank">[Arxiv]</a> 
+<a href="https://arxiv.org/abs/2011.15014" target="_blank">[PDF]</a> 
 <a href="https://github.com/wanxinjin/Learning-from-Directional-Corrections" target="_blank">[Code]</a> 
 <a href="../videos#LFDC" target="_blank">[Videos]</a></p>
   </li>
@@ -74,9 +74,14 @@ In <em>Advances in Neural Information Processing Systems (NeurIPS)</em>, 2021.
   </li>
   <li>
     <p>Sooyung Byeon, <b>Wanxin Jin</b>, Dawei Sun, and Inseok Hwang. 
-<b>Human-Automation Interaction for Assisting Novices to Emulate Experts by Inferring Task Objective Functions</b>. 
+<a href="https://ieeexplore.ieee.org/document/9594324" target="\_blank"><b>Human-Automation Interaction for Assisting Novices to Emulate Experts by Inferring Task Objective Functions</b></a>. 
 In <em>AIAA/IEEE 40th Digital Avionics Systems Conference (DASC)</em> , 2021. ðŸ”¥ <strong>Best Student Paper Finalist</strong> 
 <a href="https://ieeexplore.ieee.org/document/9594324" target="_blank">[PDF]</a></p>
+  </li>
+  <li>
+    <p><b>Wanxin Jin</b>, Alp Aydinoglu, Mathew Halm, and Michael Posa.
+<a href="https://arxiv.org/abs/2112.13284" target="_blank"><b>Learning Linear Complementarity Systems</b></a>.
+Arxiv, 2021.</p>
   </li>
 </ol>
 
@@ -85,11 +90,6 @@ In <em>AIAA/IEEE 40th Digital Avionics Systems Conference (DASC)</em> , 2021. ðŸ
 <h3 id="preprints">Preprints</h3>
 
 <ol>
-  <li>
-    <p><b>Wanxin Jin</b>, Alp Aydinoglu, Mathew Halm, and Michael Posa.
-<a href="https://arxiv.org/abs/2112.13284" target="_blank"><b>Learning Linear Complementarity Systems</b></a>.
-Arxiv, 2021.</p>
-  </li>
   <li>
     <p><b>Wanxin Jin</b>, ZhaoranWang, Zhuoran Yang, and Shaoshuai Mou.
 <a href="https://arxiv.org/abs/2006.08465" target="_blank"><b>Neural Certificates for Safe Control Policies</b></a>.

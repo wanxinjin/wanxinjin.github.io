@@ -85,18 +85,24 @@ In _Advances in Neural Information Processing Systems (NeurIPS)_, 2021.
 
 
 10. Sooyung Byeon, <b>Wanxin Jin</b>, Dawei Sun, and Inseok Hwang. 
-<b>Human-Automation Interaction for Assisting Novices to Emulate Experts by Inferring Task Objective Functions</b>. 
+[<b>Human-Automation Interaction for Assisting Novices to Emulate Experts by Inferring Task Objective Functions</b>](https://ieeexplore.ieee.org/document/9594324){:target="\_blank"}. 
 In _AIAA/IEEE 40th Digital Avionics Systems Conference (DASC)_ , 2021. 🔥 **Best Student Paper Finalist** 
 [[PDF]](https://ieeexplore.ieee.org/document/9594324){:target="_blank"} 
+
+
+
+11. <b>Wanxin Jin</b>, Alp Aydinoglu, Mathew Halm, and Michael Posa.
+[<b>Learning Linear Complementarity Systems</b>](https://arxiv.org/abs/2112.13284){:target="_blank"}.
+Submitted to _Annual Learning for Dynamics & Control Conference_, 2022.
+[[PDF]](https://arxiv.org/abs/2112.13284){:target="_blank"} 
+[[Code]](https://github.com/DAIRLab/Learning-LCS){:target="_blank"} 
 
 
 <p style="margin-bottom:1.0cm; margin-left: 0.5cm"> </p>
 
 ### Preprints
 
-11. <b>Wanxin Jin</b>, Alp Aydinoglu, Mathew Halm, and Michael Posa.
-[<b>Learning Linear Complementarity Systems</b>](https://arxiv.org/abs/2112.13284){:target="_blank"}.
-Arxiv, 2021.
+
 
 
 
