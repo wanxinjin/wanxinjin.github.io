@@ -224,7 +224,7 @@ state-of-the-art robot interactive learning schemes.</p>
       <div class="col-sm mt-3 mt-md-0">
     </div>
       <div class="col-sm mt-3 mt-md-0">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kBkEiLH9llI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="700" height="394" src="https://www.youtube.com/embed/6XavhnE2q1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
         <div class="caption">
 A drone learns from human's directional corrections.
       </div>
@@ -297,9 +297,39 @@ Safe-PDP Paper: <a href="https://arxiv.org/abs/2105.14937" target="_blank">https
 
 <p style="margin-bottom:0.8cm; margin-left: 0.5cm"> </p>
 
-<p><img src="/collections/figures/lfd.png" alt="Kitten" align="left" title="SafePDP" width="250" hspace="20" /></p>
+<p><img src="/collections/figures/lfsd_viode_pic.png" alt="Kitten" align="left" title="SafePDP" width="350" hspace="20" /></p>
 
-<p>This paper develops a Continuous Pontryagin Differentiable Programming method which enables a robot to learn its control objective function from sparse demonstrations. The demonstrations are given as a small number of sparse waypoints;  the waypoints are desired outputs of robot trajectory at certain time instances, sparsely located in a time horizon. The speed of demonstration may be different from the actual execution of robot. The Continuous PDP simultaneously searches for a control objective function and a time-warping function such that the robot reproduced trajectory has the minimal discrepancy loss from the sparse demonstrations. The search process is based on the projected gradient descent on the discrepancy loss, and the key proposed technique is the Differential Pontryagin’s Maximum Principle, which allows to efficiently compute the analytical gradient of a trajectory of a continuous-time optimal control system with respect to system parameters.  We have evaluated different aspects of the proposed Continuous PDP  on a simulated two-link robot arm. We apply the method to learn motion planning of a 6-DoF maneuvering quadrotor in environments with obstacles.</p>
+<p>This paper develops the Continuous Pontryagin Differentiable Programming
+(Continuous PDP) method that enables a robot to learn a control utility
+function from a few number of sparsely demonstrated keyframes. The keyframes
+are few desired sequential outputs that a robot is wanted to follow at certain
+time instances. The duration of the keyframes may be different from that of the
+robot actual execution. The method jointly searches for a robot control utility
+function and a time-warping function such that the robot motion sequentially
+follows the given keyframes with minimal discrepancy loss. Continuous PDP
+minimizes the discrepancy loss using projected gradient descent, by efficiently
+solving the gradient of robot motion with respect to the unknown parameters.
+The method is first evaluated on a simulated two-link robot arm, and then
+applied to a 6-DoF maneuvering quadrotor to learn a utility function from
+keyframes for its motion planning in un-modeled environments with obstacles.
+The results show the efficiency of the method, its ability to handle time
+misalignment between keyframes and robot execution, and the generalization of
+the learned utility function into unseen motion conditions.</p>
+
+<div class="row">
+      <div class="col-sm mt-3 mt-md-0">
+    </div>
+      <div class="col-sm mt-3 mt-md-0">
+<iframe width="700" height="394" src="https://www.youtube.com/embed/BYAsqMxW5Z4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+        <div class="caption">
+A drone learns from human's directional corrections.
+      </div>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+    </div>
+</div>
+
+<p style="margin-bottom:0.4cm; margin-left: 0.5cm"> </p>
 
 <div class="row">
     <div class="col-sm mt-2 mt-md-0">
@@ -371,12 +401,12 @@ PDP Paper: <a href="https://papers.nips.cc/paper/2020/file/5a7b238ba0f6502e5d6be
     
 <footer class="fixed-bottom">
   <div class="container mt-0">
-    &copy; Copyright 2021   Wanxin Jin.
+    &copy; Copyright 2022   Wanxin Jin.
     Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 
     
     
-    Last updated: December 30, 2021.
+    Last updated: January 24, 2022.
     
   </div>
 </footer>

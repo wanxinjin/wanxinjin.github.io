@@ -72,7 +72,7 @@ state-of-the-art robot interactive learning schemes.
       <div class="col-sm mt-3 mt-md-0">
     </div>
       <div class="col-sm mt-3 mt-md-0">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kBkEiLH9llI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="700" height="394" src="https://www.youtube.com/embed/6XavhnE2q1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <div class="caption">
 A drone learns from human's directional corrections.
       </div>
@@ -80,6 +80,8 @@ A drone learns from human's directional corrections.
     <div class="col-sm mt-3 mt-md-0">
     </div>
 </div>
+
+
 
 
 
@@ -164,9 +166,42 @@ Safe-PDP Paper: [https://arxiv.org/abs/2105.14937](https://arxiv.org/abs/2105.14
 
 
 
-<img src="{{ '/collections/figures/lfd.png' | relative_url }}" alt="Kitten" align="left" title="SafePDP" width="250" hspace=20  />
+<img src="{{ '/collections/figures/lfsd_viode_pic.png' | relative_url }}" alt="Kitten" align="left" title="SafePDP" width="350" hspace=20  />
 
-This paper develops a Continuous Pontryagin Differentiable Programming method which enables a robot to learn its control objective function from sparse demonstrations. The demonstrations are given as a small number of sparse waypoints;  the waypoints are desired outputs of robot trajectory at certain time instances, sparsely located in a time horizon. The speed of demonstration may be different from the actual execution of robot. The Continuous PDP simultaneously searches for a control objective function and a time-warping function such that the robot reproduced trajectory has the minimal discrepancy loss from the sparse demonstrations. The search process is based on the projected gradient descent on the discrepancy loss, and the key proposed technique is the Differential Pontryagin's Maximum Principle, which allows to efficiently compute the analytical gradient of a trajectory of a continuous-time optimal control system with respect to system parameters.  We have evaluated different aspects of the proposed Continuous PDP  on a simulated two-link robot arm. We apply the method to learn motion planning of a 6-DoF maneuvering quadrotor in environments with obstacles.
+ This paper develops the Continuous Pontryagin Differentiable Programming
+(Continuous PDP) method that enables a robot to learn a control utility
+function from a few number of sparsely demonstrated keyframes. The keyframes
+are few desired sequential outputs that a robot is wanted to follow at certain
+time instances. The duration of the keyframes may be different from that of the
+robot actual execution. The method jointly searches for a robot control utility
+function and a time-warping function such that the robot motion sequentially
+follows the given keyframes with minimal discrepancy loss. Continuous PDP
+minimizes the discrepancy loss using projected gradient descent, by efficiently
+solving the gradient of robot motion with respect to the unknown parameters.
+The method is first evaluated on a simulated two-link robot arm, and then
+applied to a 6-DoF maneuvering quadrotor to learn a utility function from
+keyframes for its motion planning in un-modeled environments with obstacles.
+The results show the efficiency of the method, its ability to handle time
+misalignment between keyframes and robot execution, and the generalization of
+the learned utility function into unseen motion conditions.
+
+
+<div class="row">
+      <div class="col-sm mt-3 mt-md-0">
+    </div>
+      <div class="col-sm mt-3 mt-md-0">
+<iframe width="700" height="394" src="https://www.youtube.com/embed/BYAsqMxW5Z4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <div class="caption">
+A drone learns from human's directional corrections.
+      </div>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+    </div>
+</div>
+
+<p style="margin-bottom:0.4cm; margin-left: 0.5cm"> </p>
+
+
 
 
 <div class="row">
@@ -215,6 +250,12 @@ Paper: [https://arxiv.org/abs/2008.02159](https://arxiv.org/abs/2008.02159){:tar
 <img src="{{ '/collections/figures/PDP.png' | relative_url }}" alt="Kitten" align="left" title="SafePDP" width="250" hspace=20  />
 
 This paper develops a Pontryagin Differentiable Programming (PDP) methodology, which establishes a unified framework to solve a broad class of learning and control tasks. The PDP distinguishes from existing methods by two novel techniques: first, we differentiate through Pontryagin’s Maximum Principle, and this allows to obtain the analytical derivative of a trajectory with respect to tunable parameters within an optimal control system, enabling end-to-end learning of dynamics, policies, or/and control objective functions; and second, we propose an auxiliary control system in the backward pass of the PDP framework, and the output of this auxiliary control system is the analytical derivative of the original system’s trajectory with respect to the parameters, which can be iteratively solved using standard control tools. We investigate three learning modes of the PDP: inverse reinforcement learning, system identification, and control/planning. We demonstrate the capability of the PDP in each learning mode on different high-dimensional systems, including multi-link robot arm, 6-DoF maneuvering quadrotor, and 6-DoF rocket powered landing.
+
+
+
+
+
+
 
 
 
