@@ -123,7 +123,7 @@ We propose a Safe Pontryagin Differentiable Programming (Safe PDP) methodology, 
 
 
 
-<img src="collections/figures/lfdc1.gif" alt="Kitten" title="lfc" width="200"  align="left" hspace="30" vspace=5 />
+<img src="collections/figures/lfdc_final.gif" alt="Kitten" title="lfc" width="200"  align="left" hspace="30" vspace=5 />
 **Learning from Human Directional Corrections** <br />
 <b>Wanxin Jin</b>, Todd D Murphey, and Shaoshuai Mou<br />
 Submitted to *IEEE Transactions on Robotics (T-RO)*,    Under review <br />
@@ -193,7 +193,7 @@ robot arm, 6-DoF maneuvering quadrotor, and 6-DoF rocket powered landing.
 
 <p style="margin-bottom:1.50cm; margin-left: 0.5cm"> </p>
 
-<img src="collections/figures/lfsd_v.gif" alt="Kitten" title="SafePDP" width="200"  align="left" hspace="30" vspace=10 />
+<img src="collections/figures/lfsd_final.gif" alt="Kitten" title="SafePDP" width="200"  align="left" hspace="30" vspace=10 />
 **Learning from Sparse Demonstrations** <br />
 <b>Wanxin Jin</b>, Todd D Murphey, Dana Kulic, Neta Ezer, and Shaoshuai Mou<br />
 Submitted to *IEEE Transactions on Robotics (T-RO)*,   Conditionally Accepted<br />
