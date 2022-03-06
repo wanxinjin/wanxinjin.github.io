@@ -74,7 +74,7 @@ the complementary benefits of these three disciplines to develop new theories, m
 -----
 
 
-### Selected Publications & Submissions
+### Selected Publications
 
 
 <p style="margin-bottom:500; margin-left: -1.0cm"> </p>
