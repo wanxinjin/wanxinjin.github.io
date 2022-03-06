@@ -14,7 +14,7 @@ nav: true
 
 1.   <b>Wanxin Jin</b>, Todd D Murphey, Zehui Lu, and Shaoshuai Mou. 
 [<b>Learning from Human Directional Corrections</b>](https://arxiv.org/abs/2011.15014){:target="\_blank"}.
-Submitted to _IEEE Transactions on Robotics (T-RO)_, under review.
+_IEEE Transactions on Robotics (T-RO)_, Conditionally Accepted, 2022
 [[PDF]](https://arxiv.org/abs/2011.15014){:target="_blank"} 
 [[Code]](https://github.com/wanxinjin/Learning-from-Directional-Corrections){:target="_blank"} 
 [[Videos]](https://youtu.be/6XavhnE2q1s){:target="_blank"}
@@ -24,7 +24,7 @@ Submitted to _IEEE Transactions on Robotics (T-RO)_, under review.
 
 2. <b>Wanxin Jin</b>,  Todd D Murphey, Dana Kulic, Neta Ezer, and Shaoshuai Mou. 
 [<b>Learning from Sparse Demonstrations</b>](https://arxiv.org/abs/2008.02159){:target="\_blank"}.
-Submitted to _IEEE Transactions on Robotics (T-RO)_, Conditionally Accepted.
+Submitted to _IEEE Transactions on Robotics (T-RO)_, Conditionally Accepted, 2022
 [[PDF]](https://arxiv.org/abs/2008.02159){:target="_blank"}
 [[Code]](https://github.com/wanxinjin/Learning-from-Sparse-Demonstrations){:target="_blank"} 
 [[Videos]](https://youtu.be/BYAsqMxW5Z4){:target="_blank"}
@@ -83,58 +83,56 @@ In _Advances in Neural Information Processing Systems (NeurIPS)_, 2021.
 [[Code]](https://github.com/wanxinjin/Pontryagin-Differentiable-Programming){:target="_blank"} 
 [[Videos]](videos#PDP){:target="_blank"}
 
+10. <b>Wanxin Jin</b>, Alp Aydinoglu, Mathew Halm, and Michael Posa.
+[<b>Learning Linear Complementarity Systems</b>](https://arxiv.org/abs/2112.13284){:target="_blank"}.
+_Annual Learning for Dynamics & Control Conference_, 2022.
+[[PDF]](https://arxiv.org/abs/2112.13284){:target="_blank"} 
+[[Code]](https://github.com/DAIRLab/Learning-LCS){:target="_blank"} 
 
-10. Sooyung Byeon, <b>Wanxin Jin</b>, Dawei Sun, and Inseok Hwang. 
+
+
+11. Sooyung Byeon, <b>Wanxin Jin</b>, Dawei Sun, and Inseok Hwang. 
 [<b>Human-Automation Interaction for Assisting Novices to Emulate Experts by Inferring Task Objective Functions</b>](https://ieeexplore.ieee.org/document/9594324){:target="\_blank"}. 
 In _AIAA/IEEE 40th Digital Avionics Systems Conference (DASC)_ , 2021. 🔥 **Best Student Paper Finalist** 
 [[PDF]](https://ieeexplore.ieee.org/document/9594324){:target="_blank"} 
 
 
 
-11. <b>Wanxin Jin</b>, Alp Aydinoglu, Mathew Halm, and Michael Posa.
-[<b>Learning Linear Complementarity Systems</b>](https://arxiv.org/abs/2112.13284){:target="_blank"}.
-Submitted to _Annual Learning for Dynamics & Control Conference_, 2022.
-[[PDF]](https://arxiv.org/abs/2112.13284){:target="_blank"} 
-[[Code]](https://github.com/DAIRLab/Learning-LCS){:target="_blank"} 
 
 
 <p style="margin-bottom:1.0cm; margin-left: 0.5cm"> </p>
 
-### Preprints
+### Submissions & Preprints 
 
 
+12. Yunxi Tang, Xiangyu Chu, <b>Wanxin Jin</b>, K. W. Samuel Au. 
+<b>HM-DDP: A Hybrid Multiple-shooting Differential Dynamic Programming Method for Constrained Trajectory Optimization</b>. 
+Submitted to _IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)_,   2022, [PDF coming soon]
 
 
+13. Guo Ye, Qinjie Lin,  <b>Wanxin Jin</b>, Zhaoran Wang, Haozheng Luo, Tim Tsz-Kit Lau, cheng zhou, Han Liu. 
+<b>RobLAX: A Differentiable Robotics Framework for Physics Augmented Reinforcement Learning</b>. 
+Submitted to _IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)_,   2022, [PDF coming soon]
 
 
-12. <b>Wanxin Jin</b>, ZhaoranWang, Zhuoran Yang, and Shaoshuai Mou.
+14. Zhuangzhuang Ma, Jimmy Sutaria, Yunlin Zhang, <b>Wanxin Jin</b>, Jinliang Shao, and Qingchen Liu. 
+<b>Distributed and Constrained Coverage Control of Unicycle Robots Using Bilevel Programming Framework</b>.
+Submitted to _IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)_,   2022, [PDF coming soon]
+
+
+15. <b>Wanxin Jin</b>, ZhaoranWang, Zhuoran Yang, and Shaoshuai Mou.
 [<b>Neural Certificates for Safe Control Policies</b>](https://arxiv.org/abs/2006.08465){:target="_blank"}.
 Arxiv, 2020.
 
 
 
-
-
-
-
-
-
-
-13. Guo Ye, Qinjie Lin, Tim Tsz-Kit Lau, <b>Wanxin Jin</b>, Cheng Zhou, Haozheng LUO, Zhuoran Yang,
-Zhaoran Wang, and Han Liu. 
-<b>Roblax: A Differentiable Robotics Framework for Physics Augmented Reinforcement Learning</b>. 
-Submitted to _The International Conference on Learning Representations (ICLR)_,   2022, [PDF coming soon]
-
-14. <b>Wanxin Jin</b>, Zihao Liang, and Shaoshuai Mou. 
+16. <b>Wanxin Jin</b>, Zihao Liang, and Shaoshuai Mou. 
 [<b>Inverse Optimal Control from Demonstration Segments</b>](https://arxiv.org/abs/2010.15034){:target="_blank"}. 
-Submitted to _American Control Conference (ACC)_, 2022
+Arxiv, 2020.
 
 
 
 
-15. Zhuangzhuang Ma, Yaoxian Song, Yunlin Zhang, <b>Wanxin Jin</b>, Jinliang Shao, and Qingchen Liu. 
-<b>Distributed and Constrained Coverage Control of Unicycle Robots using Bilevel Programming</b>.
-Submitted to _IEEE International Conference on Robotics and Automation (ICRA)_, 2022
 
 
 <p style="margin-bottom:1.0cm; margin-left: 0.5cm"> </p>

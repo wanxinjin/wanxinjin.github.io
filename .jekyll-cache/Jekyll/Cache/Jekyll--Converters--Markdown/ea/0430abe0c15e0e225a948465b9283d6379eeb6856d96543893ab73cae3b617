@@ -1,4 +1,4 @@
-I"šJ<p>I am a postdoctoral researcher in the <a href="https://www.grasp.upenn.edu/" target="_blank">GRASP Laboratory</a> at <a href="https://www.upenn.edu/" target="_blank">University of Pennsylvania</a>, working with <a href="https://dair.seas.upenn.edu/" target="_blank">Prof. Michael Posa</a>, focusing on  contact-rich manipulation.</p>
+I"¿J<p>I am a postdoctoral researcher in the <a href="https://www.grasp.upenn.edu/" target="_blank">GRASP Laboratory</a> at <a href="https://www.upenn.edu/" target="_blank">University of Pennsylvania</a>, working with <a href="https://dair.seas.upenn.edu/" target="_blank">Prof. Michael Posa</a>, focusing on  contact-rich manipulation.</p>
 
 <p>I obtained my Ph.D. in the area of Autonomy and Control in the <a href="https://engineering.purdue.edu/AAE" target="_blank">School of Aeronautics and Astronautics</a>, <a href="https://www.purdue.edu/" target="_blank">Purdue University</a> in July 2021. Prior to Purdue,  I worked as a research assistant  at <a href="https://www.tum.de/en/" target="_blank">Technical University of Munich</a>, Germany. I  obtained my   Master and Bachelor degrees in Control Science and Engineering from <a href="http://en.hit.edu.cn/" target="_blank">Harbin Institute of Technology</a>, China.</p>
 
@@ -14,7 +14,7 @@
 <hr />
 
 <h3 id="research-interests">Research Interests</h3>
-<p>My research lies at the intersection of control, machine learning, and optimization, with emphasis on addressing the fundamental and pressing challenges in autonomous systems and human-robot systems.</p>
+<p>My research lies at the intersection of control, machine learning, and optimization, with emphasis on addressing  fundamental and pressing challenges in robotics and human-robot systems.</p>
 
 <body>
   <div style="width: 100%;">
@@ -46,7 +46,7 @@
   </div>
 </body>
 <p>My goal is to integrate
-the complementary benefits of these three disciplines to develop new theories, methods, and systems that provision efficiency, reliablity, and interactive intelligence for next-generation autonomous systems and human-robot systems.</p>
+the complementary benefits of these three disciplines to develop new theories, methods, and systems that provision reliablity, efficiency,  and interactive intelligence for next-generation autonomous robots and human-robot systems.</p>
 
 <p style="margin-bottom:0.8cm; margin-left: 0.5cm"> </p>
 
@@ -60,7 +60,7 @@ the complementary benefits of these three disciplines to develop new theories, m
 <p style="margin-bottom:0.8cm; margin-left: 0.5cm"> </p>
 <p><strong>Learning Linear Complementarity Systems</strong> <br />
 <b>Wanxin Jin</b>, Alp Aydinoglu, Mathew Halm, and Michael Posa<br />
-<em>Arixv</em>, 2021 <br />
+<em>Learning for Dynamics &amp; Control Conference (L4DC)</em>, 2022 <br />
 <a href="https://arxiv.org/abs/2112.13284" target="_blank">[PDF]</a> / 
 <a href="https://github.com/wanxinjin/Learning-LCS" target="_blank">[Code]</a></p>
 
@@ -93,7 +93,7 @@ We propose a Safe Pontryagin Differentiable Programming (Safe PDP) methodology, 
 <p><img src="collections/figures/lfdc_final.gif" alt="Kitten" title="lfc" width="200" align="left" hspace="30" vspace="5" />
 <strong>Learning from Human Directional Corrections</strong> <br />
 <b>Wanxin Jin</b>, Todd D Murphey, and Shaoshuai Mou<br />
-Submitted to <em>IEEE Transactions on Robotics (T-RO)</em>,    Under review <br />
+<em>IEEE Transactions on Robotics (T-RO)</em> 2022,    Conditionally accepted <br />
 <a href="https://arxiv.org/abs/2011.15014" target="_blank">[PDF]</a> /
 <a href="https://github.com/wanxinjin/Learning-from-Directional-Corrections" target="_blank">[Code]</a> /
 <a href="https://youtu.be/6XavhnE2q1s" target="_blank">[Videos]</a></p>
