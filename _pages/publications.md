@@ -7,9 +7,9 @@ years:
 nav: true
 ---
 
-### Journal
+### Selected Journal
 
-
+<p style="margin-bottom:0.5cm; margin-left: 0.5cm"> </p>
 
 
 1.   <b>Wanxin Jin</b>, Todd D Murphey, Zehui Lu, and Shaoshuai Mou. 
@@ -63,10 +63,15 @@ _IEEE Transactions on Industrial
 Electronics (T-IE)_, 64(4):3030–3038, 2016
 
 
-
 <p style="margin-bottom:1.0cm; margin-left: 0.5cm"> </p>
 
-### Conference
+
+
+
+### Selected Conference
+
+<p style="margin-bottom:0.5cm; margin-left: 0.5cm"> </p>
+
 
 8. <b>Wanxin Jin</b>, Shaoshuai Mou, and George J. Pappas. 
 [<b>Safe Pontryagin Differentiable Programming</b>](https://arxiv.org/abs/2105.14937){:target="\_blank"}.  
@@ -85,7 +90,7 @@ In _Advances in Neural Information Processing Systems (NeurIPS)_, 2021.
 
 10. <b>Wanxin Jin</b>, Alp Aydinoglu, Mathew Halm, and Michael Posa.
 [<b>Learning Linear Complementarity Systems</b>](https://arxiv.org/abs/2112.13284){:target="_blank"}.
-_Annual Learning for Dynamics & Control Conference_, 2022.
+_Learning for Dynamics and Control (L4DC)_, 2022.
 [[PDF]](https://arxiv.org/abs/2112.13284){:target="_blank"} 
 [[Code]](https://github.com/DAIRLab/Learning-LCS){:target="_blank"} 
 
@@ -102,7 +107,29 @@ In _AIAA/IEEE 40th Digital Avionics Systems Conference (DASC)_ , 2021. 🔥 **Be
 
 <p style="margin-bottom:1.0cm; margin-left: 0.5cm"> </p>
 
+
+### Other Publications
+
+<p style="margin-bottom:0.5cm; margin-left: 0.5cm"> </p>
+
+11. Zihao Liang, <b>Wanxin Jin</b>, and Shaoshuai Mou, 
+[<b>Learning Objective Functions Incrementally by Inverse Optimal Control</b>](https://ieeexplore.ieee.org/document/9594324){:target="\_blank"}. 
+In _Asian Control Conference (ASCC)_ , 2022. 
+[[PDF]](https://arxiv.org/abs/2010.15034){:target="_blank"} 
+
+
+<p style="margin-bottom:1.0cm; margin-left: 0.5cm"> </p>
+
+
 ### Submissions & Preprints 
+
+<p style="margin-bottom:0.5cm; margin-left: 0.5cm"> </p>
+
+
+12. Zehui Lu, <b>Wanxin Jin</b>,  Shaoshuai Mou, and Brian. D. O. Anderson,
+<b>HM-DDP: A Hybrid Multiple-shooting Differential Dynamic Programming Method for Constrained Trajectory Optimization</b>. 
+Submitted to _IEEE Conference on Decision and Control (CDC)_,   2022, [PDF coming soon]
+
 
 
 12. Yunxi Tang, Xiangyu Chu, <b>Wanxin Jin</b>, K. W. Samuel Au. 
@@ -137,7 +164,7 @@ Arxiv, 2020.
 
 <p style="margin-bottom:1.0cm; margin-left: 0.5cm"> </p>
 
-### Previous Granted Patents (on Image Processing)
+### Selected Granted Patents
 1. Huijun Gao, <b>Wanxin Jin</b>, Xianqiang Yang, Jinyong Yu, Guanghui Sun, Weiyang Lin, and Zhan
 Li. 
 [<b>Multi-type BGA Chip Visual Recognition Method using Line-based-Clustering</b>](https://patents.google.com/patent/US20170193649A1/en){:target="_blank"},  2017. 
