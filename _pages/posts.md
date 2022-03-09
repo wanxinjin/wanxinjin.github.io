@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Videos
-permalink: /videos/
+title: Robots
+permalink: /Robots/
 description: 
 nav: true
 horizontal: true

@@ -165,6 +165,7 @@ Arxiv, 2020.
 <p style="margin-bottom:1.0cm; margin-left: 0.5cm"> </p>
 
 ### Selected Granted Patents
+
 <p style="margin-bottom:0.5cm; margin-left: 0.5cm"> </p>
 
 1. Huijun Gao, <b>Wanxin Jin</b>, Xianqiang Yang, Jinyong Yu, Guanghui Sun, Weiyang Lin, and Zhan

@@ -1,4 +1,4 @@
-I"þ"<h3 id="selected-journal">Selected Journal</h3>
+I"G&<h3 id="selected-journal">Selected Journal</h3>
 
 <p style="margin-bottom:0.5cm; margin-left: 0.5cm"> </p>
 
@@ -79,7 +79,7 @@ In <em>Advances in Neural Information Processing Systems (NeurIPS)</em>, 2021.
   <li>
     <p><b>Wanxin Jin</b>, Alp Aydinoglu, Mathew Halm, and Michael Posa.
 <a href="https://arxiv.org/abs/2112.13284" target="_blank"><b>Learning Linear Complementarity Systems</b></a>.
-<em>Learning for Dynamics &amp; Control (L4DC)</em>, 2022.
+<em>Learning for Dynamics and Control (L4DC)</em>, 2022.
 <a href="https://arxiv.org/abs/2112.13284" target="_blank">[PDF]</a> 
 <a href="https://github.com/DAIRLab/Learning-LCS" target="_blank">[Code]</a></p>
   </li>
@@ -93,11 +93,29 @@ In <em>AIAA/IEEE 40th Digital Avionics Systems Conference (DASC)</em> , 2021. ðŸ
 
 <p style="margin-bottom:1.0cm; margin-left: 0.5cm"> </p>
 
+<h3 id="other-publications">Other Publications</h3>
+
+<p style="margin-bottom:0.5cm; margin-left: 0.5cm"> </p>
+
+<ol>
+  <li>Zihao Liang, <b>Wanxin Jin</b>, and Shaoshuai Mou, 
+<a href="https://arxiv.org/abs/2010.15034" target="\_blank"><b>Learning Objective Functions Incrementally by Inverse Optimal Control</b></a>. 
+In <em>Asian Control Conference (ASCC)</em> , 2022. 
+<a href="https://arxiv.org/abs/2010.15034" target="_blank">[PDF]</a></li>
+</ol>
+
+<p style="margin-bottom:1.0cm; margin-left: 0.5cm"> </p>
+
 <h3 id="submissions--preprints">Submissions &amp; Preprints</h3>
 
 <p style="margin-bottom:0.5cm; margin-left: 0.5cm"> </p>
 
 <ol>
+  <li>
+    <p>Zehui Lu, <b>Wanxin Jin</b>,  Shaoshuai Mou, and Brian. D. O. Anderson,
+<b>HM-DDP: A Hybrid Multiple-shooting Differential Dynamic Programming Method for Constrained Trajectory Optimization</b>. 
+Submitted to <em>IEEE Conference on Decision and Control (CDC)</em>,   2022, [PDF coming soon]</p>
+  </li>
   <li>
     <p>Yunxi Tang, Xiangyu Chu, <b>Wanxin Jin</b>, K. W. Samuel Au. 
 <b>HM-DDP: A Hybrid Multiple-shooting Differential Dynamic Programming Method for Constrained Trajectory Optimization</b>. 
@@ -127,7 +145,10 @@ Arxiv, 2020.</p>
 
 <p style="margin-bottom:1.0cm; margin-left: 0.5cm"> </p>
 
-<h3 id="previous-granted-patents-on-image-processing">Previous Granted Patents (on Image Processing)</h3>
+<h3 id="selected-granted-patents">Selected Granted Patents</h3>
+
+<p style="margin-bottom:0.5cm; margin-left: 0.5cm"> </p>
+
 <ol>
   <li>
     <p>Huijun Gao, <b>Wanxin Jin</b>, Xianqiang Yang, Jinyong Yu, Guanghui Sun, Weiyang Lin, and Zhan
