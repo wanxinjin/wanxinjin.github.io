@@ -127,7 +127,7 @@ In _Asian Control Conference (ASCC)_ , 2022.
 
 
 12. Zehui Lu, <b>Wanxin Jin</b>,  Shaoshuai Mou, and Brian. D. O. Anderson,
-<b>HM-DDP: A Hybrid Multiple-shooting Differential Dynamic Programming Method for Constrained Trajectory Optimization</b>. 
+<b>Cooperative Tuning of Multi-Agent Optimal Control Systems</b>. 
 Submitted to _IEEE Conference on Decision and Control (CDC)_,   2022, [PDF coming soon]
 
 
