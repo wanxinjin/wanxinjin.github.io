@@ -14,7 +14,7 @@ nav: true
 
 1.   <b>Wanxin Jin</b>, Todd D Murphey, Zehui Lu, and Shaoshuai Mou. 
 [<b>Learning from Human Directional Corrections</b>](https://arxiv.org/abs/2011.15014){:target="\_blank"}.
-_IEEE Transactions on Robotics (T-RO)_, Conditionally Accepted, 2022
+_IEEE Transactions on Robotics (T-RO)_,  Accepted, 2022
 [[PDF]](https://arxiv.org/abs/2011.15014){:target="_blank"} 
 [[Code]](https://github.com/wanxinjin/Learning-from-Directional-Corrections){:target="_blank"} 
 [[Videos]](https://youtu.be/6XavhnE2q1s){:target="_blank"}
@@ -24,7 +24,7 @@ _IEEE Transactions on Robotics (T-RO)_, Conditionally Accepted, 2022
 
 2. <b>Wanxin Jin</b>,  Todd D Murphey, Dana Kulic, Neta Ezer, and Shaoshuai Mou. 
 [<b>Learning from Sparse Demonstrations</b>](https://arxiv.org/abs/2008.02159){:target="\_blank"}.
-Submitted to _IEEE Transactions on Robotics (T-RO)_, Conditionally Accepted, 2022
+Submitted to _IEEE Transactions on Robotics (T-RO)_,  Accepted, 2022
 [[PDF]](https://arxiv.org/abs/2008.02159){:target="_blank"}
 [[Code]](https://github.com/wanxinjin/Learning-from-Sparse-Demonstrations){:target="_blank"} 
 [[Videos]](https://youtu.be/BYAsqMxW5Z4){:target="_blank"}

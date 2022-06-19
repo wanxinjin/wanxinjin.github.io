@@ -1,6 +1,8 @@
-I"–J<p>I am a postdoctoral researcher in the <a href="https://www.grasp.upenn.edu/" target="_blank">GRASP Laboratory</a> at <a href="https://www.upenn.edu/" target="_blank">University of Pennsylvania</a>, working with <a href="https://dair.seas.upenn.edu/" target="_blank">Prof. Michael Posa</a>, focusing on  contact-rich manipulation.</p>
+I"OP<p>I am a postdoctoral researcher in the <a href="https://www.grasp.upenn.edu/" target="_blank">GRASP Laboratory</a> at <a href="https://www.upenn.edu/" target="_blank">University of Pennsylvania</a>, working with <a href="https://dair.seas.upenn.edu/" target="_blank">Prof. Michael Posa</a>, focusing on  contact-rich manipulation.</p>
 
-<p>I obtained my Ph.D. in the area of Autonomy and Control in the <a href="https://engineering.purdue.edu/AAE" target="_blank">School of Aeronautics and Astronautics</a>, <a href="https://www.purdue.edu/" target="_blank">Purdue University</a> in July 2021. Prior to Purdue,  I worked as a research assistant  at <a href="https://www.tum.de/en/" target="_blank">Technical University of Munich</a>, Germany. I  obtained my   Master and Bachelor degrees in Control Science and Engineering from <a href="http://en.hit.edu.cn/" target="_blank">Harbin Institute of Technology</a>, China.</p>
+<p>I obtained Ph.D. in the field of Autonomy and Control from the <a href="https://engineering.purdue.edu/AAE" target="_blank">School of Aeronautics and Astronautics</a>, <a href="https://www.purdue.edu/" target="_blank">Purdue University</a> in 2021. Prior to Purdue,  I was a research assistant  at <a href="https://www.tum.de/en/" target="_blank">Technical University of Munich</a>, Germany.</p>
+
+<p style="margin-bottom:0.8cm; margin-left: 0.5cm"> </p>
 
 <p align="center">
 <a href="mailto:wanxinjin@gmail.com" target="_blank">Email</a> / 
@@ -8,6 +10,66 @@
 <a href="https://twitter.com/jinwanxin" target="_blank">Twitter</a> / 
 <a href="https://scholar.google.com/citations?user=SoEC4h4AAAAJ&amp;hl=en" target="_blank">Google Scholar</a> 
 </p>
+
+<p style="margin-bottom:0.8cm; margin-left: 0.5cm"> </p>
+
+<hr />
+<h3 id="recent-updates">Recent Updates</h3>
+
+<p style="margin-bottom:100; margin-left: -1.0cm"> </p>
+
+<table>
+<tr>
+    <td style="width:15%">
+      <b>June 2022</b>
+    </td>
+    <td>
+      Paper<a href="https://arxiv.org/abs/2008.02159" target="_blank">Learning from sparse demonstrations</a>
+       was accepted to IEEE Transactions on Robotics!
+    </td>
+</tr>
+
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th>Tables</th>
+      <th style="text-align: center">Are</th>
+      <th style="text-align: right">Cool</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>col 1 is</td>
+      <td style="text-align: center">left-aligned</td>
+      <td style="text-align: right">$1600</td>
+    </tr>
+    <tr>
+      <td>col 2 is</td>
+      <td style="text-align: center">centered</td>
+      <td style="text-align: right">$12</td>
+    </tr>
+    <tr>
+      <td>col 3 is</td>
+      <td style="text-align: center">right-aligned</td>
+      <td style="text-align: right">$1</td>
+    </tr>
+  </tbody>
+</table>
+
+<ul>
+  <li></li>
+  <li>
+    <p>June 2022.</p>
+  </li>
+  <li>Mar. 2022. I gave an invited seminar in the Department of Electrical and Computer Engineering, University of California, Riverside.</li>
+  <li>Feb. 2022. I gave an invited seminar in the Department of Mechanical and Industrial Engineering, 
+New Jersey Institute of Technology.</li>
+  <li>Jan. 2022. I gave an invited seminar in the Department of Mechanical Engineering,
+Villanova University.</li>
+  <li>Nov. 2022. I gave an invited seminar in the Department of Computer Science, The University of Hong Kong.</li>
+</ul>
 
 <p style="margin-bottom:0.8cm; margin-left: 0.5cm"> </p>
 
@@ -23,7 +85,7 @@
       </div>
       <div style="margin-left: 18%; height: 100px; background: transparent;"> 
           <ul>
-            <li>Differentiable control and learning,  Safe learning and control,</li>
+            <li> Control  and  learning,  Safe learning and control,</li>
             <li>(Inverse) optimal control, (Inverse) reinforcement learning, </li> 
             <li> Hybrid control system, Robust control, Adversarial learning</li>
         </ul>
@@ -56,7 +118,7 @@ the complementary benefits of these three disciplines to develop new theories, m
 
 <p style="margin-bottom:500; margin-left: -1.0cm"> </p>
 
-<p><img src="collections/figures/learn_lcs.gif" alt="Kitten" title="SafePDP" width="200" align="left" hspace="30" vspace="0" /></p>
+<p><img src="collections/figures/l4dc.gif" alt="Kitten" title="SafePDP" width="200" align="left" hspace="30" vspace="0" /></p>
 <p style="margin-bottom:0.8cm; margin-left: 0.5cm"> </p>
 <p><strong>Learning Linear Complementarity Systems</strong> <br />
 <b>Wanxin Jin</b>, Alp Aydinoglu, Mathew Halm, and Michael Posa<br />
@@ -93,7 +155,7 @@ We propose a Safe Pontryagin Differentiable Programming (Safe PDP) methodology, 
 <p><img src="collections/figures/lfdc_final.gif" alt="Kitten" title="lfc" width="200" align="left" hspace="30" vspace="5" />
 <strong>Learning from Human Directional Corrections</strong> <br />
 <b>Wanxin Jin</b>, Todd D Murphey, and Shaoshuai Mou<br />
-<em>IEEE Transactions on Robotics (T-RO)</em>,    Conditionally Accepted, 2022 <br />
+<em>IEEE Transactions on Robotics (T-RO)</em>,    Accepted, 2022 <br />
 <a href="https://arxiv.org/abs/2011.15014" target="_blank">[PDF]</a> /
 <a href="https://github.com/wanxinjin/Learning-from-Directional-Corrections" target="_blank">[Code]</a> /
 <a href="https://youtu.be/6XavhnE2q1s" target="_blank">[Videos]</a></p>
@@ -158,7 +220,7 @@ robot arm, 6-DoF maneuvering quadrotor, and 6-DoF rocket powered landing.
 <p><img src="collections/figures/lfsd_final.gif" alt="Kitten" title="SafePDP" width="200" align="left" hspace="30" vspace="10" />
 <strong>Learning from Sparse Demonstrations</strong> <br />
 <b>Wanxin Jin</b>, Todd D Murphey, Dana Kulic, Neta Ezer, and Shaoshuai Mou<br />
-<em>IEEE Transactions on Robotics (T-RO)</em>,   Conditionally Accepted, 2022<br />
+<em>IEEE Transactions on Robotics (T-RO)</em>, Accepted, 2022<br />
 <a href="https://arxiv.org/abs/2008.02159" target="_blank">[PDF]</a>/
 <a href="https://github.com/wanxinjin/Learning-from-Sparse-Demonstrations" target="_blank">[Code]</a> /
 <a href="https://youtu.be/BYAsqMxW5Z4" target="_blank">[Videos]</a></p>
@@ -202,7 +264,7 @@ This article develops a methodology that enables learning an objective function 
 
 <p style="margin-bottom:1.50cm; margin-left: 0.5cm"> </p>
 
-<p><img src="collections/figures/ioc_multiphase.gif" alt="Kitten" title="SafePDP" width="120" align="left" hspace="70" vspace="0" />
+<p><img src="collections/figures/ioc_multiphase2.gif" alt="Kitten" title="SafePDP" width="240" align="left" hspace="10" vspace="0" />
 <strong>Inverse Optimal Control for Multiphase cost functions</strong> <br />
 <b>Wanxin Jin</b>, Dana Kulic, Jonathan  Lin, Shaoshuai Mou, and Sandra Hirche <br />
 <em>IEEE Transactions on Robotics (T-RO)</em>, 35(6):1387â€“1398,

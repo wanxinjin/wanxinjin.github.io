@@ -1,4 +1,4 @@
-I"G&<h3 id="selected-journal">Selected Journal</h3>
+I"ô%<h3 id="selected-journal">Selected Journal</h3>
 
 <p style="margin-bottom:0.5cm; margin-left: 0.5cm"> </p>
 
@@ -6,7 +6,7 @@
   <li>
     <p><b>Wanxin Jin</b>, Todd D Murphey, Zehui Lu, and Shaoshuai Mou. 
 <a href="https://arxiv.org/abs/2011.15014" target="\_blank"><b>Learning from Human Directional Corrections</b></a>.
-<em>IEEE Transactions on Robotics (T-RO)</em>, Conditionally Accepted, 2022
+<em>IEEE Transactions on Robotics (T-RO)</em>,  Accepted, 2022
 <a href="https://arxiv.org/abs/2011.15014" target="_blank">[PDF]</a> 
 <a href="https://github.com/wanxinjin/Learning-from-Directional-Corrections" target="_blank">[Code]</a> 
 <a href="https://youtu.be/6XavhnE2q1s" target="_blank">[Videos]</a></p>
@@ -14,7 +14,7 @@
   <li>
     <p><b>Wanxin Jin</b>,  Todd D Murphey, Dana Kulic, Neta Ezer, and Shaoshuai Mou. 
 <a href="https://arxiv.org/abs/2008.02159" target="\_blank"><b>Learning from Sparse Demonstrations</b></a>.
-Submitted to <em>IEEE Transactions on Robotics (T-RO)</em>, Conditionally Accepted, 2022
+Submitted to <em>IEEE Transactions on Robotics (T-RO)</em>,  Accepted, 2022
 <a href="https://arxiv.org/abs/2008.02159" target="_blank">[PDF]</a>
 <a href="https://github.com/wanxinjin/Learning-from-Sparse-Demonstrations" target="_blank">[Code]</a> 
 <a href="https://youtu.be/BYAsqMxW5Z4" target="_blank">[Videos]</a></p>
@@ -113,7 +113,7 @@ In <em>Asian Control Conference (ASCC)</em> , 2022.
 <ol>
   <li>
     <p>Zehui Lu, <b>Wanxin Jin</b>,  Shaoshuai Mou, and Brian. D. O. Anderson,
-<b>HM-DDP: A Hybrid Multiple-shooting Differential Dynamic Programming Method for Constrained Trajectory Optimization</b>. 
+<b>Cooperative Tuning of Multi-Agent Optimal Control Systems</b>. 
 Submitted to <em>IEEE Conference on Decision and Control (CDC)</em>,   2022, [PDF coming soon]</p>
   </li>
   <li>
