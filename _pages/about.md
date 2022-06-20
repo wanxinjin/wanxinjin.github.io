@@ -126,7 +126,8 @@ Villanova University.</a>
 -----
 
 ### Research interests
-My research lies at the intersection of control, machine learning, and optimization, with emphasis on addressing  fundamental and pressing challenges in auotnomous robots and human-robot systems.
+My research lies at the intersection of control, machine learning, and optimization. My goal is to integrate
+the complementary benefits of the three disciplines to develop new theories, methods, and systems that provision reliablity, efficiency,  and interactive intelligence for  autonomous robots and human-robot systems. 
 
 <body>
   <div style="width: 100%;">
@@ -159,8 +160,11 @@ My research lies at the intersection of control, machine learning, and optimizat
       </div>
   </div>
 </body>
-My goal is to integrate
-the complementary benefits of these three disciplines to develop new theories, methods, and systems that provision reliablity, efficiency,  and interactive intelligence for next-generation autonomous robots and human-robot systems.
+
+At this stage, I  participlarly focus on the application of robot manipulation.
+
+
+
 
 <p style="margin-bottom:0.8cm; margin-left: 0.5cm"> </p>
 
