@@ -22,7 +22,7 @@ I obtained Ph.D. in the field of Autonomy and Control from the [School of Aerona
 <p style="margin-bottom:0.8cm; margin-left: 1.5cm"> </p>
 
 <!-- <p align="center"> -->
-<p style="margin-bottom:0.8cm; margin-left: 3.5cm">
+<p style="margin-bottom:0.8cm; margin-left: 15%">
 <a href = "mailto:wanxinjin@gmail.com" target="_blank">Email</a> / 
 <a href = "https://github.com/wanxinjin" target="_blank">Github</a> / 
 <a href = "https://twitter.com/jinwanxin" target="_blank">Twitter</a> / 
@@ -130,37 +130,42 @@ Villanova University.</a>
 My research lies at the intersection of control, machine learning, and optimization. My goal is to integrate
 the complementary benefits of the three disciplines to develop new theories, methods, and systems that provision reliablity, efficiency,  and interactive intelligence for  autonomous robots and human-robot systems. 
 
-<body>
-  <div style="width: 100%;">
-      <div style="width: 18%; height: 100px; float: left; background: transparent;"> 
-         <strong>Control + Learning</strong>
-      </div>
-      <div style="margin-left: 18%; height: 100px; background: transparent;"> 
-          <ul>
-            <li> General control  and  learning methods,  Safe learning and control,</li>
-            <li>(Inverse) optimal control, (Inverse) reinforcement learning, </li> 
-            <li> Hybrid control system, Robust control, Adversarial learning</li>
-        </ul>
-      </div>
-  </div>
-</body>
 
 
 
-<body>
-  <div style="width: 100%;">
-      <div style="width: 18%; height: 100px; float: left; background: transparent;"> 
-         <strong>Robotics + Human</strong>
-      </div>
-      <div style="margin-left: 18%; height: 100px; background: transparent;"> 
-          <ul >
-            <li>Learning with human-on-the-loop, Contact-rich robot manipulation, </li>
-            <li> Human-robot teaming, Learning from demonstrations, </li> 
-            <li>Human motor control anlaysis, Task and motion planning </li>
-        </ul>
-      </div>
-  </div>
-</body>
+
+
+
+
+<div style="width: 100%;">
+    <div style="width: 18%; float: left; background: transparent;"> 
+       <strong>Control + Learning</strong>
+    </div>
+    <div style="margin-left: 18%; background: transparent;"> 
+        <ul>
+          <li> General control  and  learning methods,  Safe learning and control,</li>
+          <li>(Inverse) optimal control, (Inverse) reinforcement learning, </li> 
+          <li> Hybrid control system, Robust control, Adversarial learning</li>
+      </ul>
+    </div>
+</div>
+
+
+
+
+
+<div style="width: 100%;">
+    <div style="width: 18%; float: left; background: transparent;"> 
+       <strong>Robotics + Human</strong>
+    </div>
+    <div style="margin-left: 18%; background: transparent;"> 
+        <ul >
+          <li>Learning with human-on-the-loop, Contact-rich robot manipulation, </li>
+          <li> Human-robot teaming, Learning from demonstrations, </li> 
+          <li>Human motor control anlaysis, Task and motion planning </li>
+      </ul>
+    </div>
+</div>
 
 At the current stage, I  participlarly focus on the problem of robot contact-rich manipulation.
 
