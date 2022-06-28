@@ -6,7 +6,7 @@ description:
 
 profile:
   align: right
-  image: jin_profile.JPG
+  image: square.jpeg
   address: >
 
 
