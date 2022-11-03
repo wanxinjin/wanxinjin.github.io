@@ -30,19 +30,20 @@ nav: true
 1. **Task-Driven Hybrid Model Reduction for Dexterous Manipulation** <br />
 <b>Wanxin Jin</b> and Michael Posa<br />
 Submitted to *IEEE Transactions on Robotics (T-RO)*, under review, 2022 <br />
-[[PDF]](){:target="_blank"} / 
-[[Code]](){:target="_blank"} /
-[[Website]](){:target="_blank"} /
-[[Video]](){:target="_blank"}
+[PDF coming]/ 
+[Code coming]/
+[Video coming]/
+[Website coming]
 
 
 
 1. **Robust Safe Learning and Control in Unknown Environments: An Uncertainty-Aware Control Barrier Function Approach** <br />
 Jiacheng Li, Qingchen Liu, <b>Wanxin Jin</b>, Jiahu Qin, and Sandra Hirche<br />
 Submitted to *IEEE Robotics and Automation Letters (RA-L)*, under review, 2022<br />
-[PDF coming soon] / 
-[Code coming soon] / 
-[Videos coming soon]
+[PDF coming]/ 
+[Code coming]/
+[Video coming]
+
 
 
 
