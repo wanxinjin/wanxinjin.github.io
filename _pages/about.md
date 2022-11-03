@@ -83,10 +83,10 @@ In an era of big data and deep models, I build my solutions to interactive auton
 **Task-Driven Hybrid Model Reduction for Dexterous Manipulation** <br />
 <b>Wanxin Jin</b> and Michael Posa<br />
 Submitted to *IEEE Transactions on Robotics (T-RO)*, under review, 2022 <br />
-[PDF coming]/ 
-[Code coming]/
-[Video coming]/
-[Website coming]
+[PDF coming soon]/ 
+[Code coming soon]/
+[Video coming soon]/
+[Website coming soon]
 
 <p style="margin-bottom:1.0cm; margin-left: 1.5cm"> </p>
 
@@ -186,9 +186,9 @@ Submitted to *IEEE Transactions on Robotics (T-RO)*, under review, 2022 <br />
 **Robust Safe Learning and Control in Unknown Environments: An Uncertainty-Aware Control Barrier Function Approach** <br />
 Jiacheng Li, Qingchen Liu, <b>Wanxin Jin</b>, Jiahu Qin, and Sandra Hirche<br />
 Submitted to *IEEE Robotics and Automation Letters (RA-L)*, under review, 2022<br />
-[PDF coming] / 
-[Code coming] / 
-[Video coming]
+[PDF coming soon] / 
+[Code coming soon] / 
+[Video coming soon]
 
 
 
