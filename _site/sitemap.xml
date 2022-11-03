@@ -10,10 +10,13 @@
 <loc>http://localhost:4000/_pages/dropdown.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/Robots/</loc>
+<loc>http://localhost:4000/blogs/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/publications/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/software/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/teaching/</loc>
@@ -33,5 +36,9 @@
 <url>
 <loc>http://localhost:4000/collections/figures/lfdc.pdf</loc>
 <lastmod>2022-11-02T09:03:20-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/collections/teaching/teaching_award.pdf</loc>
+<lastmod>2022-09-25T09:13:02-04:00</lastmod>
 </url>
 </urlset>

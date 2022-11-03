@@ -1,0 +1,214 @@
+I"�&<h4 id="table-of-contents">Table of Contents</h4>
+
+<ul>
+  <li><a href="#journals">Journals</a></li>
+  <li><a href="#conferences">Conferences</a></li>
+  <li><a href="#patents">Patents</a></li>
+</ul>
+
+<p><a name="journals"></a></p>
+
+<p><br /></p>
+
+<h3 id="journals">Journals</h3>
+
+<p style="margin-bottom:0.5cm; margin-left: 0.5cm"> </p>
+
+<hr />
+<ol>
+  <li>
+    <p><strong>Task-Driven Hybrid Model Reduction for Dexterous Manipulation</strong> <br />
+<b>Wanxin Jin</b> and Michael Posa<br />
+Submitted to <em>IEEE Transactions on Robotics (T-RO)</em>, under review, 2022 <br />
+<a href="" target="_blank">[PDF]</a> / 
+<a href="" target="_blank">[Code]</a> /
+<a href="" target="_blank">[Website]</a> /
+<a href="" target="_blank">[Video]</a></p>
+  </li>
+  <li>
+    <p><strong>Robust Safe Learning and Control in Unknown Environments: An Uncertainty-Aware Control Barrier Function Approach</strong> <br />
+Jiacheng Li, Qingchen Liu, <b>Wanxin Jin</b>, Jiahu Qin, and Sandra Hirche<br />
+Submitted to <em>IEEE Robotics and Automation Letters (RA-L)</em>, under review, 2022<br />
+[PDF coming soon] / 
+[Code coming soon] / 
+[Videos coming soon]</p>
+  </li>
+  <li>
+    <p><a href="https://arxiv.org/abs/2011.15014" target="\_blank"><strong>Learning from Human Directional Corrections</strong></a>.<br />
+   <b>Wanxin Jin</b>, Todd D Murphey, Zehui Lu, and Shaoshuai Mou. <br />
+<em>IEEE Transactions on Robotics (T-RO)</em>, 2022<br />
+<a href="https://arxiv.org/abs/2011.15014" target="_blank">[PDF]</a> 
+<a href="https://github.com/wanxinjin/Learning-from-Directional-Corrections" target="_blank">[Code]</a> 
+<a href="https://youtu.be/6XavhnE2q1s" target="_blank">[Videos]</a></p>
+  </li>
+  <li>
+    <p><strong>Learning from Sparse Demonstrations</strong> <br />
+<b>Wanxin Jin</b>, Todd D Murphey, Dana Kulic, Neta Ezer, and Shaoshuai Mou<br />
+<em>IEEE Transactions on Robotics (T-RO)</em>, 2022<br />
+<a href="https://arxiv.org/abs/2008.02159" target="_blank">[PDF]</a>/
+<a href="https://github.com/wanxinjin/Learning-from-Sparse-Demonstrations" target="_blank">[Code]</a> /
+<a href="https://youtu.be/BYAsqMxW5Z4" target="_blank">[Videos]</a></p>
+  </li>
+  <li>
+    <p><strong>Inverse Optimal Control from Incomplete Trajectory Observations</strong> <br />
+<b>Wanxin Jin</b>,  Dana Kulic, Shaoshuai Mou, and Sandra Hirche <br />
+<em>International Journal of Robotics Research (IJRR),</em> 40:848–865,
+2021 <br />
+<a href="https://journals.sagepub.com/doi/full/10.1177/0278364921996384" target="_blank">[PDF]</a> /
+<a href="https://github.com/wanxinjin/IOC-from-Incomplete-Trajectory-Observations" target="_blank">[Code]</a></p>
+  </li>
+  <li>
+    <p><a href="https://www.sciencedirect.com/science/article/abs/pii/S0005109821001783" target="_blank"><strong>Distributed Inverse Optimal Control</strong></a> <br />
+<b>Wanxin Jin</b> and Shaoshuai Mou <br />
+<em>Automatica</em>, Volume 129, 2021 <br />
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0005109821001783" target="_blank">[PDF]</a> 
+<a href="https://github.com/ZihaoLiang/Inverse-Optimal-Control-from-Demonstration-Segments" target="_blank">[Code]</a></p>
+  </li>
+  <li>
+    <p><strong>Inverse Optimal Control for Multiphase cost functions</strong> <br />
+<b>Wanxin Jin</b>, Dana Kulic, Jonathan  Lin, Shaoshuai Mou, and Sandra Hirche <br />
+<em>IEEE Transactions on Robotics (T-RO)</em>, 35(6):1387–1398,
+2019 <br />
+<a href="https://ieeexplore.ieee.org/document/8778698" target="_blank">[PDF]</a> / 
+<a href="https://github.com/adaptivesystemslab/ioc" target="_blank">[Code]</a></p>
+  </li>
+  <li>
+    <p><a href="https://ieeexplore.ieee.org/document/7878575" target="_blank"><strong>Reference-Free Path-Walking Method for Ball Grid Array Inspection in Surface Mounting Machines</strong></a> <br />
+<b>Wanxin Jin</b>, Weiyang Lin, Xianqiang Yang, and Huijun Gao  <br />
+<em>IEEE Transactions on Industrial Electronics (T-IE)</em>, <br />
+64(8):6310–6318, 2017</p>
+  </li>
+  <li>
+    <p><a href="https://ieeexplore.ieee.org/abstract/document/7795199" target="_blank"><strong>A Line-based-Clustering Approach for Ball Grid Array Component Inspection in Surface-Mount Technology</strong></a> <br />
+Huijun Gao, <b>Wanxin Jin</b>, Xianqiang Yang, and Okyay Kaynak<br />
+<em>IEEE Transactions on Industrial
+Electronics (T-IE)</em>, 64(4):3030–3038, 2016</p>
+  </li>
+</ol>
+
+<p style="margin-bottom:1.0cm; margin-left: 0.5cm"> </p>
+
+<p><br /></p>
+
+<p><a name="conferences"></a></p>
+<h3 id="conferences">Conferences</h3>
+
+<p style="margin-bottom:0.5cm; margin-left: 0.5cm"> </p>
+
+<hr />
+<ol>
+  <li>
+    <p><strong>RobLAX: A Differentiable Robotics Framework for Physics Augmented Reinforcement Learning</strong> <br />
+Guo Ye, Qinjie Lin,  <b>Wanxin Jin</b>, Zhaoran Wang, Haozheng Luo, Tim Tsz-Kit Lau, cheng zhou, Han Liu <br />
+Submitted to <em>IEEE International Conference on Robotics and Automation (ICRA)</em>, under review  2023.</p>
+  </li>
+  <li>
+    <p><strong>Enforcing hard constraints with soft barriers: safe reinforcement learning in unknown stochastic environments</strong> <br />
+Yixuan Wang, Simon  Zhan, Ruochen Jiao, Zhilu Wang, <b> Wanxin Jin </b>, Zhuoran Yang,
+Zhaoran Wang, Chao Huang, Qi Zhu, <br />
+Submitted to <em>International Conference on Learning Representations (ICLR)</em>, under review  2023.</p>
+  </li>
+  <li>
+    <p><strong>TacTID: Terrain Identification and Pose Estimation for Legged
+Robot with a High-performance Visuo-Tactile Sensor</strong> <br />
+Chenchang Li, Ziwu Song, Zhentan Quan, Shilong Mu, <b>Wanxin Jin</b>, Yanjun Zhu, Wenbo Ding
+Submitted to <em>IEEE International Conference on Robotics and Automation (ICRA)</em>, under review  2023.</p>
+  </li>
+  <li>
+    <p><strong>Learning Linear Complementarity Systems</strong> <br />
+<b>Wanxin Jin</b>, Alp Aydinoglu, Mathew Halm, and Michael Posa<br />
+<em>Learning for Dynamics and Control (L4DC)</em>, 2022 <br />
+<a href="https://arxiv.org/abs/2112.13284" target="_blank">[PDF]</a> / 
+<a href="https://github.com/wanxinjin/Learning-LCS" target="_blank">[Code]</a></p>
+  </li>
+  <li>
+    <p><strong>Safe Pontryagin Differentiable Programming</strong> <br />
+<b>Wanxin Jin</b>, Shaoshuai Mou, and George J. Pappas<br />
+<em>Advances in Neural Information Processing Systems (NeurIPS)</em>, 2021<br />
+<a href="https://arxiv.org/abs/2105.14937" target="_blank">[PDF]</a> / 
+<a href="https://github.com/wanxinjin/Safe-PDP" target="_blank">[Code]</a> / 
+<a href="videos#SafePDP" target="_blank">[Videos]</a></p>
+  </li>
+  <li>
+    <p><strong>Pontryagin Differentiable Programming: An End-to-End Learning and Control Framework</strong> <br />
+<b>Wanxin Jin</b>, Zhaoran Wang, Zhuoran Yang, and Shaoshuai Mou<br />
+<em>Advances in Neural Information Processing Systems (NeurIPS),</em>  2020 <br />
+<a href="https://papers.nips.cc/paper/2020/file/5a7b238ba0f6502e5d6be14424b20ded-Paper.pdf" target="_blank">[PDF]</a> /
+<a href="https://github.com/wanxinjin/Pontryagin-Differentiable-Programming" target="_blank">[Code]</a> /
+<a href="videos#PDP" target="_blank">[Videos]</a></p>
+  </li>
+  <li>
+    <p><a href="https://ieeexplore.ieee.org/document/9594324" target="\_blank"><strong>Human-Automation Interaction for Assisting Novices to Emulate Experts by Inferring Task Objective Functions</strong></a><br /> 
+Sooyung Byeon, <b>Wanxin Jin</b>, Dawei Sun, and Inseok Hwang<br />
+In <em>AIAA/IEEE 40th Digital Avionics Systems Conference (DASC)</em> , 2021. <strong>Best Student Paper Finalist</strong> <br />
+<a href="https://ieeexplore.ieee.org/document/9594324" target="_blank">[PDF]</a></p>
+  </li>
+  <li>
+    <p><a href="" target="\_blank"><strong>Cooperative tuning of multi-agent optimal control systems</strong></a><br /> 
+Zehui Lu, <b>Wanxin Jin</b>, Shaoshuai Mou, and Brian. D. Anderson<br />
+In <em>IEEE Conference on Decision and Control (CDC)</em> , 2022. <br />
+<!-- [[PDF]](https://ieeexplore.ieee.org/document/9594324){:target="_blank"}  --></p>
+  </li>
+  <li>
+    <p><a href="https://arxiv.org/abs/2010.15034" target="\_blank"><strong>Learning Objective Functions Incrementally by Inverse Optimal Control</strong></a><br /> 
+Zehui Lu, <b>Wanxin Jin</b>, and Shaoshuai Mou<br />
+In <em>Asian Control Conference (ASCC)</em> , 2022 <br />
+<a href="https://arxiv.org/abs/2010.15034" target="_blank">[PDF]</a></p>
+  </li>
+</ol>
+
+<p style="margin-bottom:2.0cm; margin-left: 0.5cm"> </p>
+
+<h3 id="arxiv--preprints">Arxiv  Preprints</h3>
+
+<p style="margin-bottom:0.5cm; margin-left: 0.5cm"> </p>
+
+<hr />
+<ol>
+  <li>
+    <p><a href="https://arxiv.org/abs/2006.08465" target="_blank"><strong>Neural certificates for safe control policies</strong></a><br /> 
+<b>Wanxin Jin</b>, ZhaoranWang, Zhuoran Yang, and Shaoshuai Mou<br /> 
+Arxiv, 2020.</p>
+  </li>
+  <li>
+    <p><a href="https://arxiv.org/abs/2207.08892" target="_blank"><strong>Learning multi-robot coordination from demonstrations</strong></a><br /> 
+Xuan Wang and <b>Wanxin Jin</b><br /> 
+Arxiv, 2022.</p>
+  </li>
+</ol>
+
+<p><a class="abstract btn btn-sm z-depth-0" role="button">Abs</a></p>
+
+<p><a href="http://arxiv.org/abs/" class="btn btn-sm z-depth-0" role="button" target="_blank">arXiv</a>
+<a href="" class="btn btn-sm z-depth-1" role="button" target="_blank">HTML</a></p>
+
+<p style="margin-bottom:2.0cm; margin-left: 0.5cm"> </p>
+
+<div class="abstract hidden">
+  <p>{asdfasdf}</p>
+</div>
+
+<p><a name="patents"></a></p>
+
+<h3 id="granted-patents">Granted Patents</h3>
+
+<p style="margin-bottom:0.5cm; margin-left: 0.5cm"> </p>
+
+<div class="links">
+      <a class="abstract btn btn-sm z-depth-1" role="button">Abs</a>
+      <a href="http://arxiv.org/abs/" class="btn btn-sm z-depth-0" role="button" target="_blank">arXiv</a>
+        <a class="bibtex btn btn-sm z-depth-1" role="button">Bib</a>
+    </div>
+
+<div class="abstract hidden">
+  <p></p>
+</div>
+
+<div class="bibtex hidden">
+  adsfdsf
+</div>
+
+<p><br /></p>
+
+<div style="text-align: right"> <a href="#top">Back to top</a> </div>
+:ET

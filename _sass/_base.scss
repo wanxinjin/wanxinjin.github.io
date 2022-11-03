@@ -51,8 +51,10 @@ blockquote {
 // Profile
 
 .profile {
-  margin-left: 1rem;
-  width: 100%;
+  margin-left: 2rem;
+  margin-right: -2rem;
+  margin-top: 5rem;
+  width: 80%;
 
   .address {
     margin-bottom: 5px;
@@ -433,8 +435,8 @@ footer.sticky-bottom {
       }
       .links {
         a.btn {
-          color: var(--global-text-color);
-          border: 1px solid var(--global-text-color);
+          color: var(--global-hover-color);
+          border: 1px solid var(--global-hover-color);
           padding-left: 1rem;
           padding-right: 1rem;
           padding-top: 0.25rem;

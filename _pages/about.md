@@ -1,43 +1,233 @@
 ---
 layout: about
-title: About
+title: about
 permalink: /
 description: 
 
 profile:
   align: right
   image: square_small.jpeg
-  address: >
+  address: 
 
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
+
+
+
 ---
-I am a postdoctoral researcher in the [GRASP Laboratory](https://www.grasp.upenn.edu/){:target="_blank"} at [University of Pennsylvania](https://www.upenn.edu/){:target="_blank"}, working with [Prof. Michael Posa](https://dair.seas.upenn.edu/){:target="_blank"}, focusing on  contact-rich manipulation.
 
-I obtained Ph.D. in the field of Autonomy and Control from the [School of Aeronautics and Astronautics](https://engineering.purdue.edu/AAE){:target="_blank"}, [Purdue University](https://www.purdue.edu/){:target="_blank"} in 2021. Prior to Purdue,  I was a research assistant  at [Technical University of Munich](https://www.tum.de/en/){:target="_blank"}, Germany. 
+## **Wanxin Jin** (靳万鑫)
 
+<p style="margin-bottom:0.8cm; margin-left: 0.5cm"> </p>
+
+
+**Postdoctoral Researcher** in the [GRASP Lab](https://www.grasp.upenn.edu/){:target="_blank"}, [University of Pennsylvania](https://www.upenn.edu/){:target="_blank"}.
+
+
+I obtained my Ph.D. from the [School of Aeronautics and Astronautics](https://engineering.purdue.edu/AAE){:target="_blank"}, [Purdue University](https://www.purdue.edu/){:target="_blank"} in 2021. I was a research assistant at [Technical University of Munich](https://www.tum.de/en/){:target="_blank"}, Germany, 2016-2017. I obtained my Master's and Bachelor’s degrees in Control Science & Engineering from the Harbin Institute of Technology, China.
 
 <p style="margin-bottom:0.8cm; margin-left: 1.5cm"> </p>
 
-<!-- <p align="center"> -->
-<p style="margin-bottom:0.8cm; margin-left: 15%">
-<a href = "mailto:wanxinjin@gmail.com" target="_blank">Email</a> / 
-<a href = "https://github.com/wanxinjin" target="_blank">Github</a> / 
-<a href = "https://twitter.com/jinwanxin" target="_blank">Twitter</a> / 
-<a href = "https://scholar.google.com/citations?user=SoEC4h4AAAAJ&hl=en" target="_blank">Google Scholar</a> 
-</p>
 
 
+<center>
+    <a href = "mailto:wanxinjin@gmail.com" target="_blank"> 
+    <img src="assets/img/platform_icon/email.gif" width="35" target="_blank"> </a>   &nbsp;&nbsp;&nbsp;
+<a href = "https://scholar.google.com/citations?user=SoEC4h4AAAAJ&hl=en" target="_blank"> 
+    <img src="assets/img/platform_icon/scholar.png" width="35" target="_blank"></a>   &nbsp;&nbsp;&nbsp;
+<a href = "https://github.com/wanxinjin" target="_blank">
+    <img src="assets/img/platform_icon/github.gif" width="35" target="_blank"></a> &nbsp;&nbsp;&nbsp;
+<a href = "https://twitter.com/jinwanxin" target="_blank">
+    <img src="assets/img/platform_icon/twitter.gif" width="35" target="_blank"></a>  &nbsp;&nbsp;&nbsp;
+<a href = "https://www.youtube.com/channel/UCkMgzXIhi3BmWP7tAdeyoaA" target="_blank">
+    <img src="assets/img/platform_icon/youtube.gif" width="35" target="_blank"></a>  &nbsp;&nbsp;&nbsp;
+
+</center>
 
 
-<p style="margin-bottom:0.8cm; margin-left: 0.5cm"> </p>
+<br />
 
 
 
 
 -----
+#### **My Research**
+
+My research is to formalize and develop **interactive autonomy**, which characterizes robots' capability of seamlessly interacting with humans, touching and affecting physical objects safely and intelligently.  Specifically,  I am making robots
+- **operate in cohort with humans,** by understanding human intents, assisting human's decisions,   improving its autonomy through human intuitive interactions, toward safe and individualized human-robot relation.
+- **reason about and manipulate physical objects**,  by learning and planning with physical representations, touching and affecting objects in a safe and controlled manner, toward human-like physical intelligence.
+
+In an era of big data and deep models, I build my solutions to interactive autonomy by the integration of theoretically understanding the fundamentals/limits of the system and empirically learning from the most accessible data. Therefore, my methods of interactive autonomy lie at a middle spot that combines the complementary benefits of control/optimization (model-based) and machine learning (data-driven). 
+
+
+
+<p style="margin-bottom:1.2cm; margin-left: 1.5cm"> </p>
+
+
+-----
+<center>
+    <h4><strong>Highlighted Research and Publications</strong></h4>
+</center>
+
+
+<p style="margin-bottom:1.2cm; margin-left: 1.5cm"> </p>
+
+
+##### **1. Dexterous Manipulation**
+---
+
+<img src="collections/research/manipulation/three_finger_manipulation.gif"  width="140"  align="left" hspace="30" vspace=0 />
+
+**Task-Driven Hybrid Model Reduction for Dexterous Manipulation** <br />
+<b>Wanxin Jin</b> and Michael Posa<br />
+Submitted to *IEEE Transactions on Robotics (T-RO)*, under review, 2022 <br />
+[[PDF]](){:target="_blank"} / 
+[[Code]](){:target="_blank"} /
+[[Website]](){:target="_blank"} /
+[[Video]](){:target="_blank"}
+
+<p style="margin-bottom:1.0cm; margin-left: 1.5cm"> </p>
+
+---
+<img src="collections/research/manipulation/learning_lcs.gif"  title="SafePDP" width="150"  align="left" hspace="25" vspace=0 />
+**Learning Linear Complementarity Systems** <br />
+<b>Wanxin Jin</b>, Alp Aydinoglu, Mathew Halm, and Michael Posa<br />
+*Learning for Dynamics and Control (L4DC)*, 2022 <br />
+[[PDF]](https://arxiv.org/abs/2112.13284){:target="_blank"} / 
+[[Code]](https://github.com/wanxinjin/Learning-LCS){:target="_blank"}
+
+
+
+<p style="margin-bottom:1.8cm; margin-left: 1.5cm"> </p>
+
+
+##### **2. Action as Communication:  Demystifying Human Behavior for Robot Autonomy**
+---
+<img src="collections/research/human/correction.gif" width="150"  align="left" hspace="30" vspace=5 />
+**Learning from Human Directional Corrections** <br />
+<b>Wanxin Jin</b>, Todd D Murphey, and Shaoshuai Mou<br />
+*IEEE Transactions on Robotics (T-RO)*, 2022 <br />
+[[PDF]](https://arxiv.org/abs/2011.15014){:target="_blank"} /
+[[Code]](https://github.com/wanxinjin/Learning-from-Directional-Corrections){:target="_blank"} /
+[[Videos]](https://youtu.be/6XavhnE2q1s){:target="_blank"}
+
+<p style="margin-bottom:0.8cm; margin-left: 1.5cm"> </p>
+
+---
+<img src="collections/research/human/sparse_demo.gif" width="150"  align="left" hspace="30" vspace=10 />
+**Learning from Sparse Demonstrations** <br />
+<b>Wanxin Jin</b>, Todd D Murphey, Dana Kulic, Neta Ezer, and Shaoshuai Mou<br />
+*IEEE Transactions on Robotics (T-RO)*, 2022<br />
+[[PDF]](https://arxiv.org/abs/2008.02159){:target="_blank"}/
+[[Code]](https://github.com/wanxinjin/Learning-from-Sparse-Demonstrations){:target="_blank"} /
+[[Videos]](https://youtu.be/BYAsqMxW5Z4){:target="_blank"}
+
+
+<p style="margin-bottom:0.8cm; margin-left: 1.5cm"> </p>
+
+
+---
+<img src="collections/research/human/ioc_incomplete.png"   width="150"   align="left" hspace="30" vspace=20 />
+**Inverse Optimal Control from Incomplete Trajectory Observations** <br />
+<b>Wanxin Jin</b>,  Dana Kulic, Shaoshuai Mou, and Sandra Hirche <br />
+*International Journal of Robotics Research (IJRR),* 40:848–865,
+2021 <br />
+[[PDF]](https://journals.sagepub.com/doi/full/10.1177/0278364921996384){:target="_blank"} /
+[[Code]](https://github.com/wanxinjin/IOC-from-Incomplete-Trajectory-Observations){:target="_blank"}
+
+<p style="margin-bottom:0.8cm; margin-left: 1.5cm"> </p>
+
+
+---
+<img src="collections/research/human/ioc_multiphase.gif"  width="190"  align="left" hspace="10" vspace=0 />
+**Inverse Optimal Control for Multiphase cost functions** <br />
+<b>Wanxin Jin</b>, Dana Kulic, Jonathan  Lin, Shaoshuai Mou, and Sandra Hirche <br />
+*IEEE Transactions on Robotics (T-RO)*, 35(6):1387–1398,
+2019 <br />
+[[PDF]](https://ieeexplore.ieee.org/document/8778698){:target="_blank"} / 
+[[Code]](https://github.com/adaptivesystemslab/ioc){:target="_blank"}
+
+
+
+
+<p style="margin-bottom:1.8cm; margin-left: 1.5cm"> </p>
+
+
+##### **3. Fundamental Research: Bridging Control with Machine Learning**
+
+---
+<img src="collections/research/fundamental/pdp.gif"   width="160"  align="left" hspace="25" vspace=0 />
+**Pontryagin Differentiable Programming: An End-to-End Learning and Control Framework** <br />
+<b>Wanxin Jin</b>, Zhaoran Wang, Zhuoran Yang, and Shaoshuai Mou<br />
+*Advances in Neural Information Processing Systems (NeurIPS),*  2020 <br />
+[[PDF]](https://papers.nips.cc/paper/2020/file/5a7b238ba0f6502e5d6be14424b20ded-Paper.pdf){:target="_blank"} /
+[[Code]](https://github.com/wanxinjin/Pontryagin-Differentiable-Programming){:target="_blank"} /
+[[Videos]](videos#PDP){:target="_blank"}
+
+<p style="margin-bottom:1.4cm; margin-left: 1.5cm"> </p>
+
+
+---
+<img src="collections/research/fundamental/safepdp.gif"  width="160"  align="left" hspace="25" vspace=0 />
+**Safe Pontryagin Differentiable Programming** <br />
+<b>Wanxin Jin</b>, Shaoshuai Mou, and George J. Pappas<br />
+*Advances in Neural Information Processing Systems (NeurIPS)*, 2021<br />
+[[PDF]](https://arxiv.org/abs/2105.14937){:target="_blank"} / 
+[[Code]](https://github.com/wanxinjin/Safe-PDP){:target="_blank"} / 
+[[Videos]](videos#SafePDP){:target="_blank"}
+
+<p style="margin-bottom:1.4cm; margin-left: 1.5cm"> </p>
+
+
+---
+<img src="collections/research/fundamental/uncertainty_aware.gif"  width="160"  align="left" hspace="25" vspace=10 />
+**Robust Safe Learning and Control in Unknown Environments: An Uncertainty-Aware Control Barrier Function Approach** <br />
+Jiacheng Li, Qingchen Liu, <b>Wanxin Jin</b>, Jiahu Qin, and Sandra Hirche<br />
+Submitted to *IEEE Robotics and Automation Letters (RA-L)*, under review, 2022<br />
+[PDF coming soon] / 
+[Code coming soon] / 
+[Videos coming soon]
+
+
+
+<p style="margin-bottom:1.8cm; margin-left: 1.5cm"> </p>
+
+
+
+
+
+<!-- -----
+
+
+### Academic Honors & Awards
+
+<p style="margin-bottom:100; margin-left: -1.0cm"> </p>
+
+- Best Student Paper Finalist at IEEE 40th Digital Avionics Systems Conference (DASC) --- 09.2021
+- ICON Outstanding Research Awards, Purdue University --- 04.2021
+- Magoon Award for Excellence in Teaching, Purdue University --- 09.2020
+- Ross Fellowship, Purdue University --- 2017-2018
+- First prize winner of Provincial Science and Technology Award, Heilongjiang, China -- 06.2017
+
+<p style="margin-bottom:0.8cm; margin-left: 0.5cm"> </p>
+
+-----
+<br/>
+
+
+<div style="text-align: right"> <a href="#top">Back to top</a> </div>
+
+
+
+
+
+ -->
+
+
+
+<!-- -----
 ### Recent news
 
 <p style="margin-bottom:100; margin-left: -1.0cm"> </p>
@@ -121,298 +311,4 @@ Villanova University.</a>
 
 
 
-
-
-
------
-
-### Research interests
-My research lies at the intersection of control, machine learning, and optimization. My goal is to integrate
-the complementary benefits of the three disciplines to develop new theories, methods, and systems that provision reliablity, efficiency,  and interactive intelligence for  autonomous robots and human-robot systems. 
-
-
-
-
-
-
-
-
-<div style="width: 100%;">
-    <div style="width: 18%; float: left; background: transparent;"> 
-       <strong>Control + Learning</strong>
-    </div>
-    <div style="margin-left: 18%; background: transparent;"> 
-        <ul>
-          <li> General control  and  learning methods,  Safe learning and control,</li>
-          <li>(Inverse) optimal control, (Inverse) reinforcement learning, </li> 
-          <li> Hybrid control system, Robust control, Adversarial learning</li>
-      </ul>
-    </div>
-</div>
-
-
-
-
-
-<div style="width: 100%;">
-    <div style="width: 18%; float: left; background: transparent;"> 
-       <strong>Robotics + Human</strong>
-    </div>
-    <div style="margin-left: 18%; background: transparent;"> 
-        <ul >
-          <li>Learning with human-on-the-loop, Contact-rich robot manipulation, </li>
-          <li> Human-robot teaming, Learning from demonstrations, </li> 
-          <li>Human motor control anlaysis, Task and motion planning </li>
-      </ul>
-    </div>
-</div>
-
-At the current stage, I  participlarly focus on the problem of robot contact-rich manipulation.
-
-
-
-
-<p style="margin-bottom:0.8cm; margin-left: 0.5cm"> </p>
-
------
-
-
-
-
-
-
-
-
-### Selected Publications
-
-
-<p style="margin-bottom:500; margin-left: -1.0cm"> </p>
-
-<img src="collections/figures/learning_lcs.gif" alt="Kitten" title="SafePDP" width="230"  align="left" hspace="15" vspace=0 />
-<p style="margin-bottom:0.8cm; margin-left: 0.5cm"> </p>
-**Learning Linear Complementarity Systems** <br />
-<b>Wanxin Jin</b>, Alp Aydinoglu, Mathew Halm, and Michael Posa<br />
-*Learning for Dynamics and Control (L4DC)*, 2022 <br />
-[[PDF]](https://arxiv.org/abs/2112.13284){:target="_blank"} / 
-[[Code]](https://github.com/wanxinjin/Learning-LCS){:target="_blank"}
-
-
-
-
-<p style="margin-bottom:-0.4cm; margin-left: 0.5cm"> </p>
-
-<details>
-  <summary>Abstract </summary>
-This paper investigates the learning, or system identification, of a class of piecewise-affine dynamical systems known as linear complementarity systems (LCSs). We propose a violation-based loss which enables efficient learning of the LCS parameterization, without prior knowledge of the hybrid mode boundaries, using gradient-based methods. The proposed violation-based loss incorporates both dynamics prediction loss and a novel complementarity - violation loss. We show several properties attained by this loss formulation, including its differentiability, the efficient computation of first- and second-order derivatives, and its relationship to the traditional prediction loss, which strictly enforces complementarity. We apply this violation-based loss formulation to learn LCSs with tens of thousands of (potentially stiff) hybrid modes. The results demonstrate a state-of-the-art ability to identify piecewise-affine dynamics, outperforming methods which must differentiate through non-smooth linear complementarity problems.
-</details>
-
-
-
-<p style="margin-bottom:2.0cm; margin-left: 0.5cm"> </p>
-
-<img src="collections/figures/safepdp_uav_1.gif" alt="Kitten" title="SafePDP" width="190"  align="left" hspace="35" vspace=0 />
-**Safe Pontryagin Differentiable Programming** <br />
-<b>Wanxin Jin</b>, Shaoshuai Mou, and George J. Pappas<br />
-*Advances in Neural Information Processing Systems (NeurIPS)*, 2021<br />
-[[PDF]](https://arxiv.org/abs/2105.14937){:target="_blank"} / 
-[[Code]](https://github.com/wanxinjin/Safe-PDP){:target="_blank"} / 
-[[Videos]](videos#SafePDP){:target="_blank"}
-
-
-
-
-<p style="margin-bottom:-0.4cm; margin-left: 0.5cm"> </p>
-
-<details>
-  <summary>Abstract </summary>
-We propose a Safe Pontryagin Differentiable Programming (Safe PDP) methodology, which establishes a theoretical and algorithmic framework to solve a broad class of safety-critical learning and control tasks -- problems that require the guarantee of safety constraint satisfaction at any stage of the learning and control progress. In the spirit of interior-point methods, Safe PDP handles different types of system constraints on states and inputs by incorporating them into the cost or loss through barrier functions. We prove three fundamentals of the proposed Safe PDP: first, both the solution and its gradient in the backward pass can be approximated by solving their more efficient unconstrained counterparts; second, the approximation for both the solution and its gradient can be controlled for arbitrary accuracy by a barrier parameter; and third, importantly, all intermediate results throughout the approximation and optimization strictly respect the constraints, thus guaranteeing safety throughout the entire learning and control process. We demonstrate the capabilities of Safe PDP in solving various safety-critical tasks, including safe policy optimization, safe motion planning, and learning MPCs from demonstrations, on different challenging systems such as 6-DoF maneuvering quadrotor and 6-DoF rocket powered landing.
-</details>
-
-<p style="margin-bottom:2.10cm; margin-left: 0.5cm"> </p>
-
-
-
-<img src="collections/figures/lfdc_final.gif" alt="Kitten" title="lfc" width="200"  align="left" hspace="30" vspace=5 />
-**Learning from Human Directional Corrections** <br />
-<b>Wanxin Jin</b>, Todd D Murphey, and Shaoshuai Mou<br />
-*IEEE Transactions on Robotics (T-RO)*,    Accepted, 2022 <br />
-[[PDF]](https://arxiv.org/abs/2011.15014){:target="_blank"} /
-[[Code]](https://github.com/wanxinjin/Learning-from-Directional-Corrections){:target="_blank"} /
-[[Videos]](https://youtu.be/6XavhnE2q1s){:target="_blank"}
-
-
-
-<p style="margin-bottom:-0.4cm; margin-left: 0.5cm"> </p>
-<details>
-  <summary>Abstract </summary>
-This paper proposes an approach which enables a robot to learn a control
-objective function incrementally from human's directional corrections. Existing
-methods learn from human's magnitude corrections and require a human to
-carefully choose correction magnitudes, which otherwise can easily lead to
-over-correction and learning inefficiency. The proposed method only requires
-human's directional corrections --- corrections that only indicate the
-direction of a control change without indicating its magnitude --- applied at
-some time instances during the robot's motion. We only assume that each of
-human's corrections, regardless of its magnitude, points in a direction that
-improves the robot's current motion relative to an implicit control objective
-function. Thus, human's valid corrections always account for half of the
-correction space. The proposed method uses the direction of a correction to
-update the estimate of the objective function based on a cutting plane
-technique. We have established the theoretical results to show that this
-process guarantees the convergence of the learned objective function to the
-implicit one. The proposed approach has been examined by numerical examples, a
-user study on two human-robot games, and a real-world quadrotor experiment. The
-results confirm the convergence of the approach and show that the approach is
-significantly more effective (higher success rate), efficient/effortless (less
-human corrections needed), and accessible (fewer early wasted trials) than the
-state-of-the-art robot interactive learning schemes.
-</details>
-
-
-<p style="margin-bottom:1.5cm; margin-left: 0.5cm"> </p>
-
-
-<img src="collections/figures/pdp_rocket.gif" alt="Kitten" title="SafePDP"   width="200"  align="left" hspace="30" vspace=0 />
-**Pontryagin Differentiable Programming: An End-to-End Learning and Control Framework** <br />
-<b>Wanxin Jin</b>, Zhaoran Wang, Zhuoran Yang, and Shaoshuai Mou<br />
-*Advances in Neural Information Processing Systems (NeurIPS),*  2020 <br />
-[[PDF]](https://papers.nips.cc/paper/2020/file/5a7b238ba0f6502e5d6be14424b20ded-Paper.pdf){:target="_blank"} /
-[[Code]](https://github.com/wanxinjin/Pontryagin-Differentiable-Programming){:target="_blank"} /
-[[Videos]](videos#PDP){:target="_blank"}
-
-<p style="margin-bottom:-0.4cm; margin-left: 0.5cm"> </p>
-<details>
-  <summary>Abstract </summary>
-This paper develops a Pontryagin Differentiable Programming (PDP) methodology,
-which establishes a unified framework to solve a broad class of learning and control
-tasks. The PDP distinguishes from existing methods by two novel techniques: first,
-we differentiate through Pontryagin’s Maximum Principle, and this allows to obtain
-the analytical derivative of a trajectory with respect to tunable parameters within an
-optimal control system, enabling end-to-end learning of dynamics, policies, or/and
-control objective functions; and second, we propose an auxiliary control system in
-the backward pass of the PDP framework, and the output of this auxiliary control
-system is the analytical derivative of the original system’s trajectory with respect
-to the parameters, which can be iteratively solved using standard control tools. We
-investigate three learning modes of the PDP: inverse reinforcement learning, system
-identification, and control/planning. We demonstrate the capability of the PDP in
-each learning mode on different high-dimensional systems, including multi-link
-robot arm, 6-DoF maneuvering quadrotor, and 6-DoF rocket powered landing.
-</details>
-
-
-<p style="margin-bottom:1.50cm; margin-left: 0.5cm"> </p>
-
-<img src="collections/figures/lfsd_final.gif" alt="Kitten" title="SafePDP" width="200"  align="left" hspace="30" vspace=10 />
-**Learning from Sparse Demonstrations** <br />
-<b>Wanxin Jin</b>, Todd D Murphey, Dana Kulic, Neta Ezer, and Shaoshuai Mou<br />
-*IEEE Transactions on Robotics (T-RO)*, Accepted, 2022<br />
-[[PDF]](https://arxiv.org/abs/2008.02159){:target="_blank"}/
-[[Code]](https://github.com/wanxinjin/Learning-from-Sparse-Demonstrations){:target="_blank"} /
-[[Videos]](https://youtu.be/BYAsqMxW5Z4){:target="_blank"}
-
-
-<p style="margin-bottom:-0.4cm; margin-left: 0.5cm"> </p>
-<details>
-  <summary>Abstract </summary>
-This paper develops the Continuous Pontryagin Differentiable Programming
-(Continuous PDP) method that enables a robot to learn a control utility
-function from a few number of sparsely demonstrated keyframes. The keyframes
-are few desired sequential outputs that a robot is wanted to follow at certain
-time instances. The duration of the keyframes may be different from that of the
-robot actual execution. The method jointly searches for a robot control utility
-function and a time-warping function such that the robot motion sequentially
-follows the given keyframes with minimal discrepancy loss. Continuous PDP
-minimizes the discrepancy loss using projected gradient descent, by efficiently
-solving the gradient of robot motion with respect to the unknown parameters.
-The method is first evaluated on a simulated two-link robot arm, and then
-applied to a 6-DoF maneuvering quadrotor to learn a utility function from
-keyframes for its motion planning in un-modeled environments with obstacles.
-The results show the efficiency of the method, its ability to handle time
-misalignment between keyframes and robot execution, and the generalization of
-the learned utility function into unseen motion conditions.
-</details>
-
-
-
-<p style="margin-bottom:1.50cm; margin-left: 0.5cm"> </p>
-
-
-
-<img src="collections/figures/ioc_incomplete_2.png" alt="Kitten" title="SafePDP" width="200"   align="left" hspace="30" vspace=20 />
-**Inverse Optimal Control from Incomplete Trajectory Observations** <br />
-<b>Wanxin Jin</b>,  Dana Kulic, Shaoshuai Mou, and Sandra Hirche <br />
-*International Journal of Robotics Research (IJRR),* 40:848–865,
-2021 <br />
-[[PDF]](https://journals.sagepub.com/doi/full/10.1177/0278364921996384){:target="_blank"} /
-[[Code]](https://github.com/wanxinjin/IOC-from-Incomplete-Trajectory-Observations){:target="_blank"}
-
-<p style="margin-bottom:-0.4cm; margin-left: 0.5cm"> </p>
-<details>
-  <summary>Abstract </summary>
-This article develops a methodology that enables learning an objective function of an optimal control system from incomplete trajectory observations. The objective function is assumed to be a weighted sum of features (or basis functions) with unknown weights, and the observed data is a segment of a trajectory of system states and inputs. The proposed technique introduces the concept of the recovery matrix to establish the relationship between any available segment of the trajectory and the weights of given candidate features. The rank of the recovery matrix indicates whether a subset of relevant features can be found among the candidate features and the corresponding weights can be learned from the segment data. The recovery matrix can be obtained iteratively and its rank non-decreasing property shows that additional observations may contribute to the objective learning. Based on the recovery matrix, a method for using incomplete trajectory observations to learn the weights of selected features is established, and an incremental inverse optimal control algorithm is developed by automatically finding the minimal required observation. The effectiveness of the proposed method is demonstrated on a linear quadratic regulator system and a simulated robot manipulator.
-</details>
-
-
-
-<p style="margin-bottom:1.50cm; margin-left: 0.5cm"> </p>
-
-
-
-<img src="collections/figures/ioc_multiphase2.gif" alt="Kitten" title="SafePDP" width="240"  align="left" hspace="10" vspace=0 />
-**Inverse Optimal Control for Multiphase cost functions** <br />
-<b>Wanxin Jin</b>, Dana Kulic, Jonathan  Lin, Shaoshuai Mou, and Sandra Hirche <br />
-*IEEE Transactions on Robotics (T-RO)*, 35(6):1387–1398,
-2019 <br />
-[[PDF]](https://ieeexplore.ieee.org/document/8778698){:target="_blank"} / 
-[[Code]](https://github.com/adaptivesystemslab/ioc){:target="_blank"}
-
-<p style="margin-bottom:-0.4cm; margin-left: 0.5cm"> </p>
-<details>
-  <summary>Abstract </summary>
-In this paper, we consider a dynamical system whose trajectory is a result of minimizing a multiphase cost function. The multiphase cost function is assumed to be a weighted sum of specified features (or basis functions) with phase-dependent weights that switch at some unknown phase transition points. A new inverse optimal control approach for recovering the cost weights of each phase and estimating the phase transition points is proposed. The key idea is to use a length-adapted window moving along the observed trajectory, where the window length is determined by finding the minimal observation length that suffices for a successful cost weight recovery. The effectiveness of the proposed method is first evaluated on a simulated robot arm, and then, demonstrated on a dataset of human participants performing a series of squatting tasks. The results demonstrate that the proposed method reliably retrieves the cost function of each phase and segments each phase of motion from the trajectory with a segmentation accuracy above 90%.
-</details>
-
-<p style="margin-bottom:1.50cm; margin-left: 0.5cm"> </p>
-
-
-
-<img src="collections/figures/DIOC.png" alt="Kitten" title="SafePDP" width="200"  align="left" hspace="30" vspace=30 />
-**Distributed Inverse Optimal Control** <br />
-<b>Wanxin Jin</b> and Shaoshuai Mou <br />
-*Automatica*, Volume 129, 2021 <br />
-[[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0005109821001783){:target="_blank"} /
-[[Code]](https://github.com/ZihaoLiang/Inverse-Optimal-Control-from-Demonstration-Segments){:target="_blank"}
-
-
-<p style="margin-bottom:-0.4cm; margin-left: 0.5cm"> </p>
-<details>
-  <summary>Abstract </summary>
-This paper develops a distributed approach for inverse optimal control (IOC) in multi-agent systems. Here each agent can only communicate with certain nearby neighbors and only accesses segments of system’s trajectory, which is not sufficient for the agent to solve the IOC problem alone. By introducing the concept of the data effectiveness and bridging the connection between each segment and its contribution to solving IOC, we formulate the IOC problem as a problem of achieving least-square solutions via a distributed algorithm. Simulations are provided to validate the proposed distributed IOC approach.
-</details>
-
-
-
-
-<p style="margin-bottom:1.8cm; margin-left: 0.5cm"> </p>
-
------
-
-
-### Academic Honors & Awards
-
-<p style="margin-bottom:100; margin-left: -1.0cm"> </p>
-
-- Best Student Paper Finalist at IEEE 40th Digital Avionics Systems Conference (DASC) --- 09.2021
-- ICON Outstanding Research Awards, Purdue University --- 04.2021
-- Magoon Award for Excellence in Teaching, Purdue University --- 09.2020
-- Ross Fellowship, Purdue University --- 2017-2018
-- First prize winner of Provincial Science and Technology Award, Heilongjiang, China -- 06.2017
-
-<p style="margin-bottom:0.8cm; margin-left: 0.5cm"> </p>
-
------
-<br/>
-
-
-<div style="text-align: right"> <a href="#top">Back to top</a> </div>
-
+----- -->

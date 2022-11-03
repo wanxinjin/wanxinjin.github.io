@@ -1,6 +1,6 @@
 /******************************************************************************* Variables used throughout the theme. To adjust anything, simply edit the variables below and rebuild the theme. */
 /******************************************************************************* Themes */
-:root { --global-bg-color: #ffffff; --global-code-bg-color: rgba(181, 9, 172, 0.05); --global-text-color: #000000; --global-text-color-light: #828282; --global-theme-color: #0076df; --global-hover-color: #0076df; --global-footer-bg-color: #424242; --global-footer-text-color: #e8e8e8; --global-footer-link-color: #ffffff; --global-distill-app-color: #828282; }
+:root { --global-bg-color: #ffffff; --global-code-bg-color: rgba(181, 9, 172, 0.05); --global-text-color: #000000; --global-text-color-light: #828282; --global-theme-color: #B509AC; --global-hover-color: #B509AC; --global-footer-bg-color: #424242; --global-footer-text-color: #e8e8e8; --global-footer-link-color: #ffffff; --global-distill-app-color: #828282; }
 
 :root .fa-sun { display: none; }
 
@@ -15,11 +15,11 @@ html[data-theme='dark'] .fa-moon { display: none; }
 /****************************************************************************** Content */
 body { padding-bottom: 70px; color: var(--global-text-color); background-color: var(--global-bg-color); }
 
-body.fixed-top-nav { padding-top: 56px; }
+body.fixed-top-nav { padding-top: 70px; }
 
 body.sticky-bottom-footer { padding-bottom: 0; }
 
-.container { max-width: 800px; }
+.container { max-width: 900px; }
 
 .profile img { width: 70%; }
 
@@ -42,7 +42,7 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 .citation, .citation-number { color: var(--global-theme-color); }
 
-.profile { margin-left: 1rem; width: 100%; }
+.profile { margin-left: 2rem; margin-right: -2rem; margin-top: 5rem; width: 80%; }
 
 .profile .address { margin-bottom: 5px; margin-top: 5px; font-family: monospace; }
 
@@ -196,7 +196,7 @@ footer.sticky-bottom { border-top: 1px solid #e8e8e8; padding-top: 40px; padding
 
 .publications ol.bibliography li .author > em { border-bottom: 1px solid; font-style: normal; }
 
-.publications ol.bibliography li .links a.btn { color: var(--global-text-color); border: 1px solid var(--global-text-color); padding-left: 1rem; padding-right: 1rem; padding-top: 0.25rem; padding-bottom: 0.25rem; }
+.publications ol.bibliography li .links a.btn { color: var(--global-hover-color); border: 1px solid var(--global-hover-color); padding-left: 1rem; padding-right: 1rem; padding-top: 0.25rem; padding-bottom: 0.25rem; }
 
 .publications ol.bibliography li .links a.btn:hover { color: var(--global-theme-color); border-color: var(--global-theme-color); }
 
