@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: clean
 title: Safe Pontryagin Differentiable Programming
 date: 2021-10-20 11:12:00-0400
 description: an example of a blog post with some math

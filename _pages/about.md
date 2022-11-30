@@ -55,12 +55,17 @@ I obtained my Ph.D. from the [School of Aeronautics and Astronautics](https://en
 -----
 #### **My Research**
 
-My research is to formalize and develop **interactive autonomy**, which characterizes robots' capability of seamlessly interacting with humans, touching and affecting physical objects safely and intelligently.  Specifically,  I am making robots
-- **operate in cohort with humans,** by understanding human intents, assisting human's decisions,   improving its autonomy through human intuitive interactions, toward safe and individualized human-robot relation.
-- **reason about and manipulate physical objects**,  by learning and planning with physical representations, touching and affecting objects in a safe and controlled manner, toward human-like physical intelligence.
+My research is to formalize and develop **interactive autonomy**, which characterizes robots' capability of seamlessly interacting with humans, safely and skillfully touching and affecting physical objects.
+Specifically, I am making robots. 
+- **operate in cohort with humans,** by understanding human intents, assisting human decisions, improving
+its autonomy through human intuitive interactions, toward safe and individualized human-robot relation;
+- **reason about and manipulate physical objects**,  by learning and planning with physical representations,
+touching and affecting objects in a safe and controlled manner, toward human-like physical intelligence.
 
-In an era of big data and deep models, I build my solutions to interactive autonomy by the integration of theoretically understanding the fundamentals/limits of the system and empirically learning from the most accessible data. Therefore, my methods of interactive autonomy lie at a middle spot that combines the complementary benefits of control/optimization (model-based) and machine learning (data-driven). 
-
+In an era of big data and deep models, I build my solutions to interactive autonomy by the integration of
+theoretically understanding the fundamentals/limits of the system and empirically learning from the most accessible
+data. Therefore, my methods of interactive autonomy lie at a middle ground that combines the complementary
+benefits of control/optimization (model-based) and machine learning (data-driven).
 
 
 <p style="margin-bottom:1.2cm; margin-left: 1.5cm"> </p>
@@ -84,10 +89,9 @@ In an era of big data and deep models, I build my solutions to interactive auton
 <b>Wanxin Jin</b> and Michael Posa<br />
 Submitted to *IEEE Transactions on Robotics (T-RO)*, under review, 2022 <br />
 [PDF coming soon]/ 
-[Code coming soon]/
-[Video coming soon]/
-[Website coming soon]
-
+[[Code]](https://github.com/wanxinjin/Task-Driven-Hybrid-Reduction){:target="_blank"}
+[[Video]](https://youtu.be/OvhTOQoagTM){:target="_blank"}
+[[Webpage]](../td_hybridreduction){:target="_blank"}
 <p style="margin-bottom:1.0cm; margin-left: 1.5cm"> </p>
 
 ---

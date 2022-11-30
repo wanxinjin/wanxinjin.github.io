@@ -20,7 +20,7 @@ nav: true
 <br /> 
 
 
-###  Journals
+###  **Journals**
 
 
 <p style="margin-bottom:0.5cm; margin-left: 0.5cm"> </p>
@@ -31,9 +31,9 @@ nav: true
 <b>Wanxin Jin</b> and Michael Posa<br />
 Submitted to *IEEE Transactions on Robotics (T-RO)*, under review, 2022 <br />
 [PDF coming soon]/ 
-[Code coming soon]/
-[Video coming soon]/
-[Website coming soon]
+[[Code]](https://github.com/wanxinjin/Task-Driven-Hybrid-Reduction){:target="_blank"}
+[[Video]](https://youtu.be/OvhTOQoagTM){:target="_blank"}
+[[Webpage]](../td_hybridreduction){:target="_blank"}
 
 
 
