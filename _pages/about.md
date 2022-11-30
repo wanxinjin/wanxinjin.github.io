@@ -89,8 +89,8 @@ benefits of control/optimization (model-based) and machine learning (data-driven
 <b>Wanxin Jin</b> and Michael Posa<br />
 Submitted to *IEEE Transactions on Robotics (T-RO)*, under review, 2022 <br />
 [PDF coming soon]/ 
-[[Code]](https://github.com/wanxinjin/Task-Driven-Hybrid-Reduction){:target="_blank"}
-[[Video]](https://youtu.be/OvhTOQoagTM){:target="_blank"}
+[[Code]](https://github.com/wanxinjin/Task-Driven-Hybrid-Reduction){:target="_blank"}/
+[[Video]](https://youtu.be/OvhTOQoagTM){:target="_blank"}/
 [[Webpage]](../td_hybridreduction){:target="_blank"}
 <p style="margin-bottom:1.0cm; margin-left: 1.5cm"> </p>
 
