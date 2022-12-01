@@ -41,7 +41,7 @@ The GRASP Laboratory, University of Pennsylvania
 <img src="../blogs/TRO_HybridReduction/figures/github.png" width="35" target="_blank">&nbsp;
 Code (Github)</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/wanxinjin/Task-Driven-Hybrid-Reduction" target="_blank">
+<a href="https://arxiv.org/abs/2211.16657" target="_blank">
 <img src="../blogs/TRO_HybridReduction/figures/arxiv.png" width="60" target="_blank"> &nbsp;
 Paper (Arxiv)</a>
 </h5>
@@ -65,8 +65,10 @@ Paper (Arxiv)</a>
 <p style="margin-bottom:0.8cm; margin-left: 1.5cm"> </p>
 
 <center>
-  <iframe width="800" height="450" src="https://youtu.be/OvhTOQoagTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="840.0" height="482" src="https://www.youtube.com/embed/OvhTOQoagTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
+
+
 
 
 

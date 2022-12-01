@@ -88,14 +88,14 @@ benefits of control/optimization (model-based) and machine learning (data-driven
 **Task-Driven Hybrid Model Reduction for Dexterous Manipulation** <br />
 <b>Wanxin Jin</b> and Michael Posa<br />
 Submitted to *IEEE Transactions on Robotics (T-RO)*, under review, 2022 <br />
-[PDF coming soon]/ 
+[[PDF]](https://arxiv.org/abs/2211.16657){:target="_blank"}/ 
 [[Code]](https://github.com/wanxinjin/Task-Driven-Hybrid-Reduction){:target="_blank"}/
 [[Video]](https://youtu.be/OvhTOQoagTM){:target="_blank"}/
 [[Webpage]](../td_hybridreduction){:target="_blank"}
 <p style="margin-bottom:1.0cm; margin-left: 1.5cm"> </p>
 
 ---
-<img src="collections/research/manipulation/learning_lcs.gif"  title="SafePDP" width="150"  align="left" hspace="25" vspace=0 />
+<img src="collections/research/manipulation/cartpole_wall_crop.gif"  title="SafePDP" width="150"  align="left" hspace="25" vspace=0 />
 **Learning Linear Complementarity Systems** <br />
 <b>Wanxin Jin</b>, Alp Aydinoglu, Mathew Halm, and Michael Posa<br />
 *Learning for Dynamics and Control (L4DC)*, 2022 <br />

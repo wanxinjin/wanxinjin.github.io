@@ -30,7 +30,7 @@ nav: true
 1. **Task-Driven Hybrid Model Reduction for Dexterous Manipulation** <br />
 <b>Wanxin Jin</b> and Michael Posa<br />
 Submitted to *IEEE Transactions on Robotics (T-RO)*, under review, 2022 <br />
-[PDF coming soon]/ 
+[[PDF]](https://arxiv.org/abs/2211.16657){:target="_blank"}/ 
 [[Code]](https://github.com/wanxinjin/Task-Driven-Hybrid-Reduction){:target="_blank"}
 [[Video]](https://youtu.be/OvhTOQoagTM){:target="_blank"}
 [[Webpage]](../td_hybridreduction){:target="_blank"}

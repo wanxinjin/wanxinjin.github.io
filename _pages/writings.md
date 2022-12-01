@@ -41,7 +41,7 @@ nav: true
 <div style="background-color:rgba(0, 0, 0, 0.0470588);  vertical-align: middle; padding:10px; padding-left: 20px; padding-right: -20px;">
 
 <p align = "left">
-Arxiv: Coming soon <br/>
+Arxiv: <a href="https://arxiv.org/abs/2211.16657" target="_blank">https://arxiv.org/abs/2211.16657</a> <br/>
 Code (Python): <a href="https://github.com/wanxinjin/Task-Driven-Hybrid-Reduction" target="_blank">https://github.com/wanxinjin/Task-Driven-Hybrid-Reduction</a> <br/>
 Webpage: <a href="https://wanxinjin.github.io/td_hybridreduction/" target="_blank">https://wanxinjin.github.io/td_hybridreduction/</a>
 <details> <summary><span style="font-family:Georgia; font-size:1.0em;">Abstract (click to check abstract)</span></summary>
@@ -205,7 +205,7 @@ This paper develops the method of Continuous Pontryagin Differentiable Programmi
 
 <div style="background-color:rgba(0, 0, 0, 0.0470588);  vertical-align: middle; padding:10px; padding-left: 20px; padding-right: -20px;">
 <p align = "left">
-Arxiv:  <a href="https://arxiv.org/pdf/1912.12970.pdf" target="_blank">https://arxiv.org/pdf/1912.12970.pdf</a> <br/>
+Arxiv:  <a href="https://arxiv.org/pdf/1912.12970" target="_blank">https://arxiv.org/pdf/1912.12970.pdf</a> <br/>
 Code (Python): <a href="https://github.com/wanxinjin/Pontryagin-Differentiable-Programming" target="_blank">https://github.com/wanxinjin/Pontryagin-Differentiable-Programming</a> 
 <details> <summary><span style="font-family:Georgia; font-size:1.0em;">Abstract (click to check abstract)</span></summary>
 	<br/>
