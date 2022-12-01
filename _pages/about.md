@@ -115,7 +115,7 @@ Submitted to *IEEE Transactions on Robotics (T-RO)*, under review, 2022 <br />
 *IEEE Transactions on Robotics (T-RO)*, 2022 <br />
 [[PDF]](https://arxiv.org/abs/2011.15014){:target="_blank"} /
 [[Code]](https://github.com/wanxinjin/Learning-from-Directional-Corrections){:target="_blank"} /
-[[Videos]](https://youtu.be/6XavhnE2q1s){:target="_blank"}
+[[Videos]](https://youtu.be/Mwlwt055Tgg){:target="_blank"}
 
 <p style="margin-bottom:0.8cm; margin-left: 1.5cm"> </p>
 
@@ -168,7 +168,7 @@ Submitted to *IEEE Transactions on Robotics (T-RO)*, under review, 2022 <br />
 *Advances in Neural Information Processing Systems (NeurIPS),*  2020 <br />
 [[PDF]](https://papers.nips.cc/paper/2020/file/5a7b238ba0f6502e5d6be14424b20ded-Paper.pdf){:target="_blank"} /
 [[Code]](https://github.com/wanxinjin/Pontryagin-Differentiable-Programming){:target="_blank"} /
-[[Videos]](videos#PDP){:target="_blank"}
+[[Videos]](https://slideslive.com/38936632){:target="_blank"}
 
 <p style="margin-bottom:1.4cm; margin-left: 1.5cm"> </p>
 
@@ -180,7 +180,7 @@ Submitted to *IEEE Transactions on Robotics (T-RO)*, under review, 2022 <br />
 *Advances in Neural Information Processing Systems (NeurIPS)*, 2021<br />
 [[PDF]](https://arxiv.org/abs/2105.14937){:target="_blank"} / 
 [[Code]](https://github.com/wanxinjin/Safe-PDP){:target="_blank"} / 
-[[Videos]](videos#SafePDP){:target="_blank"}
+[[Videos]](https://slideslive.com/38968248){:target="_blank"}
 
 <p style="margin-bottom:1.4cm; margin-left: 1.5cm"> </p>
 

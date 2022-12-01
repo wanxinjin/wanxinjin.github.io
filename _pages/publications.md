@@ -53,7 +53,7 @@ Submitted to *IEEE Robotics and Automation Letters (RA-L)*, under review, 2022<b
 	_IEEE Transactions on Robotics (T-RO)_, 2022<br />
 	[[PDF]](https://arxiv.org/abs/2011.15014){:target="_blank"} 
 	[[Code]](https://github.com/wanxinjin/Learning-from-Directional-Corrections){:target="_blank"} 
-	[[Videos]](https://youtu.be/6XavhnE2q1s){:target="_blank"}
+	[[Videos]](https://youtu.be/Mwlwt055Tgg){:target="_blank"}
 
 
 1. **Learning from Sparse Demonstrations** <br />
@@ -90,7 +90,7 @@ _Automatica_, Volume 129, 2021 <br />
 1. 
 [**Reference-Free Path-Walking Method for Ball Grid Array Inspection in Surface Mounting Machines**](https://ieeexplore.ieee.org/document/7878575){:target="_blank"} <br />
 <b>Wanxin Jin</b>, Weiyang Lin, Xianqiang Yang, and Huijun Gao  <br />
-_IEEE Transactions on Industrial Electronics (T-IE)_, <br />
+_IEEE Transactions on Industrial Electronics (T-IE)_,
 64(8):6310–6318, 2017
 
 
@@ -110,22 +110,6 @@ Electronics (T-IE)_, 64(4):3030–3038, 2016
 <p style="margin-bottom:0.5cm; margin-left: 0.5cm"> </p>
 
 ---
-2. **RobLAX: A Differentiable Robotics Framework for Physics Augmented Reinforcement Learning** <br />
-Guo Ye, Qinjie Lin,  <b>Wanxin Jin</b>, Zhaoran Wang, Haozheng Luo, Tim Tsz-Kit Lau, cheng zhou, Han Liu <br />
-Submitted to _IEEE International Conference on Robotics and Automation (ICRA)_, under review  2023.
-
-
-2. **Enforcing hard constraints with soft barriers: safe reinforcement learning in unknown stochastic environments** <br />
-Yixuan Wang, Simon  Zhan, Ruochen Jiao, Zhilu Wang, <b> Wanxin Jin </b>, Zhuoran Yang,
-Zhaoran Wang, Chao Huang, Qi Zhu, <br />
-Submitted to _International Conference on Learning Representations (ICLR)_, under review  2023.
-
-2. **TacTID: Terrain Identification and Pose Estimation for Legged
-Robot with a High-performance Visuo-Tactile Sensor** <br/>
-Chenchang Li, Ziwu Song, Zhentan Quan, Shilong Mu, <b>Wanxin Jin</b>, Yanjun Zhu, Wenbo Ding
-Submitted to _IEEE International Conference on Robotics and Automation (ICRA)_, under review  2023.
-
-
 
 2. **Learning Linear Complementarity Systems** <br />
 <b>Wanxin Jin</b>, Alp Aydinoglu, Mathew Halm, and Michael Posa<br />
@@ -134,6 +118,12 @@ Submitted to _IEEE International Conference on Robotics and Automation (ICRA)_, 
 [[Code]](https://github.com/wanxinjin/Learning-LCS){:target="_blank"}
 
 
+2. **Pontryagin Differentiable Programming: An End-to-End Learning and Control Framework** <br />
+<b>Wanxin Jin</b>, Zhaoran Wang, Zhuoran Yang, and Shaoshuai Mou<br />
+*Advances in Neural Information Processing Systems (NeurIPS),*  2020 <br />
+[[PDF]](https://papers.nips.cc/paper/2020/file/5a7b238ba0f6502e5d6be14424b20ded-Paper.pdf){:target="_blank"} /
+[[Code]](https://github.com/wanxinjin/Pontryagin-Differentiable-Programming){:target="_blank"} /
+[[Videos]](https://slideslive.com/38936632){:target="_blank"}
 
 
 
@@ -142,34 +132,47 @@ Submitted to _IEEE International Conference on Robotics and Automation (ICRA)_, 
 *Advances in Neural Information Processing Systems (NeurIPS)*, 2021<br />
 [[PDF]](https://arxiv.org/abs/2105.14937){:target="_blank"} / 
 [[Code]](https://github.com/wanxinjin/Safe-PDP){:target="_blank"} / 
-[[Videos]](videos#SafePDP){:target="_blank"}
-
-2. **Pontryagin Differentiable Programming: An End-to-End Learning and Control Framework** <br />
-<b>Wanxin Jin</b>, Zhaoran Wang, Zhuoran Yang, and Shaoshuai Mou<br />
-*Advances in Neural Information Processing Systems (NeurIPS),*  2020 <br />
-[[PDF]](https://papers.nips.cc/paper/2020/file/5a7b238ba0f6502e5d6be14424b20ded-Paper.pdf){:target="_blank"} /
-[[Code]](https://github.com/wanxinjin/Pontryagin-Differentiable-Programming){:target="_blank"} /
-[[Videos]](videos#PDP){:target="_blank"}
+[[Videos]](https://slideslive.com/38968248){:target="_blank"}
 
 
-2. 
-[**Human-Automation Interaction for Assisting Novices to Emulate Experts by Inferring Task Objective Functions**](https://ieeexplore.ieee.org/document/9594324){:target="\_blank"}<br /> 
+2. **Human-Automation Interaction for Assisting Novices to Emulate Experts by Inferring Task Objective Functions**<br /> 
 Sooyung Byeon, <b>Wanxin Jin</b>, Dawei Sun, and Inseok Hwang<br />
 In _AIAA/IEEE 40th Digital Avionics Systems Conference (DASC)_ , 2021. **Best Student Paper Finalist** <br />
 [[PDF]](https://ieeexplore.ieee.org/document/9594324){:target="_blank"} 
 
 
 2. 
-[**Cooperative tuning of multi-agent optimal control systems**](){:target="\_blank"}<br /> 
+**Cooperative tuning of multi-agent optimal control systems**<br /> 
 Zehui Lu, <b>Wanxin Jin</b>, Shaoshuai Mou, and Brian. D. Anderson<br />
 In _IEEE Conference on Decision and Control (CDC)_ , 2022. <br />
-<!-- [[PDF]](https://ieeexplore.ieee.org/document/9594324){:target="_blank"}  -->
+[[PDF]](https://arxiv.org/abs/2209.12017){:target="_blank"} 
 
 2. 
 [**Learning Objective Functions Incrementally by Inverse Optimal Control**](https://arxiv.org/abs/2010.15034){:target="\_blank"}<br /> 
 Zehui Lu, <b>Wanxin Jin</b>, and Shaoshuai Mou<br />
 In _Asian Control Conference (ASCC)_ , 2022 <br />
 [[PDF]](https://arxiv.org/abs/2010.15034){:target="_blank"} 
+
+2. **Enforcing hard constraints with soft barriers: safe reinforcement learning in unknown stochastic environments** <br />
+Yixuan Wang, Simon  Zhan, Ruochen Jiao, Zhilu Wang, <b> Wanxin Jin </b>, Zhuoran Yang,
+Zhaoran Wang, Chao Huang, Qi Zhu, <br />
+Submitted to _International Conference on Learning Representations (ICLR)_, under review  2023. <br />
+[[PDF]](https://arxiv.org/abs/2209.15090){:target="_blank"} 
+
+2. **RobLAX: A Differentiable Robotics Framework for Physics Augmented Reinforcement Learning** <br />
+Guo Ye, Qinjie Lin,  <b>Wanxin Jin</b>, Zhaoran Wang, Haozheng Luo, Tim Tsz-Kit Lau, cheng zhou, Han Liu <br />
+Submitted to _IEEE International Conference on Robotics and Automation (ICRA)_, under review  2023.
+
+
+
+
+2. **TacTID: Terrain Identification and Pose Estimation for Legged
+Robot with a High-performance Visuo-Tactile Sensor** <br/>
+Chenchang Li, Ziwu Song, Zhentan Quan, Shilong Mu, <b>Wanxin Jin</b>, Yanjun Zhu, Wenbo Ding
+Submitted to _IEEE International Conference on Robotics and Automation (ICRA)_, under review  2023.
+
+
+
 
 
 
@@ -186,15 +189,17 @@ In _Asian Control Conference (ASCC)_ , 2022 <br />
 <p style="margin-bottom:0.5cm; margin-left: 0.5cm"> </p>
 
 ---
-3. [**Neural certificates for safe control policies**](https://arxiv.org/abs/2006.08465){:target="_blank"}<br /> 
+3. **Neural certificates for safe control policies**<br /> 
 <b>Wanxin Jin</b>, ZhaoranWang, Zhuoran Yang, and Shaoshuai Mou<br /> 
-Arxiv, 2020.
+Arxiv, 2020. <br/>
+[[PDF]](https://arxiv.org/abs/2006.08465){:target="_blank"}
 
 
-
-3. [**Learning multi-robot coordination from demonstrations**](https://arxiv.org/abs/2207.08892){:target="_blank"}<br /> 
+3. **Learning multi-robot coordination from demonstrations**<br /> 
 Xuan Wang and <b>Wanxin Jin</b><br /> 
-Arxiv, 2022.
+Arxiv, 2022. <br/>
+[[PDF]](https://arxiv.org/abs/2207.08892){:target="_blank"} / [[Video]](https://mason.gmu.edu/~xwang64/research.html){:target="_blank"}
+
 
 <p style="margin-bottom:2.0cm; margin-left: 0.5cm"> </p>
 

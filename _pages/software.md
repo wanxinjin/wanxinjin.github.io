@@ -38,6 +38,6 @@ nav: true
 <a href="https://github.com/wanxinjin/Learning-from-Sparse-Demonstrations">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wanxinjin&theme=moltack&repo=Learning-from-Sparse-Demonstrations" />
 </a>
-<a href="https://github.com/wanxinjin/Learning-LCS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wanxinjin&theme=moltack&repo=Learning-LCS" />
+<a href="https://github.com/wanxinjin/Task-Driven-Hybrid-Reduction">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wanxinjin&theme=moltack&repo=Task-Driven-Hybrid-Reduction" />
 </a>
