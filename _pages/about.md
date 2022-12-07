@@ -107,7 +107,7 @@ Submitted to *IEEE Transactions on Robotics (T-RO)*, under review, 2022 <br />
 <p style="margin-bottom:1.8cm; margin-left: 1.5cm"> </p>
 
 
-##### **2. Action as Communication:  Demystifying Human Behavior for Robot Autonomy**
+##### **2. Improving Robot Autonomy by Learning from the Most Efficient Human Interactions**
 ---
 <img src="collections/research/human/correction.gif" width="150"  align="left" hspace="30" vspace=5 />
 **Learning from Human Directional Corrections** <br />
