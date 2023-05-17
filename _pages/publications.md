@@ -29,7 +29,7 @@ nav: true
 ---
 1. **Task-Driven Hybrid Model Reduction for Dexterous Manipulation** <br />
 <b>Wanxin Jin</b> and Michael Posa<br />
-Submitted to *IEEE Transactions on Robotics (T-RO)*, under review, 2022 <br />
+Submitted to *IEEE Transactions on Robotics (T-RO)*, conditionally accepted, 2023 <br />
 [[PDF]](https://arxiv.org/abs/2211.16657){:target="_blank"}/ 
 [[Code]](https://github.com/wanxinjin/Task-Driven-Hybrid-Reduction){:target="_blank"}
 [[Video]](https://youtu.be/OvhTOQoagTM){:target="_blank"}
@@ -39,7 +39,7 @@ Submitted to *IEEE Transactions on Robotics (T-RO)*, under review, 2022 <br />
 
 1. **Robust Safe Learning and Control in Unknown Environments: An Uncertainty-Aware Control Barrier Function Approach** <br />
 Jiacheng Li, Qingchen Liu, <b>Wanxin Jin</b>, Jiahu Qin, and Sandra Hirche<br />
-Submitted to *IEEE Robotics and Automation Letters (RA-L)*, under review, 2022<br />
+Submitted to *IEEE Robotics and Automation Letters (RA-L)*, under review, 2023<br />
 [PDF coming soon]/ 
 [Code coming soon]/
 [Video coming soon]
@@ -134,6 +134,23 @@ Electronics (T-IE)_, 64(4):3030–3038, 2016
 [[Code]](https://github.com/wanxinjin/Safe-PDP){:target="_blank"} / 
 [[Videos]](https://slideslive.com/38968248){:target="_blank"}
 
+2. **Adaptive Barrier Smoothing for First-Order Policy Gradient with Contact Dynamics** <br />
+Shenao Zhang, <b>Wanxin Jin</b>, Zhaoran Wang<br />
+*International Conference on Machine Learning (ICML)*, 2023<br />
+[PDF coming soon] / 
+[Code coming soon] / 
+[Video coming soon]
+
+
+2. **Enforcing Hard Constraints with Soft Barriers: Safe-driven Reinforcement Learning in Unknown Stochastic Environments** <br />
+Yixuan Wang, Simon Sinong Zhan, Ruochen Jiao, Zhilu Wang, <b>Wanxin Jin</b>, Zhuoran Yang, Zhaoran Wang, Chao Huang, Qi Zhu<br />
+Submitted to *International Conference on Machine Learning (ICML)*, under review, 2023<br />
+[[PDF]](https://arxiv.org/abs/2209.15090){:target="_blank"}  / 
+[Code coming soon] / 
+[Video coming soon]
+
+
+
 
 2. **Human-Automation Interaction for Assisting Novices to Emulate Experts by Inferring Task Objective Functions**<br /> 
 Sooyung Byeon, <b>Wanxin Jin</b>, Dawei Sun, and Inseok Hwang<br />
@@ -153,23 +170,15 @@ Zehui Lu, <b>Wanxin Jin</b>, and Shaoshuai Mou<br />
 In _Asian Control Conference (ASCC)_ , 2022 <br />
 [[PDF]](https://arxiv.org/abs/2010.15034){:target="_blank"} 
 
-2. **Enforcing hard constraints with soft barriers: safe reinforcement learning in unknown stochastic environments** <br />
-Yixuan Wang, Simon  Zhan, Ruochen Jiao, Zhilu Wang, <b> Wanxin Jin </b>, Zhuoran Yang,
-Zhaoran Wang, Chao Huang, Qi Zhu, <br />
-Submitted to _International Conference on Learning Representations (ICLR)_, under review  2023. <br />
-[[PDF]](https://arxiv.org/abs/2209.15090){:target="_blank"} 
-
-2. **RobLAX: A Differentiable Robotics Framework for Physics Augmented Reinforcement Learning** <br />
-Guo Ye, Qinjie Lin,  <b>Wanxin Jin</b>, Zhaoran Wang, Haozheng Luo, Tim Tsz-Kit Lau, cheng zhou, Han Liu <br />
-Submitted to _IEEE International Conference on Robotics and Automation (ICRA)_, under review  2023.
 
 
 
-
-2. **TacTID: Terrain Identification and Pose Estimation for Legged
-Robot with a High-performance Visuo-Tactile Sensor** <br/>
-Chenchang Li, Ziwu Song, Zhentan Quan, Shilong Mu, <b>Wanxin Jin</b>, Yanjun Zhu, Wenbo Ding
-Submitted to _IEEE International Conference on Robotics and Automation (ICRA)_, under review  2023.
+2. **D3G: Learning Multi-robot Coordination from Demonstrations** <br/>
+Xuan Wang, YiZhi Zhou, and <b>Wanxin Jin</b><br/>
+Submitted to _IEEE International Conference on Intelligent Robots and Systems (IROS)_, under review  2023.<br />
+[[PDF]](https://arxiv.org/pdf/2207.08892.pdf){:target="_blank"} /
+[[Code]](https://github.com/Shawn-XuanWang/D3G){:target="_blank"} /
+[[Videos]](https://www.youtube.com/watch?v=tLclCYVt3NI){:target="_blank"}
 
 
 
@@ -195,10 +204,6 @@ Arxiv, 2020. <br/>
 [[PDF]](https://arxiv.org/abs/2006.08465){:target="_blank"}
 
 
-3. **Learning multi-robot coordination from demonstrations**<br /> 
-Xuan Wang and <b>Wanxin Jin</b><br /> 
-Arxiv, 2022. <br/>
-[[PDF]](https://arxiv.org/abs/2207.08892){:target="_blank"} / [[Video]](https://mason.gmu.edu/~xwang64/research.html){:target="_blank"}
 
 
 <p style="margin-bottom:2.0cm; margin-left: 0.5cm"> </p>

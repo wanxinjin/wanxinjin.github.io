@@ -7,7 +7,7 @@
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/_pages/dropdown.html</loc>
+<loc>http://localhost:4000/lab/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/td_hybridreduction/</loc>
@@ -20,9 +20,6 @@
 </url>
 <url>
 <loc>http://localhost:4000/teaching/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/videos/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/posts/</loc>

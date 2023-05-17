@@ -1,4 +1,4 @@
-I"&.<h4 id="table-of-contents">Table of Contents</h4>
+I"‚-<h4 id="table-of-contents">Table of Contents</h4>
 
 <ul>
   <li><a href="#journals">Journals</a></li>
@@ -19,7 +19,7 @@
   <li>
     <p><strong>Task-Driven Hybrid Model Reduction for Dexterous Manipulation</strong> <br />
 <b>Wanxin Jin</b> and Michael Posa<br />
-Submitted to <em>IEEE Transactions on Robotics (T-RO)</em>, under review, 2022 <br />
+Submitted to <em>IEEE Transactions on Robotics (T-RO)</em>, conditionally accepted, 2023 <br />
 <a href="https://arxiv.org/abs/2211.16657" target="_blank">[PDF]</a>/ 
 <a href="https://github.com/wanxinjin/Task-Driven-Hybrid-Reduction" target="_blank">[Code]</a>
 <a href="https://youtu.be/OvhTOQoagTM" target="_blank">[Video]</a>
@@ -28,7 +28,7 @@ Submitted to <em>IEEE Transactions on Robotics (T-RO)</em>, under review, 2022 <
   <li>
     <p><strong>Robust Safe Learning and Control in Unknown Environments: An Uncertainty-Aware Control Barrier Function Approach</strong> <br />
 Jiacheng Li, Qingchen Liu, <b>Wanxin Jin</b>, Jiahu Qin, and Sandra Hirche<br />
-Submitted to <em>IEEE Robotics and Automation Letters (RA-L)</em>, under review, 2022<br />
+Submitted to <em>IEEE Robotics and Automation Letters (RA-L)</em>, under review, 2023<br />
 [PDF coming soon]/ 
 [Code coming soon]/
 [Video coming soon]</p>
@@ -122,6 +122,22 @@ Electronics (T-IE)</em>, 64(4):3030â€“3038, 2016</p>
 <a href="https://slideslive.com/38968248" target="_blank">[Videos]</a></p>
   </li>
   <li>
+    <p><strong>Adaptive Barrier Smoothing for First-Order Policy Gradient with Contact Dynamics</strong> <br />
+Shenao Zhang, <b>Wanxin Jin</b>, Zhaoran Wang<br />
+<em>International Conference on Machine Learning (ICML)</em>, 2023<br />
+[PDF coming soon] / 
+[Code coming soon] / 
+[Video coming soon]</p>
+  </li>
+  <li>
+    <p><strong>Enforcing Hard Constraints with Soft Barriers: Safe-driven Reinforcement Learning in Unknown Stochastic Environments</strong> <br />
+Yixuan Wang, Simon Sinong Zhan, Ruochen Jiao, Zhilu Wang, <b>Wanxin Jin</b>, Zhuoran Yang, Zhaoran Wang, Chao Huang, Qi Zhu<br />
+Submitted to <em>International Conference on Machine Learning (ICML)</em>, under review, 2023<br />
+<a href="https://arxiv.org/abs/2209.15090" target="_blank">[PDF]</a>  / 
+[Code coming soon] / 
+[Video coming soon]</p>
+  </li>
+  <li>
     <p><strong>Human-Automation Interaction for Assisting Novices to Emulate Experts by Inferring Task Objective Functions</strong><br /> 
 Sooyung Byeon, <b>Wanxin Jin</b>, Dawei Sun, and Inseok Hwang<br />
 In <em>AIAA/IEEE 40th Digital Avionics Systems Conference (DASC)</em> , 2021. <strong>Best Student Paper Finalist</strong> <br />
@@ -140,22 +156,12 @@ In <em>Asian Control Conference (ASCC)</em> , 2022 <br />
 <a href="https://arxiv.org/abs/2010.15034" target="_blank">[PDF]</a></p>
   </li>
   <li>
-    <p><strong>Enforcing hard constraints with soft barriers: safe reinforcement learning in unknown stochastic environments</strong> <br />
-Yixuan Wang, Simon  Zhan, Ruochen Jiao, Zhilu Wang, <b> Wanxin Jin </b>, Zhuoran Yang,
-Zhaoran Wang, Chao Huang, Qi Zhu, <br />
-Submitted to <em>International Conference on Learning Representations (ICLR)</em>, under review  2023. <br />
-<a href="https://arxiv.org/abs/2209.15090" target="_blank">[PDF]</a></p>
-  </li>
-  <li>
-    <p><strong>RobLAX: A Differentiable Robotics Framework for Physics Augmented Reinforcement Learning</strong> <br />
-Guo Ye, Qinjie Lin,  <b>Wanxin Jin</b>, Zhaoran Wang, Haozheng Luo, Tim Tsz-Kit Lau, cheng zhou, Han Liu <br />
-Submitted to <em>IEEE International Conference on Robotics and Automation (ICRA)</em>, under review  2023.</p>
-  </li>
-  <li>
-    <p><strong>TacTID: Terrain Identification and Pose Estimation for Legged
-Robot with a High-performance Visuo-Tactile Sensor</strong> <br />
-Chenchang Li, Ziwu Song, Zhentan Quan, Shilong Mu, <b>Wanxin Jin</b>, Yanjun Zhu, Wenbo Ding
-Submitted to <em>IEEE International Conference on Robotics and Automation (ICRA)</em>, under review  2023.</p>
+    <p><strong>D3G: Learning Multi-robot Coordination from Demonstrations</strong> <br />
+Xuan Wang, YiZhi Zhou, and <b>Wanxin Jin</b><br />
+Submitted to <em>IEEE International Conference on Intelligent Robots and Systems (IROS)</em>, under review  2023.<br />
+<a href="https://arxiv.org/pdf/2207.08892.pdf" target="_blank">[PDF]</a> /
+<a href="https://github.com/Shawn-XuanWang/D3G" target="_blank">[Code]</a> /
+<a href="https://www.youtube.com/watch?v=tLclCYVt3NI" target="_blank">[Videos]</a></p>
   </li>
 </ol>
 
@@ -167,18 +173,10 @@ Submitted to <em>IEEE International Conference on Robotics and Automation (ICRA)
 
 <hr />
 <ol>
-  <li>
-    <p><strong>Neural certificates for safe control policies</strong><br /> 
+  <li><strong>Neural certificates for safe control policies</strong><br /> 
 <b>Wanxin Jin</b>, ZhaoranWang, Zhuoran Yang, and Shaoshuai Mou<br /> 
 Arxiv, 2020. <br />
-<a href="https://arxiv.org/abs/2006.08465" target="_blank">[PDF]</a></p>
-  </li>
-  <li>
-    <p><strong>Learning multi-robot coordination from demonstrations</strong><br /> 
-Xuan Wang and <b>Wanxin Jin</b><br /> 
-Arxiv, 2022. <br />
-<a href="https://arxiv.org/abs/2207.08892" target="_blank">[PDF]</a> / <a href="https://mason.gmu.edu/~xwang64/research.html" target="_blank">[Video]</a></p>
-  </li>
+<a href="https://arxiv.org/abs/2006.08465" target="_blank">[PDF]</a></li>
 </ol>
 
 <p style="margin-bottom:2.0cm; margin-left: 0.5cm"> </p>

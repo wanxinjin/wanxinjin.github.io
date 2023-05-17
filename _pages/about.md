@@ -28,7 +28,19 @@ social: false  # includes social icons at the bottom of the page
 
 I obtained my Ph.D. from the [School of Aeronautics and Astronautics](https://engineering.purdue.edu/AAE){:target="_blank"}, [Purdue University](https://www.purdue.edu/){:target="_blank"} in 2021. I was a research assistant at [Technical University of Munich](https://www.tum.de/en/){:target="_blank"}, Germany, 2016-2017. I obtained my Master's and Bachelor’s degrees in Control Science & Engineering from the Harbin Institute of Technology, China.
 
-<p style="margin-bottom:0.8cm; margin-left: 1.5cm"> </p>
+
+**News:** 
+Starting this fall 2023, I will be joining the <a href="https://engineering.asu.edu/">Ira A. Fulton Schools of Engineering</a> at Arizona State University as a tenure-track assistant professor.
+
+**News:** 
+This website will not be regularly maintained. Please visit the ASU lab website for more: [https://asu-iris.github.io/](https://asu-iris.github.io/)
+
+**News:** 
+<strong>Two Ph.D. positions are available in our lab! Please check <a href="https://asu-iris.github.io/joining/">Joining</a> for more details. The positions will commence as early as Spring 2024 and are fully funded (tuition + monthly salary). </strong>
+
+
+
+<p style="margin-bottom:1.2cm; margin-left: 1.5cm"> </p>
 
 
 
@@ -55,17 +67,14 @@ I obtained my Ph.D. from the [School of Aeronautics and Astronautics](https://en
 -----
 #### **My Research**
 
-My research is to formalize and develop **interactive autonomy**, which characterizes robots' capability of seamlessly interacting with humans, safely and skillfully touching and affecting physical objects.
-Specifically, I am making robots. 
-- **operate in cohort with humans,** by understanding human intents, assisting human decisions, improving
-its autonomy through human intuitive interactions, toward safe and individualized human-robot relation;
-- **reason about and manipulate physical objects**,  by learning and planning with physical representations,
-touching and affecting objects in a safe and controlled manner, toward human-like physical intelligence.
+My research  focuses on developing <strong>interactive intelligence</strong>, which makes robots to
+- **seamlessly interact with humans**, by understanding human intent, assisting with human decision-making, improving
+its intelligence through human intuitive interactions, toward safe and personalized human-robot relationship; 
 
-In an era of big data and deep models, I build my solutions to interactive autonomy by the integration of
-theoretically understanding the fundamentals/limits of the system and empirically learning from the most accessible
-data. Therefore, my methods of interactive autonomy lie at a middle ground that combines the complementary
-benefits of control/optimization (model-based) and machine learning (data-driven).
+- **skillfully manipulating physical objects**, by learning and planning with physical representations, 
+touching and affecting objects with maximum dexterity while ensuring safety and controllability, toward human-level physical intelligence.
+
+I develop my solutions for interactive intelligence by combining a theoretical understanding of system fundamentals with empirical learning from readily accessible data. Our approaches are positioned at the intersection of control/optimization (model-based) and machine learning (data-driven), leveraging the complementary benefits of both.
 
 
 <p style="margin-bottom:1.2cm; margin-left: 1.5cm"> </p>
@@ -80,14 +89,14 @@ benefits of control/optimization (model-based) and machine learning (data-driven
 <p style="margin-bottom:1.2cm; margin-left: 1.5cm"> </p>
 
 
-##### **1. Dexterous Manipulation**
+##### **1. Multi-contact (Dexterous) Manipulation**
 ---
 
-<img src="collections/research/manipulation/three_finger_manipulation.gif"  width="140"  align="left" hspace="30" vspace=0 />
+<img src="collections/research/manipulation/moving_webpage2.gif"  width="140"  align="left" hspace="30" vspace=0 />
 
 **Task-Driven Hybrid Model Reduction for Dexterous Manipulation** <br />
 <b>Wanxin Jin</b> and Michael Posa<br />
-Submitted to *IEEE Transactions on Robotics (T-RO)*, under review, 2022 <br />
+Submitted to *IEEE Transactions on Robotics (T-RO)*, conditionally accepted, 2023 <br />
 [[PDF]](https://arxiv.org/abs/2211.16657){:target="_blank"}/ 
 [[Code]](https://github.com/wanxinjin/Task-Driven-Hybrid-Reduction){:target="_blank"}/
 [[Video]](https://youtu.be/OvhTOQoagTM){:target="_blank"}/
@@ -103,11 +112,22 @@ Submitted to *IEEE Transactions on Robotics (T-RO)*, under review, 2022 <br />
 [[Code]](https://github.com/wanxinjin/Learning-LCS){:target="_blank"}
 
 
+---
+<img src="collections/research/manipulation/ball_falling.png"  title="SafePDP" width="150"  align="left" hspace="25" vspace=0 />
+**Adaptive Barrier Smoothing for First-Order Policy Gradient with Contact Dynamics** <br />
+ Shenao Zhang, <b>Wanxin Jin</b>, Zhaoran Wang<br />
+*International Conference on Machine Learning (ICML)*, 2023 <br />
+[PDF coming soon] / 
+[Code coming soon] / 
+[Video coming soon]
+
+
+
 
 <p style="margin-bottom:1.8cm; margin-left: 1.5cm"> </p>
 
 
-##### **2. Improving Robot Autonomy by Learning from the Most Efficient Human Interactions**
+##### **2. Robot Learning with Human-On-The-Loop**
 ---
 <img src="collections/research/human/correction.gif" width="150"  align="left" hspace="30" vspace=5 />
 **Learning from Human Directional Corrections** <br />
@@ -189,10 +209,23 @@ Submitted to *IEEE Transactions on Robotics (T-RO)*, under review, 2022 <br />
 <img src="collections/research/fundamental/uncertainty_aware.gif"  width="160"  align="left" hspace="25" vspace=10 />
 **Robust Safe Learning and Control in Unknown Environments: An Uncertainty-Aware Control Barrier Function Approach** <br />
 Jiacheng Li, Qingchen Liu, <b>Wanxin Jin</b>, Jiahu Qin, and Sandra Hirche<br />
-Submitted to *IEEE Robotics and Automation Letters (RA-L)*, under review, 2022<br />
+Submitted to *IEEE Robotics and Automation Letters (RA-L)*, under review, 2023<br />
 [PDF coming soon] / 
 [Code coming soon] / 
 [Video coming soon]
+
+---
+<img src="collections/research/fundamental/keyidea.png"  width="160"  align="left" hspace="25" vspace=20 />
+**Enforcing Hard Constraints with Soft Barriers: Safe-driven Reinforcement Learning in Unknown Stochastic Environments** <br />
+Yixuan Wang, Simon Sinong Zhan, Ruochen Jiao, Zhilu Wang, <b>Wanxin Jin</b>, Zhuoran Yang, Zhaoran Wang, Chao Huang, Qi Zhu<br />
+Submitted to *International Conference on Machine Learning (ICML)*, under review, 2023<br />
+[[PDF]](https://arxiv.org/abs/2209.15090){:target="_blank"}    / 
+[Code coming soon] / 
+[Video coming soon]
+
+
+
+
 
 
 
@@ -200,119 +233,3 @@ Submitted to *IEEE Robotics and Automation Letters (RA-L)*, under review, 2022<b
 
 
 
-
-
-<!-- -----
-
-
-### Academic Honors & Awards
-
-<p style="margin-bottom:100; margin-left: -1.0cm"> </p>
-
-- Best Student Paper Finalist at IEEE 40th Digital Avionics Systems Conference (DASC) --- 09.2021
-- ICON Outstanding Research Awards, Purdue University --- 04.2021
-- Magoon Award for Excellence in Teaching, Purdue University --- 09.2020
-- Ross Fellowship, Purdue University --- 2017-2018
-- First prize winner of Provincial Science and Technology Award, Heilongjiang, China -- 06.2017
-
-<p style="margin-bottom:0.8cm; margin-left: 0.5cm"> </p>
-
------
-<br/>
-
-
-<div style="text-align: right"> <a href="#top">Back to top</a> </div>
-
-
-
-
-
- -->
-
-
-
-<!-- -----
-### Recent news
-
-<p style="margin-bottom:100; margin-left: -1.0cm"> </p>
-
-
-<table>
-
-<tr>
-    <td style="width:10%">
-      <b>06. 2022</b>
-    </td>
-    <td>Paper 
-    <a href="https://arxiv.org/abs/2011.15014" target="_blank">Learning from Human Directional Corrections</a>
-     was accepted to  <em> IEEE Transactions on Robotics</em>.
-    </td>
-</tr>
-
-<tr>
-    <td style="width:10%">
-      <b>06. 2022</b>
-    </td>
-    <td>Paper 
-    <a href="https://arxiv.org/abs/2008.02159" target="_blank">Learning from Sparse Demonstrations</a>
-     was accepted to <em> IEEE Transactions on Robotics</em>.
-    </td>
-</tr>
-
-
-<tr style="vertical-align:top">
-    <td style="width:10%">
-      <b>03. 2022</b>
-    </td>
-    <td>I gave an invited seminar in the 
-<a href="https://www.ee.ucr.edu/" target="_blank">
-  Department of Electrical and Computer Engineering, University of California, Riverside.
-</a>
-    </td>
-</tr>
-
-
-<tr style="vertical-align:top">
-    <td style="width:10%">
-      <b>03. 2022</b>
-    </td>
-    <td>I gave an invited seminar in the 
-<a href="https://mie.njit.edu/" target="_blank">
-  Department of Mechanical and Industrial Engineering, 
-New Jersey Institute of Technology. 
-</a>
-    </td>
-</tr>
-
-<tr style="vertical-align:top">
-    <td style="width:10%">
-      <b>02. 2022</b>
-    </td>
-    <td>I gave an invited seminar in the
-<a href="https://www1.villanova.edu/university/engineering/academic-programs/departments/mechanical.html" target="_blank"> Department of Mechanical Engineering,
-Villanova University.</a>
-
-    </td>
-</tr>
-
-<tr style="vertical-align:top">
-    <td style="width:10%">
-      <b>11. 2021</b>
-    </td>
-    <td>I gave an invited seminar in the 
-<a href="https://www.cs.hku.hk/" target="_blank">Department of Computer Science, The University of Hong Kong.</a>
-    </td>
-</tr>
-
-
-</table>
-
-
-
-
-
-<p style="margin-bottom:0.8cm; margin-left: 0.5cm"> </p>
-
-
-
------ -->

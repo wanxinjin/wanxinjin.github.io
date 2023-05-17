@@ -42,7 +42,7 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 .citation, .citation-number { color: var(--global-theme-color); }
 
-.profile { margin-left: 2rem; margin-right: -2rem; margin-top: 5rem; width: 80%; }
+.profile { margin-left: 2rem; margin-right: -2rem; margin-top: 5rem; margin-bottom: 4rem; width: 80%; }
 
 .profile .address { margin-bottom: 5px; margin-top: 5px; font-family: monospace; }
 
