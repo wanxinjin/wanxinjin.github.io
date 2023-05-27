@@ -218,7 +218,7 @@ Submitted to *IEEE Robotics and Automation Letters (RA-L)*, under review, 2023<b
 <img src="collections/research/fundamental/keyidea.png"  width="160"  align="left" hspace="25" vspace=20 />
 **Enforcing Hard Constraints with Soft Barriers: Safe-driven Reinforcement Learning in Unknown Stochastic Environments** <br />
 Yixuan Wang, Simon Sinong Zhan, Ruochen Jiao, Zhilu Wang, <b>Wanxin Jin</b>, Zhuoran Yang, Zhaoran Wang, Chao Huang, Qi Zhu<br />
-Submitted to *International Conference on Machine Learning (ICML)*, under review, 2023<br />
+*International Conference on Machine Learning (ICML)*,  2023<br />
 [[PDF]](https://arxiv.org/abs/2209.15090){:target="_blank"}    / 
 [Code coming soon] / 
 [Video coming soon]
