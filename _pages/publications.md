@@ -144,7 +144,7 @@ Shenao Zhang, <b>Wanxin Jin</b>, Zhaoran Wang<br />
 
 2. **Enforcing Hard Constraints with Soft Barriers: Safe-driven Reinforcement Learning in Unknown Stochastic Environments** <br />
 Yixuan Wang, Simon Sinong Zhan, Ruochen Jiao, Zhilu Wang, <b>Wanxin Jin</b>, Zhuoran Yang, Zhaoran Wang, Chao Huang, Qi Zhu<br />
-Submitted to *International Conference on Machine Learning (ICML)*, under review, 2023<br />
+*International Conference on Machine Learning (ICML)*, 2023<br />
 [[PDF]](https://arxiv.org/abs/2209.15090){:target="_blank"}  / 
 [Code coming soon] / 
 [Video coming soon]
