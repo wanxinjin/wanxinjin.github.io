@@ -12,7 +12,7 @@ nav: true
 
 - [Journals](#journals)
 - [Conferences](#conferences)
-- [Patents](#patents)
+<!-- - [Patents](#patents) -->
 
 
 <a name="journals"></a> 
@@ -31,24 +31,23 @@ nav: true
 <b>Wanxin Jin</b> and Michael Posa<br />
 Submitted to *IEEE Transactions on Robotics (T-RO)*, conditionally accepted, 2023 <br />
 [[PDF]](https://arxiv.org/abs/2211.16657){:target="_blank"}/ 
-[[Code]](https://github.com/wanxinjin/Task-Driven-Hybrid-Reduction){:target="_blank"}
-[[Video]](https://youtu.be/OvhTOQoagTM){:target="_blank"}
+[[Code]](https://github.com/wanxinjin/Task-Driven-Hybrid-Reduction){:target="_blank"}/
+[[Video]](https://youtu.be/OvhTOQoagTM){:target="_blank"}/
 [[Webpage]](../td_hybridreduction){:target="_blank"}
 
 
 
 1. **Robust Safe Learning and Control in Unknown Environments: An Uncertainty-Aware Control Barrier Function Approach** <br />
 Jiacheng Li, Qingchen Liu, <b>Wanxin Jin</b>, Jiahu Qin, and Sandra Hirche<br />
-Submitted to *IEEE Robotics and Automation Letters (RA-L)*, under review, 2023<br />
-[PDF coming soon]/ 
-[Code coming soon]/
-[Video coming soon]
+*IEEE Robotics and Automation Letters (RA-L)*, 2023<br />
+[[PDF]](https://ieeexplore.ieee.org/document/10232876){:target="_blank"}    / 
+[[Videos]](https://www.youtube.com/watch?v=D-9urnmpZy8){:target="_blank"}
 
 
 
 
 
-1.  [**Learning from Human Directional Corrections**](https://arxiv.org/abs/2011.15014){:target="\_blank"}.<br />
+1. **Learning from Human Directional Corrections**<br />
    <b>Wanxin Jin</b>, Todd D Murphey, Zehui Lu, and Shaoshuai Mou. <br />
 	_IEEE Transactions on Robotics (T-RO)_, 2022<br />
 	[[PDF]](https://arxiv.org/abs/2011.15014){:target="_blank"} 
@@ -72,7 +71,7 @@ Submitted to *IEEE Robotics and Automation Letters (RA-L)*, under review, 2023<b
 [[Code]](https://github.com/wanxinjin/IOC-from-Incomplete-Trajectory-Observations){:target="_blank"}
 
 
-1. [**Distributed Inverse Optimal Control**](https://www.sciencedirect.com/science/article/abs/pii/S0005109821001783){:target="_blank"} <br />
+1. **Distributed Inverse Optimal Control** <br />
 <b>Wanxin Jin</b> and Shaoshuai Mou <br />
 _Automatica_, Volume 129, 2021 <br />
 [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0005109821001783){:target="_blank"} 
@@ -88,13 +87,13 @@ _Automatica_, Volume 129, 2021 <br />
 
 
 1. 
-[**Reference-Free Path-Walking Method for Ball Grid Array Inspection in Surface Mounting Machines**](https://ieeexplore.ieee.org/document/7878575){:target="_blank"} <br />
+**Reference-Free Path-Walking Method for Ball Grid Array Inspection in Surface Mounting Machines**<br />
 <b>Wanxin Jin</b>, Weiyang Lin, Xianqiang Yang, and Huijun Gao  <br />
 _IEEE Transactions on Industrial Electronics (T-IE)_,
 64(8):6310–6318, 2017
 
 
-1.  [**A Line-based-Clustering Approach for Ball Grid Array Component Inspection in Surface-Mount Technology**](https://ieeexplore.ieee.org/abstract/document/7795199){:target="_blank"} <br />
+1.  **A Line-based-Clustering Approach for Ball Grid Array Component Inspection in Surface-Mount Technology** <br />
 Huijun Gao, <b>Wanxin Jin</b>, Xianqiang Yang, and Okyay Kaynak<br />
 _IEEE Transactions on Industrial
 Electronics (T-IE)_, 64(4):3030–3038, 2016
@@ -137,17 +136,13 @@ Electronics (T-IE)_, 64(4):3030–3038, 2016
 2. **Adaptive Barrier Smoothing for First-Order Policy Gradient with Contact Dynamics** <br />
 Shenao Zhang, <b>Wanxin Jin</b>, Zhaoran Wang<br />
 *International Conference on Machine Learning (ICML)*, 2023<br />
-[PDF coming soon] / 
-[Code coming soon] / 
-[Video coming soon]
+[[PDF]](https://proceedings.mlr.press/v202/zhang23s.html){:target="_blank"}
 
 
 2. **Enforcing Hard Constraints with Soft Barriers: Safe-driven Reinforcement Learning in Unknown Stochastic Environments** <br />
 Yixuan Wang, Simon Sinong Zhan, Ruochen Jiao, Zhilu Wang, <b>Wanxin Jin</b>, Zhuoran Yang, Zhaoran Wang, Chao Huang, Qi Zhu<br />
 *International Conference on Machine Learning (ICML)*, 2023<br />
-[[PDF]](https://arxiv.org/abs/2209.15090){:target="_blank"}  / 
-[Code coming soon] / 
-[Video coming soon]
+[[PDF]](https://arxiv.org/abs/2209.15090){:target="_blank"}   
 
 
 
@@ -165,7 +160,7 @@ In _IEEE Conference on Decision and Control (CDC)_ , 2022. <br />
 [[PDF]](https://arxiv.org/abs/2209.12017){:target="_blank"} 
 
 2. 
-[**Learning Objective Functions Incrementally by Inverse Optimal Control**](https://arxiv.org/abs/2010.15034){:target="\_blank"}<br /> 
+**Learning Objective Functions Incrementally by Inverse Optimal Control**<br /> 
 Zehui Lu, <b>Wanxin Jin</b>, and Shaoshuai Mou<br />
 In _Asian Control Conference (ASCC)_ , 2022 <br />
 [[PDF]](https://arxiv.org/abs/2010.15034){:target="_blank"} 
@@ -174,16 +169,17 @@ In _Asian Control Conference (ASCC)_ , 2022 <br />
 
 
 2. **D3G: Learning Multi-robot Coordination from Demonstrations** <br/>
-Xuan Wang, YiZhi Zhou, and <b>Wanxin Jin</b><br/>
-Submitted to _IEEE International Conference on Intelligent Robots and Systems (IROS)_, under review  2023.<br />
+YiZhi Zhou,  <b>Wanxin Jin</b>, and Xuan Wang <br/>
+_IEEE International Conference on Intelligent Robots and Systems (IROS)_,  2023.<br />
 [[PDF]](https://arxiv.org/pdf/2207.08892.pdf){:target="_blank"} /
 [[Code]](https://github.com/Shawn-XuanWang/D3G){:target="_blank"} /
 [[Videos]](https://www.youtube.com/watch?v=tLclCYVt3NI){:target="_blank"}
 
 
-
-
-
+2. **Identifying Reaction-Aware Driving Styles of Stochastic Model Predictive Controlled Vehicles by Inverse Reinforcement Learning** <br/>
+Ni Dang, Tao Shi, Zengjie Zhang, <b>Wanxin Jin</b>, Marion Leibold, and Martin Buss <br/>
+_International Conference on Intelligent Transportation Systems (ITSC)_,  2023.<br />
+[[PDF]](https://arxiv.org/pdf/2308.12069.pdf){:target="_blank"} 
 
 
 <p style="margin-bottom:2.0cm; margin-left: 0.5cm"> </p>
@@ -205,7 +201,7 @@ Arxiv, 2020. <br/>
 
 
 
-
+<!-- 
 <p style="margin-bottom:2.0cm; margin-left: 0.5cm"> </p>
 
 <a name="patents"></a> 
@@ -248,4 +244,4 @@ Huijun Gao, <b>Wanxin Jin</b>, Jinyong Yu, Guanghui Sun, Xianqiang Yang, and Jun
 4.	  **Chip defect detection using co-occurrence matrix and RANSAC.** CN106373124B<br/>
 Huijun Gao, <b>Wanxin Jin</b>, Jinyong Yu, Xianqiang Yang, Weiyang Lin, and Zhan Li.
 
-<div style="text-align: right"> <a href="#top">Back to top</a> </div>
+<div style="text-align: right"> <a href="#top">Back to top</a> </div> -->

@@ -2,7 +2,7 @@
 layout: page
 title: videos
 permalink: /posts/
-nav: true
+nav: false
 ---
 
 

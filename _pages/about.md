@@ -23,21 +23,14 @@ social: false  # includes social icons at the bottom of the page
 <p style="margin-bottom:0.8cm; margin-left: 0.5cm"> </p>
 
 
-**Postdoctoral Researcher** in the [GRASP Lab](https://www.grasp.upenn.edu/){:target="_blank"}, [University of Pennsylvania](https://www.upenn.edu/){:target="_blank"}.
+I am an Assistant Professor in the <a href="https://engineering.asu.edu/">Ira A. Fulton Schools of Engineering</a> at Arizona State University.
 
-
-I obtained my Ph.D. from the [School of Aeronautics and Astronautics](https://engineering.purdue.edu/AAE){:target="_blank"}, [Purdue University](https://www.purdue.edu/){:target="_blank"} in 2021. I was a research assistant at [Technical University of Munich](https://www.tum.de/en/){:target="_blank"}, Germany, 2016-2017. I obtained my Master's and Bachelor’s degrees in Control Science & Engineering from the Harbin Institute of Technology, China.
+From July 2021 to July 2023, I was a Postdoctoral Researcher in the [GRASP Lab](https://www.grasp.upenn.edu/){:target="_blank"}, University of Pennsylvania, working with Dr. [Michael Posa](https://dair.seas.upenn.edu/posa/){:target="_blank"}.
+I obtained my Ph.D. from Purdue University in 2021, working with Dr. [Shaoshuai Mou](https://engineering.purdue.edu/AAE/people/ptProfile?resource_id=124981){:target="_blank"}. I was  a research assistant at Technical University of Munich in 2016 and 2017, working with Dr. [Sandra Hirche](https://www.ce.cit.tum.de/en/itr/home/){:target="_blank"}.
 
 
 **News:** 
-Starting this fall 2023, I will be joining the <a href="https://engineering.asu.edu/">Ira A. Fulton Schools of Engineering</a> at Arizona State University as a tenure-track assistant professor.
-
-**News:** 
-This website will not be regularly maintained. Please visit the ASU lab website for more: [https://asu-iris.github.io/](https://asu-iris.github.io/)
-
-**News:** 
-<strong>Two Ph.D. positions are available in our lab! Please check <a href="https://asu-iris.github.io/joining/">Joining</a> for more details. The positions will commence as early as Spring 2024 and are fully funded (tuition + monthly salary). </strong>
-
+<strong>Ph.D. positions are available in our [IRIS Lab](https://asu-iris.github.io/){:target="_blank"}! Please check <a href="https://asu-iris.github.io/joining/">Joining</a> for more details. 
 
 
 <p style="margin-bottom:1.2cm; margin-left: 1.5cm"> </p>
@@ -67,14 +60,14 @@ This website will not be regularly maintained. Please visit the ASU lab website 
 -----
 #### **My Research**
 
-My research  focuses on developing <strong>interactive intelligence</strong>, which makes robots to
-- **seamlessly interact with humans**, by understanding human intent, assisting with human decision-making, improving
-its intelligence through human intuitive interactions, toward safe and personalized human-robot relationship; 
+The  research of our group is to  develop  <strong>robot interactive intelligence</strong>, which makes robots to
 
-- **skillfully manipulating physical objects**, by learning and planning with physical representations, 
-touching and affecting objects with maximum dexterity while ensuring safety and controllability, toward human-level physical intelligence.
+- **seamlessly interact with individual users**, by understanding human intent, assisting with human decision-
+    making, achieving the personalized intelligence through  interaction with each human user, and 
 
-I develop my solutions for interactive intelligence by combining a theoretical understanding of system fundamentals with empirical learning from readily accessible data. Our approaches are positioned at the intersection of control/optimization (model-based) and machine learning (data-driven), leveraging the complementary benefits of both.
+- **dexterously manipulating objects**, by finding effective physical representations for efficient control and planning, touching and affecting objects in a safe and skillful way.
+
+Our solutions to interactive intelligence combines  theoretical understanding of  fundamentals with empirical learning from readily accessible data.  Our approaches are positioned at the intersection of control, optimization (model-based) and machine learning (data-driven), leveraging the complementary benefits of both.
 
 
 <p style="margin-bottom:1.2cm; margin-left: 1.5cm"> </p>
@@ -117,9 +110,8 @@ Submitted to *IEEE Transactions on Robotics (T-RO)*, conditionally accepted, 202
 **Adaptive Barrier Smoothing for First-Order Policy Gradient with Contact Dynamics** <br />
  Shenao Zhang, <b>Wanxin Jin</b>, Zhaoran Wang<br />
 *International Conference on Machine Learning (ICML)*, 2023 <br />
-[PDF coming soon] / 
-[Code coming soon] / 
-[Video coming soon]
+[[PDF]](https://proceedings.mlr.press/v202/zhang23s.html){:target="_blank"}
+
 
 
 
@@ -209,19 +201,16 @@ Submitted to *IEEE Transactions on Robotics (T-RO)*, conditionally accepted, 202
 <img src="collections/research/fundamental/uncertainty_aware.gif"  width="160"  align="left" hspace="25" vspace=10 />
 **Robust Safe Learning and Control in Unknown Environments: An Uncertainty-Aware Control Barrier Function Approach** <br />
 Jiacheng Li, Qingchen Liu, <b>Wanxin Jin</b>, Jiahu Qin, and Sandra Hirche<br />
-Submitted to *IEEE Robotics and Automation Letters (RA-L)*, under review, 2023<br />
-[PDF coming soon] / 
-[Code coming soon] / 
-[Video coming soon]
+*IEEE Robotics and Automation Letters (RA-L)*, 2023<br />
+[[PDF]](https://ieeexplore.ieee.org/document/10232876){:target="_blank"}    / 
+[[Videos]](https://www.youtube.com/watch?v=D-9urnmpZy8){:target="_blank"}
 
 ---
 <img src="collections/research/fundamental/keyidea.png"  width="160"  align="left" hspace="25" vspace=20 />
 **Enforcing Hard Constraints with Soft Barriers: Safe-driven Reinforcement Learning in Unknown Stochastic Environments** <br />
 Yixuan Wang, Simon Sinong Zhan, Ruochen Jiao, Zhilu Wang, <b>Wanxin Jin</b>, Zhuoran Yang, Zhaoran Wang, Chao Huang, Qi Zhu<br />
 *International Conference on Machine Learning (ICML)*,  2023<br />
-[[PDF]](https://arxiv.org/abs/2209.15090){:target="_blank"}    / 
-[Code coming soon] / 
-[Video coming soon]
+[[PDF]](https://arxiv.org/abs/2209.15090){:target="_blank"}   
 
 
 

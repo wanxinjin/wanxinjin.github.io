@@ -3,7 +3,7 @@ layout: page
 permalink: /lab/
 title: lab 
 description:
-nav: true
+nav: false
 ---
 
 
@@ -22,7 +22,7 @@ ASU Intelligent Robotics and Interactive Systems (IRIS) Lab website:
 
 <p style="margin-bottom:0.6cm"> </p>
 
-The Intelligent Robotics and Interactive Systems (IRIS) lab at Arizona State University (ASU) is seeking **two Ph.D. applicants** in the areas of robot learning and control for human-robot interaction and robot dexterous manipulation. The positions will commence as early as Spring 2024 and are fully funded (tuition + monthly salary).
+The Intelligent Robotics and Interactive Systems (IRIS) lab at Arizona State University (ASU) is seeking **two Ph.D. applicants** in the areas of robot learning and control for human-robot interaction and robot dexterous manipulation.
 
 
 The IRIS lab focuses on developing interactive intelligence, enabling robots to (1) seamlessly interact with humans by understanding human intent, assisting with human decision-making, improving their intelligence through human intuitive interactions, and (2) skillfully manipulate physical objects by learning and planning with physical representations, touching and affecting objects with maximum dexterity, toward human-level physical intelligence. 

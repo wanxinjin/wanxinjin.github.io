@@ -1,0 +1,177 @@
+I"b(<h2 id="wanxin-jin-靳万鑫"><strong>Wanxin Jin</strong> (靳万鑫)</h2>
+
+<p style="margin-bottom:0.8cm; margin-left: 0.5cm"> </p>
+
+<p>I am an Assistant Professor in the <a href="https://engineering.asu.edu/">Ira A. Fulton Schools of Engineering</a> at Arizona State University.</p>
+
+<p>From July 2021 to July 2023, I was a Postdoctoral Researcher in the <a href="https://www.grasp.upenn.edu/" target="_blank">GRASP Lab</a>, University of Pennsylvania, working with Dr. <a href="https://dair.seas.upenn.edu/posa/" target="_blank">Michael Posa</a>.
+I obtained my Ph.D. from Purdue University in 2021, working with Dr. <a href="https://engineering.purdue.edu/AAE/people/ptProfile?resource_id=124981" target="_blank">Shaoshuai Mou</a>. I was  a research assistant at Technical University of Munich in 2016 and 2017, working with Dr. <a href="https://www.ce.cit.tum.de/en/itr/home/" target="_blank">Sandra Hirche</a>.</p>
+
+<p><strong>News:</strong> 
+<strong>Ph.D. positions are available in our lab! Please check <a href="https://asu-iris.github.io/joining/">Joining</a> for more details.</strong></p>
+
+<p style="margin-bottom:1.2cm; margin-left: 1.5cm"> </p>
+
+<center>
+    <a href="mailto:wanxinjin@gmail.com" target="_blank"> 
+    <img src="assets/img/platform_icon/email.gif" width="35" target="_blank" /> </a>   &nbsp;&nbsp;&nbsp;
+<a href="https://scholar.google.com/citations?user=SoEC4h4AAAAJ&amp;hl=en" target="_blank"> 
+    <img src="assets/img/platform_icon/scholar.png" width="35" target="_blank" /></a>   &nbsp;&nbsp;&nbsp;
+<a href="https://github.com/wanxinjin" target="_blank">
+    <img src="assets/img/platform_icon/github.gif" width="35" target="_blank" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/jinwanxin" target="_blank">
+    <img src="assets/img/platform_icon/twitter.gif" width="35" target="_blank" /></a>  &nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/channel/UCkMgzXIhi3BmWP7tAdeyoaA" target="_blank">
+    <img src="assets/img/platform_icon/youtube.gif" width="35" target="_blank" /></a>  &nbsp;&nbsp;&nbsp;
+
+</center>
+
+<p><br /></p>
+
+<hr />
+<h4 id="my-research"><strong>My Research</strong></h4>
+
+<p>The  research of our group is to  develop  <strong>robot interactive intelligence</strong>, which makes robots to</p>
+
+<ul>
+  <li>
+    <p><strong>seamlessly interact with individual users</strong>, by understanding human intent, assisting with human decision-
+  making, achieving the personalized intelligence through  interaction with each human user, and</p>
+  </li>
+  <li>
+    <p><strong>dexterously manipulating objects</strong>, by finding effective physical representations for efficient control and planning, touching and affecting objects in a safe and skillful way.</p>
+  </li>
+</ul>
+
+<p>Our solutions to interactive intelligence combines  theoretical understanding of  fundamentals with empirical learning from readily accessible data.  Our approaches are positioned at the intersection of control, optimization (model-based) and machine learning (data-driven), leveraging the complementary benefits of both.</p>
+
+<p style="margin-bottom:1.2cm; margin-left: 1.5cm"> </p>
+
+<hr />
+<center>
+    <h4><strong>Highlighted Research and Publications</strong></h4>
+</center>
+
+<p style="margin-bottom:1.2cm; margin-left: 1.5cm"> </p>
+
+<h5 id="1-multi-contact-dexterous-manipulation"><strong>1. Multi-contact (Dexterous) Manipulation</strong></h5>
+<hr />
+
+<p><img src="collections/research/manipulation/moving_webpage2.gif" width="140" align="left" hspace="30" vspace="0" /></p>
+
+<p><strong>Task-Driven Hybrid Model Reduction for Dexterous Manipulation</strong> <br />
+<b>Wanxin Jin</b> and Michael Posa<br />
+Submitted to <em>IEEE Transactions on Robotics (T-RO)</em>, conditionally accepted, 2023 <br />
+<a href="https://arxiv.org/abs/2211.16657" target="_blank">[PDF]</a>/ 
+<a href="https://github.com/wanxinjin/Task-Driven-Hybrid-Reduction" target="_blank">[Code]</a>/
+<a href="https://youtu.be/OvhTOQoagTM" target="_blank">[Video]</a>/
+<a href="../td_hybridreduction" target="_blank">[Webpage]</a></p>
+<p style="margin-bottom:1.0cm; margin-left: 1.5cm"> </p>
+
+<hr />
+<p><img src="collections/research/manipulation/cartpole_wall_crop.gif" title="SafePDP" width="150" align="left" hspace="25" vspace="0" />
+<strong>Learning Linear Complementarity Systems</strong> <br />
+<b>Wanxin Jin</b>, Alp Aydinoglu, Mathew Halm, and Michael Posa<br />
+<em>Learning for Dynamics and Control (L4DC)</em>, 2022 <br />
+<a href="https://arxiv.org/abs/2112.13284" target="_blank">[PDF]</a> / 
+<a href="https://github.com/wanxinjin/Learning-LCS" target="_blank">[Code]</a></p>
+
+<hr />
+<p><img src="collections/research/manipulation/ball_falling.png" title="SafePDP" width="150" align="left" hspace="25" vspace="0" />
+<strong>Adaptive Barrier Smoothing for First-Order Policy Gradient with Contact Dynamics</strong> <br />
+ Shenao Zhang, <b>Wanxin Jin</b>, Zhaoran Wang<br />
+<em>International Conference on Machine Learning (ICML)</em>, 2023 <br />
+<a href="https://proceedings.mlr.press/v202/zhang23s.html" target="_blank">[PDF]</a></p>
+
+<p style="margin-bottom:1.8cm; margin-left: 1.5cm"> </p>
+
+<h5 id="2-robot-learning-with-human-on-the-loop"><strong>2. Robot Learning with Human-On-The-Loop</strong></h5>
+<hr />
+<p><img src="collections/research/human/correction.gif" width="150" align="left" hspace="30" vspace="5" />
+<strong>Learning from Human Directional Corrections</strong> <br />
+<b>Wanxin Jin</b>, Todd D Murphey, and Shaoshuai Mou<br />
+<em>IEEE Transactions on Robotics (T-RO)</em>, 2022 <br />
+<a href="https://arxiv.org/abs/2011.15014" target="_blank">[PDF]</a> /
+<a href="https://github.com/wanxinjin/Learning-from-Directional-Corrections" target="_blank">[Code]</a> /
+<a href="https://youtu.be/Mwlwt055Tgg" target="_blank">[Videos]</a></p>
+
+<p style="margin-bottom:0.8cm; margin-left: 1.5cm"> </p>
+
+<hr />
+<p><img src="collections/research/human/sparse_demo.gif" width="150" align="left" hspace="30" vspace="10" />
+<strong>Learning from Sparse Demonstrations</strong> <br />
+<b>Wanxin Jin</b>, Todd D Murphey, Dana Kulic, Neta Ezer, and Shaoshuai Mou<br />
+<em>IEEE Transactions on Robotics (T-RO)</em>, 2022<br />
+<a href="https://arxiv.org/abs/2008.02159" target="_blank">[PDF]</a>/
+<a href="https://github.com/wanxinjin/Learning-from-Sparse-Demonstrations" target="_blank">[Code]</a> /
+<a href="https://youtu.be/BYAsqMxW5Z4" target="_blank">[Videos]</a></p>
+
+<p style="margin-bottom:0.8cm; margin-left: 1.5cm"> </p>
+
+<hr />
+<p><img src="collections/research/human/ioc_incomplete.png" width="150" align="left" hspace="30" vspace="20" />
+<strong>Inverse Optimal Control from Incomplete Trajectory Observations</strong> <br />
+<b>Wanxin Jin</b>,  Dana Kulic, Shaoshuai Mou, and Sandra Hirche <br />
+<em>International Journal of Robotics Research (IJRR),</em> 40:848–865,
+2021 <br />
+<a href="https://journals.sagepub.com/doi/full/10.1177/0278364921996384" target="_blank">[PDF]</a> /
+<a href="https://github.com/wanxinjin/IOC-from-Incomplete-Trajectory-Observations" target="_blank">[Code]</a></p>
+
+<p style="margin-bottom:0.8cm; margin-left: 1.5cm"> </p>
+
+<hr />
+<p><img src="collections/research/human/ioc_multiphase.gif" width="190" align="left" hspace="10" vspace="0" />
+<strong>Inverse Optimal Control for Multiphase cost functions</strong> <br />
+<b>Wanxin Jin</b>, Dana Kulic, Jonathan  Lin, Shaoshuai Mou, and Sandra Hirche <br />
+<em>IEEE Transactions on Robotics (T-RO)</em>, 35(6):1387–1398,
+2019 <br />
+<a href="https://ieeexplore.ieee.org/document/8778698" target="_blank">[PDF]</a> / 
+<a href="https://github.com/adaptivesystemslab/ioc" target="_blank">[Code]</a></p>
+
+<p style="margin-bottom:1.8cm; margin-left: 1.5cm"> </p>
+
+<h5 id="3-fundamental-research-bridging-control-with-machine-learning"><strong>3. Fundamental Research: Bridging Control with Machine Learning</strong></h5>
+
+<hr />
+<p><img src="collections/research/fundamental/pdp.gif" width="160" align="left" hspace="25" vspace="0" />
+<strong>Pontryagin Differentiable Programming: An End-to-End Learning and Control Framework</strong> <br />
+<b>Wanxin Jin</b>, Zhaoran Wang, Zhuoran Yang, and Shaoshuai Mou<br />
+<em>Advances in Neural Information Processing Systems (NeurIPS),</em>  2020 <br />
+<a href="https://papers.nips.cc/paper/2020/file/5a7b238ba0f6502e5d6be14424b20ded-Paper.pdf" target="_blank">[PDF]</a> /
+<a href="https://github.com/wanxinjin/Pontryagin-Differentiable-Programming" target="_blank">[Code]</a> /
+<a href="https://slideslive.com/38936632" target="_blank">[Videos]</a></p>
+
+<p style="margin-bottom:1.4cm; margin-left: 1.5cm"> </p>
+
+<hr />
+<p><img src="collections/research/fundamental/safepdp.gif" width="160" align="left" hspace="25" vspace="0" />
+<strong>Safe Pontryagin Differentiable Programming</strong> <br />
+<b>Wanxin Jin</b>, Shaoshuai Mou, and George J. Pappas<br />
+<em>Advances in Neural Information Processing Systems (NeurIPS)</em>, 2021<br />
+<a href="https://arxiv.org/abs/2105.14937" target="_blank">[PDF]</a> / 
+<a href="https://github.com/wanxinjin/Safe-PDP" target="_blank">[Code]</a> / 
+<a href="https://slideslive.com/38968248" target="_blank">[Videos]</a></p>
+
+<p style="margin-bottom:1.4cm; margin-left: 1.5cm"> </p>
+
+<hr />
+<p><img src="collections/research/fundamental/uncertainty_aware.gif" width="160" align="left" hspace="25" vspace="10" />
+<strong>Robust Safe Learning and Control in Unknown Environments: An Uncertainty-Aware Control Barrier Function Approach</strong> <br />
+Jiacheng Li, Qingchen Liu, <b>Wanxin Jin</b>, Jiahu Qin, and Sandra Hirche<br />
+Submitted to <em>IEEE Robotics and Automation Letters (RA-L)</em>, under review, 2023<br />
+[PDF coming soon] / 
+[Code coming soon] / 
+[Video coming soon]</p>
+
+<hr />
+<p><img src="collections/research/fundamental/keyidea.png" width="160" align="left" hspace="25" vspace="20" />
+<strong>Enforcing Hard Constraints with Soft Barriers: Safe-driven Reinforcement Learning in Unknown Stochastic Environments</strong> <br />
+Yixuan Wang, Simon Sinong Zhan, Ruochen Jiao, Zhilu Wang, <b>Wanxin Jin</b>, Zhuoran Yang, Zhaoran Wang, Chao Huang, Qi Zhu<br />
+<em>International Conference on Machine Learning (ICML)</em>,  2023<br />
+<a href="https://arxiv.org/abs/2209.15090" target="_blank">[PDF]</a>    / 
+[Code coming soon] / 
+[Video coming soon]</p>
+
+<p style="margin-bottom:1.8cm; margin-left: 1.5cm"> </p>
+
+:ET
