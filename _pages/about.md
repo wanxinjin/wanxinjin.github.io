@@ -63,7 +63,7 @@ I obtained my Ph.D. from Purdue University in 2021, working with Dr. [Shaoshuai 
 The  research of our group is to  develop  <strong>interactive intelligence</strong>, which makes robots to
 
 - **seamlessly interact with individual users**, by understanding human intent, assisting with human decision-
-    making, achieving the personalized intelligence through  interaction with each human user, and 
+    making, achieving personalized intelligence through  interaction with each user, and 
 
 - **dexterously manipulating objects**, by finding effective physical representations for efficient control and planning, touching and affecting objects in a safe and skillful way.
 
