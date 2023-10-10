@@ -60,7 +60,7 @@ I obtained my Ph.D. from Purdue University in 2021, working with Dr. [Shaoshuai 
 -----
 #### **My Research**
 
-The  research of our group is to  develop  <strong>robot interactive intelligence</strong>, which makes robots to
+The  research of our group is to  develop  <strong>interactive intelligence</strong>, which makes robots to
 
 - **seamlessly interact with individual users**, by understanding human intent, assisting with human decision-
     making, achieving the personalized intelligence through  interaction with each human user, and 
@@ -171,7 +171,7 @@ Submitted to *IEEE Transactions on Robotics (T-RO)*, conditionally accepted, 202
 <p style="margin-bottom:1.8cm; margin-left: 1.5cm"> </p>
 
 
-##### **3. Fundamental Research: Bridging Control with Machine Learning**
+##### **3. Fundamental Research:  Control + Machine Learning**
 
 ---
 <img src="collections/research/fundamental/pdp.gif"   width="160"  align="left" hspace="25" vspace=0 />
