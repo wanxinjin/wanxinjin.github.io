@@ -65,7 +65,7 @@ The  research of our group is to  develop  <strong>interactive intelligence</str
 - **seamlessly interact with individual users**, by understanding human intent, assisting with human decision-
     making, achieving personalized intelligence through  interaction with each user, and 
 
-- **dexterously manipulating objects**, by finding effective physical representations for efficient control and planning, touching and affecting objects in a safe and skillful way.
+- **dexterously manipulating objects**, by finding effective physical representations for efficient control and planning, touching and affecting objects in a safe and controlled way.
 
 Our solutions to interactive intelligence combines  theoretical understanding of  fundamentals with empirical learning from readily accessible data.  Our approaches are positioned at the intersection of control, optimization (model-based) and machine learning (data-driven), leveraging the complementary benefits of both.
 
@@ -210,7 +210,7 @@ Jiacheng Li, Qingchen Liu, <b>Wanxin Jin</b>, Jiahu Qin, and Sandra Hirche<br />
 **Enforcing Hard Constraints with Soft Barriers: Safe-driven Reinforcement Learning in Unknown Stochastic Environments** <br />
 Yixuan Wang, Simon Sinong Zhan, Ruochen Jiao, Zhilu Wang, <b>Wanxin Jin</b>, Zhuoran Yang, Zhaoran Wang, Chao Huang, Qi Zhu<br />
 *International Conference on Machine Learning (ICML)*,  2023<br />
-[[PDF]](https://arxiv.org/abs/2209.15090){:target="_blank"}   
+[[PDF]](https://proceedings.mlr.press/v202/wang23as/wang23as.pdf){:target="_blank"}   
 
 
 
