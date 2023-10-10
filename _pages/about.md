@@ -60,14 +60,13 @@ I obtained my Ph.D. from Purdue University in 2021, working with Dr. Shaoshuai M
 -----
 #### **My Research**
 
-The  research of our group is to  develop  <strong>interactive intelligence</strong>, which makes robots to
+The  research of our group is to  develop  <strong>interactive intelligence</strong>, which enables autonomous systems to
 
-- **seamlessly interact with individual users**, by understanding human intent, assisting with human decision-
-    making, achieving personalized intelligence through  interaction with each user, and 
+- **seamlessly interact with individual users**, by understanding user intent, assisting with user decision-making, achieving  personalized intelligence through  interaction with  each user, and 
 
 - **dexterously manipulating objects**, by finding effective physical representations for efficient control and planning, touching and affecting objects in a safe and controlled way.
 
-Our solutions to interactive intelligence combines  theoretical understanding of  fundamentals with empirical learning from readily accessible data.  Our approaches are positioned at the intersection of control, optimization (model-based) and machine learning (data-driven), leveraging the complementary benefits of both.
+Our solutions to interactive intelligence combines  theoretical understanding of  fundamentals with empirical learning from readily accessible data.  Our approaches are positioned at the intersection of model-based (control and optimization) and data-driven methods, leveraging the complementary benefits of both.
 
 
 <p style="margin-bottom:1.2cm; margin-left: 1.5cm"> </p>
@@ -119,7 +118,7 @@ Submitted to *IEEE Transactions on Robotics (T-RO)*, conditionally accepted, 202
 <p style="margin-bottom:1.8cm; margin-left: 1.5cm"> </p>
 
 
-##### **2. Robot Learning with Human-On-The-Loop**
+##### **2. Systems with Human-On-The-Loop**
 ---
 <img src="collections/research/human/correction.gif" width="150"  align="left" hspace="30" vspace=5 />
 **Learning from Human Directional Corrections** <br />
@@ -171,7 +170,7 @@ Submitted to *IEEE Transactions on Robotics (T-RO)*, conditionally accepted, 202
 <p style="margin-bottom:1.8cm; margin-left: 1.5cm"> </p>
 
 
-##### **3. Fundamental Research:  Control + Machine Learning**
+##### **3. Fundamental Research**
 
 ---
 <img src="collections/research/fundamental/pdp.gif"   width="160"  align="left" hspace="25" vspace=0 />

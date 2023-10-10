@@ -1,4 +1,4 @@
-I"(<h2 id="wanxin-jin-靳万鑫"><strong>Wanxin Jin</strong> (靳万鑫)</h2>
+I"�'<h2 id="wanxin-jin-靳万鑫"><strong>Wanxin Jin</strong> (靳万鑫)</h2>
 
 <p style="margin-bottom:0.8cm; margin-left: 0.5cm"> </p>
 
@@ -31,19 +31,18 @@ I obtained my Ph.D. from Purdue University in 2021, working with Dr. Shaoshuai M
 <hr />
 <h4 id="my-research"><strong>My Research</strong></h4>
 
-<p>The  research of our group is to  develop  <strong>interactive intelligence</strong>, which makes robots to</p>
+<p>The  research of our group is to  develop  <strong>interactive intelligence</strong>, which enables autonomous systems to</p>
 
 <ul>
   <li>
-    <p><strong>seamlessly interact with individual users</strong>, by understanding human intent, assisting with human decision-
-  making, achieving personalized intelligence through  interaction with each user, and</p>
+    <p><strong>seamlessly interact with individual users</strong>, by understanding human intent, assisting with human decision-making, achieving  personalized intelligence through  interaction with  each user, and</p>
   </li>
   <li>
     <p><strong>dexterously manipulating objects</strong>, by finding effective physical representations for efficient control and planning, touching and affecting objects in a safe and controlled way.</p>
   </li>
 </ul>
 
-<p>Our solutions to interactive intelligence combines  theoretical understanding of  fundamentals with empirical learning from readily accessible data.  Our approaches are positioned at the intersection of control, optimization (model-based) and machine learning (data-driven), leveraging the complementary benefits of both.</p>
+<p>Our solutions to interactive intelligence combines  theoretical understanding of  fundamentals with empirical learning from readily accessible data.  Our approaches are positioned at the intersection of model-based (control and optimization) and data-driven methods, leveraging the complementary benefits of both.</p>
 
 <p style="margin-bottom:1.2cm; margin-left: 1.5cm"> </p>
 
@@ -85,7 +84,7 @@ Submitted to <em>IEEE Transactions on Robotics (T-RO)</em>, conditionally accept
 
 <p style="margin-bottom:1.8cm; margin-left: 1.5cm"> </p>
 
-<h5 id="2-robot-learning-with-human-on-the-loop"><strong>2. Robot Learning with Human-On-The-Loop</strong></h5>
+<h5 id="2-systems-with-human-on-the-loop"><strong>2. Systems with Human-On-The-Loop</strong></h5>
 <hr />
 <p><img src="collections/research/human/correction.gif" width="150" align="left" hspace="30" vspace="5" />
 <strong>Learning from Human Directional Corrections</strong> <br />
@@ -130,7 +129,7 @@ Submitted to <em>IEEE Transactions on Robotics (T-RO)</em>, conditionally accept
 
 <p style="margin-bottom:1.8cm; margin-left: 1.5cm"> </p>
 
-<h5 id="3-fundamental-research--control--machine-learning"><strong>3. Fundamental Research:  Control + Machine Learning</strong></h5>
+<h5 id="3-fundamental-research"><strong>3. Fundamental Research</strong></h5>
 
 <hr />
 <p><img src="collections/research/fundamental/pdp.gif" width="160" align="left" hspace="25" vspace="0" />
