@@ -26,7 +26,7 @@ social: false  # includes social icons at the bottom of the page
 I am an Assistant Professor in the <a href="https://engineering.asu.edu/">Ira A. Fulton Schools of Engineering</a> at Arizona State University.
 
 From July 2021 to July 2023, I was a Postdoctoral Researcher in the [GRASP Lab](https://www.grasp.upenn.edu/){:target="_blank"}, University of Pennsylvania, working with Dr. [Michael Posa](https://dair.seas.upenn.edu/posa/){:target="_blank"}.
-I obtained my Ph.D. from Purdue University in 2021, working with Dr. [Shaoshuai Mou](https://engineering.purdue.edu/AAE/people/ptProfile?resource_id=124981){:target="_blank"}. I was  a research assistant at Technical University of Munich in 2016 and 2017, working with Dr. [Sandra Hirche](https://www.ce.cit.tum.de/en/itr/home/){:target="_blank"}.
+I obtained my Ph.D. from Purdue University in 2021, working with Dr. Shaoshuai Mou. I was  a research assistant at Technical University of Munich in 2016 and 2017, working with Dr. Sandra Hirche.
 
 
 **News:** 
