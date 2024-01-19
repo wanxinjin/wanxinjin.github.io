@@ -93,7 +93,7 @@ The  research of our **[Intelligent Robotics and Interactive Systems (IRIS)](htt
 
 **Task-Driven Hybrid Model Reduction for Dexterous Manipulation** <br />
 <b>Wanxin Jin</b> and Michael Posa<br />
-*IEEE Transactions on Robotics (T-RO)* accepted, 2024 <br />
+*IEEE Transactions on Robotics (T-RO)*, accepted, 2024 <br />
 [[PDF]](https://arxiv.org/abs/2211.16657){:target="_blank"}/ 
 [[Code]](https://github.com/wanxinjin/Task-Driven-Hybrid-Reduction){:target="_blank"}/
 [[Video]](https://youtu.be/OvhTOQoagTM){:target="_blank"}/
