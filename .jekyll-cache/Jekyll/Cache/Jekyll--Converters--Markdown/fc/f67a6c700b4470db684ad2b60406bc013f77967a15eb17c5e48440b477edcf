@@ -1,0 +1,17 @@
+I"ü<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <script>
+        setTimeout(function() {
+            window.open("https://asu-iris.github.io/", "_blank");
+            // Optionally, you can close the current tab/window
+            // window.close();
+        }, 3000);
+    </script>
+</head>
+<body>
+    <!-- Optional content for users who may not be redirected immediately -->
+    <p>If you are not redirected, <a href="https://asu-iris.github.io/" target="_blank">click here</a>.</p>
+</body>
+</html>
+:ET

@@ -7,10 +7,16 @@
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/iris_lab/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/lab/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/td_hybridreduction/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/publications2/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/publications/</loc>

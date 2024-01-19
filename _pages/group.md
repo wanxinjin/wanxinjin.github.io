@@ -1,0 +1,23 @@
+---
+layout: page
+permalink: /iris_lab/
+title: IRIS Lab
+description: 
+years: 
+nav: true
+---
+
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Redirecting...</title>
+    <script>
+        // Redirects immediately to the specified URL
+        window.location.href = "https://asu-iris.github.io/";
+    </script>
+</head>
+<body>
+    <p>If you are not redirected, please visit the page of our IRIS lab: <a href="https://asu-iris.github.io/" target="_blank">click here</a>.</p>
+</body>
+</html>

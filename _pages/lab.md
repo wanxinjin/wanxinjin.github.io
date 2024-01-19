@@ -18,49 +18,78 @@ ASU Intelligent Robotics and Interactive Systems (IRIS) Lab website:
 <p style="margin-bottom:1.6cm"> </p>
 
 
-#### **Two Ph.D. Positions Available!**
+#### **For General Students at ASU**
 
 <p style="margin-bottom:0.6cm"> </p>
 
-The Intelligent Robotics and Interactive Systems (IRIS) lab at Arizona State University (ASU) is seeking **two Ph.D. applicants** in the areas of robot learning and control for human-robot interaction and robot dexterous manipulation.
+We are actively looking for self-motivated, passionate, and dedicated undergraduate and graduate students to join our lab. Ideal candidates should possess a background and project experience in one or more of the following areas:
+
+- Dynamics and controls
+- Robot modeling, control, and planning
+- Machine learning
+- Computer vision
+- Optimization
+
+If you are interested, [please submit your application here](https://forms.gle/raweZnS1HHAdNMb28). We will contact you if we find that your background aligns with the research directions of the IRIS lab.
 
 
-The IRIS lab focuses on developing interactive intelligence, enabling robots to (1) seamlessly interact with humans by understanding human intent, assisting with human decision-making, improving their intelligence through human intuitive interactions, and (2) skillfully manipulate physical objects by learning and planning with physical representations, touching and affecting objects with maximum dexterity, toward human-level physical intelligence. 
+<p style="margin-bottom:2cm"> </p>
+<hr />
+<p style="margin-bottom:2cm"> </p>
+
+
+
+
+
+#### **Ph.D. Positions**
+
+<p style="margin-bottom:0.6cm"> </p>
+
+The IRIS lab is constantly seeking outstanding **Ph.D. applicants** interested in one of the following research topics:
 
 
 ##### **Research Topics**
-- Robot learning with human general interactions (e.g., physical interaction and/or language interaction)
-- Planning and control for human-robot systems
-- Computer vision and learnable geometry for dexterous manipulation
-- Task and motion planning for sequential manipulation
-- Fundamental research  in planning, control, and machine learning.
+- Robot learning with humans
+- Learning and control for robot manipulation
+- Fundamental research  in control, machine learning, and optimization
 
 <p style="margin-bottom:0.6cm"> </p>
 
 ##### **Basic Requirement**
-- Strong passion for the above research areas and desire to solve challenging problems
-- Master's degree in robotics, mechanical engineering, computer science, electrical engineering, or a related field with outstanding academic performance
+- Strong passion and desire to solve challenging problems
+- Master degree in ME, EE, or CS, with outstanding academic performance
 - Strong analytical and coding skills
-- Good communication skills in both written and spoken English, meeting the English requirement from the School: [https://semte.engineering.asu.edu/mechanical-graduate/](https://semte.engineering.asu.edu/mechanical-graduate/){:target="_blank"}
+- Good communication skills in both written and spoken English
 
 <p style="margin-bottom:0.6cm"> </p>
 
 ##### **Desired Skills**
-- Knowledge of robotics, controls, planning, and machine learning
+- Knowledge of  controls, planning, dynamics, or/and data-driven methods
 - Knowledge of optimization and linear algebra
-- Experience in machine learning or computer vision, proficient in learning frameworks (e.g., PyTorch)
-- Experience in robot programming, especially with Python and C++
+- Experience in computer vision
+- Experience in Python and C++
 
 <p style="margin-bottom:0.6cm"> </p>
 
 
-##### **How to Apply**
+##### **How to Apply (applying for one of two programs below)**
 
-- Applying for ASU Mechanical Engineering PhD Program via [https://semte.engineering.asu.edu/mechanical-graduate/](https://semte.engineering.asu.edu/mechanical-graduate/){:target="_blank"} and indicate Dr. [Wanxin Jin](https://wanxnijin.github.io){:target="_blank"} as your prospective supervisor in your statement of purpose. 
-- Before applying, you are encouraged to reach out to [Wanxin Jin](https://wanxnijin.github.io){:target="_blank"}  at [wanxin.jin@asu.edu](wanxin.jin@asu.edu) with your CV and transcripts to discuss your interest.
+<p style="margin-bottom:0.6cm"> </p>
+
+- **Apply for ME PhD Program:** Interested applicants can apply for ASU Mechanical Engineering PhD Program via [https://semte.engineering.asu.edu/mechanical-graduate/](https://semte.engineering.asu.edu/mechanical-graduate/){:target="_blank"} and indicate Dr. [Wanxin Jin](https://wanxnijin.github.io){:target="_blank"} as your prospective supervisor in your statement of purpose and application form.
 
 
-##### **Application Deadlines**
 
-- If you want to join in Spring 2024, the deadline of application is **August 1, 2023**.
-- If you want to join in Fall 2024, the deadline of application is **December 31, 2023**.
+- **Apply for EE PhD Program** Interested applicants can also apply for ASU Electrical Engineering PhD Program via [https://degrees.apps.asu.edu/masters-phd/major/ASU00/ESEEPHD/electrical-engineering-phd](https://degrees.apps.asu.edu/masters-phd/major/ASU00/ESEEPHD/electrical-engineering-phd){:target="_blank"} and indicate Dr. [Wanxin Jin](https://wanxnijin.github.io){:target="_blank"} as your prospective supervisor in your statement of purpose and application form.
+
+
+- **Note that ASU ME PhD Program has the Deficiency Policy, which requires any non-ME undergraduate background student, admitted in ME PhD program, to take ME undergraduate courses (usually 3 courses) in addition to their graduate course requirement. Therefore, any student with non-ME undergraduate backgrounds is  encouarged to apply for EE PhD Program in order to join my group and avoid the Deficiency Policy.**
+
+
+
+
+
+
+<p style="margin-bottom:2.0cm"> </p>
+<hr />
+<p style="margin-bottom:2.0cm"> </p>

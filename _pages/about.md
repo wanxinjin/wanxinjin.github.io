@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: me
 permalink: /
 description: 
 
@@ -20,18 +20,18 @@ social: false  # includes social icons at the bottom of the page
 
 ## **Wanxin Jin** (靳万鑫)
 
-<p style="margin-bottom:0.8cm; margin-left: 0.5cm"> </p>
+<p style="margin-bottom:1.3cm; margin-left: 0.5cm"> </p>
 
 
-I am an Assistant Professor in the <a href="https://engineering.asu.edu/">Ira A. Fulton Schools of Engineering</a> at Arizona State University.
+I am an Assistant Professor in the <a href="https://engineering.asu.edu/">Ira A. Fulton Schools of Engineering</a> at Arizona State University. I lead the **[Intelligent Robotics and Interactive Systems (IRIS)](https://asu-iris.github.io/){:target="_blank"}** Lab. I teach **[robotics courses](https://wanxinjin.github.io/asu-robotics/intro.html){:target="_blank"}** at ASU.
 
-From July 2021 to July 2023, I was a Postdoctoral Researcher in the [GRASP Lab](https://www.grasp.upenn.edu/){:target="_blank"}, University of Pennsylvania, working with Dr. [Michael Posa](https://dair.seas.upenn.edu/posa/){:target="_blank"}.
+From July 2021 to July 2023, I was a Postdoctoral Researcher in the GRASP Lab, University of Pennsylvania, working with Dr. Michael Posa.
 I obtained my Ph.D. from Purdue University in 2021, working with Dr. Shaoshuai Mou. I was  a research assistant at Technical University of Munich in 2016 and 2017, working with Dr. Sandra Hirche.
 
 
-**News:** 
+<!-- **News:** 
 <strong>Ph.D. positions are available in our [IRIS Lab](https://asu-iris.github.io/){:target="_blank"}! Please check <a href="https://asu-iris.github.io/joining/">Joining</a> for more details. 
-
+ -->
 
 <p style="margin-bottom:1.2cm; margin-left: 1.5cm"> </p>
 
@@ -58,15 +58,20 @@ I obtained my Ph.D. from Purdue University in 2021, working with Dr. Shaoshuai M
 
 
 -----
-#### **My Research**
+<center>
+    <h4><strong>My Research</strong></h4>
+</center>
 
-The  research of our group is to  develop  <strong>interactive intelligence</strong>, which enables autonomous systems to
+<p style="margin-bottom:1.2cm; margin-left: 1.5cm"> </p>
 
-- **seamlessly interact with individual users**, by understanding user intent, assisting with user decision-making, achieving  personalized intelligence through  interaction with  each user, and 
+The  research of our **[Intelligent Robotics and Interactive Systems (IRIS)](https://asu-iris.github.io/){:target="_blank"}** Lab is focused on
 
-- **dexterously manipulating objects**, by finding effective physical representations for efficient control and planning, touching and affecting objects in a safe and controlled way.
+- **Human robot alignment:**  We develop methods to empower a robot with the ability to efficiently understand and be understood by human users through a variety of physical interactions. We explore how robots can aptly respond to and collaborate meaningfully with users.
 
-Our solutions to interactive intelligence combines  theoretical understanding of  fundamentals with empirical learning from readily accessible data.  Our approaches are positioned at the intersection of model-based (control and optimization) and data-driven methods, leveraging the complementary benefits of both.
+- **Robot manipulation:** We leverage physical principles to derive representations/models that enable robots to interact efficiently with their surroundings. We  develop algorithms to enable robots manipulate objects through contact efficiently and robustly.
+
+- **Fundamental methods in robotics:** We focus on developing fundamental theories and algorithms for achieving efficient, safe, and robust robot intelligence. Our methods lie at the intersection of model-based (control and optimization) and data-driven approaches, harnessing the complementary benefits of both.
+
 
 
 <p style="margin-bottom:1.2cm; margin-left: 1.5cm"> </p>
@@ -88,7 +93,7 @@ Our solutions to interactive intelligence combines  theoretical understanding of
 
 **Task-Driven Hybrid Model Reduction for Dexterous Manipulation** <br />
 <b>Wanxin Jin</b> and Michael Posa<br />
-Submitted to *IEEE Transactions on Robotics (T-RO)*, conditionally accepted, 2023 <br />
+*IEEE Transactions on Robotics (T-RO)* accepted, 2024 <br />
 [[PDF]](https://arxiv.org/abs/2211.16657){:target="_blank"}/ 
 [[Code]](https://github.com/wanxinjin/Task-Driven-Hybrid-Reduction){:target="_blank"}/
 [[Video]](https://youtu.be/OvhTOQoagTM){:target="_blank"}/
@@ -118,7 +123,7 @@ Submitted to *IEEE Transactions on Robotics (T-RO)*, conditionally accepted, 202
 <p style="margin-bottom:1.8cm; margin-left: 1.5cm"> </p>
 
 
-##### **2. Systems with Human-On-The-Loop**
+##### **2. Human-robot alignment**
 ---
 <img src="collections/research/human/correction.gif" width="150"  align="left" hspace="30" vspace=5 />
 **Learning from Human Directional Corrections** <br />
@@ -180,7 +185,7 @@ Submitted to *IEEE Transactions on Robotics (T-RO)*, conditionally accepted, 202
 [[PDF]](https://papers.nips.cc/paper/2020/file/5a7b238ba0f6502e5d6be14424b20ded-Paper.pdf){:target="_blank"} /
 [[Code]](https://github.com/wanxinjin/Pontryagin-Differentiable-Programming){:target="_blank"} /
 [[Videos]](https://slideslive.com/38936632){:target="_blank"}
-
+[[Webpage]](https://wanxinjin.github.io/Pontryagin-Differentiable-Programming/){:target="_blank"}
 <p style="margin-bottom:1.4cm; margin-left: 1.5cm"> </p>
 
 
@@ -192,7 +197,7 @@ Submitted to *IEEE Transactions on Robotics (T-RO)*, conditionally accepted, 202
 [[PDF]](https://arxiv.org/abs/2105.14937){:target="_blank"} / 
 [[Code]](https://github.com/wanxinjin/Safe-PDP){:target="_blank"} / 
 [[Videos]](https://slideslive.com/38968248){:target="_blank"}
-
+[[Webpage]](https://wanxinjin.github.io/Pontryagin-Differentiable-Programming/){:target="_blank"}
 <p style="margin-bottom:1.4cm; margin-left: 1.5cm"> </p>
 
 
