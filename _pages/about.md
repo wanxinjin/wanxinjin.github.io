@@ -86,19 +86,35 @@ The  research of our **[Intelligent Robotics and Interactive Systems (IRIS)](htt
 <p style="margin-bottom:1.2cm; margin-left: 1.5cm"> </p>
 
 
-##### **1. Multi-contact (Dexterous) Manipulation**
+##### **1. Multi-contact manipulation**
 ---
 
 <img src="collections/research/manipulation/moving_webpage2.gif"  width="140"  align="left" hspace="30" vspace=0 />
 
 **Task-Driven Hybrid Model Reduction for Dexterous Manipulation** <br />
 <b>Wanxin Jin</b> and Michael Posa<br />
-*IEEE Transactions on Robotics (T-RO)*, accepted, 2024 <br />
-[[PDF]](https://arxiv.org/abs/2211.16657){:target="_blank"}/ 
+*IEEE Transactions on Robotics (T-RO)*, 2024 <br />
+[[PDF]](https://ieeexplore.ieee.org/document/10415517){:target="_blank"}/ 
 [[Code]](https://github.com/wanxinjin/Task-Driven-Hybrid-Reduction){:target="_blank"}/
 [[Video]](https://youtu.be/OvhTOQoagTM){:target="_blank"}/
 [[Webpage]](../td_hybridreduction){:target="_blank"}
 <p style="margin-bottom:1.0cm; margin-left: 1.5cm"> </p>
+
+
+---
+
+<img src="collections/research/manipulation/orange_lime.gif"  width="145"  align="left" hspace="30" vspace=10 />
+
+**Adaptive Contact-Implicit Model Predictive Control with Online Residual Learning** <br />
+Wei-Cheng Huang, Alp Aydinoglu, <b>Wanxin Jin</b>, Michael Posa<br />
+*IEEE International Conference on Robotics and Automation (ICRA)*, 2024 <br />
+[[PDF]](https://dair.seas.upenn.edu/assets/pdf/Huang2024.pdf){:target="_blank"}/ 
+[[Code]](https://sites.google.com/view/adaptive-contact-implicit-mpc/home){:target="_blank"}/
+[[Video]](https://www.youtube.com/watch?v=abP1QGX6lWY){:target="_blank"}/
+[[Webpage]](https://sites.google.com/view/adaptive-contact-implicit-mpc/home){:target="_blank"}
+<p style="margin-bottom:1.0cm; margin-left: 1.5cm"> </p>
+
+
 
 ---
 <img src="collections/research/manipulation/cartpole_wall_crop.gif"  title="SafePDP" width="150"  align="left" hspace="25" vspace=0 />
