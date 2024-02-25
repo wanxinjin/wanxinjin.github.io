@@ -16,7 +16,9 @@ social: false  # includes social icons at the bottom of the page
 
 
 
+
 ---
+
 
 ## **Wanxin Jin** (靳万鑫)
 
@@ -28,10 +30,6 @@ I am an Assistant Professor in the <a href="https://engineering.asu.edu/">Ira A.
 From July 2021 to July 2023, I was a Postdoctoral Researcher in the GRASP Lab, University of Pennsylvania, working with Dr. Michael Posa.
 I obtained my Ph.D. from Purdue University in 2021, working with Dr. Shaoshuai Mou. I was  a research assistant at Technical University of Munich in 2016 and 2017, working with Dr. Sandra Hirche.
 
-
-<!-- **News:** 
-<strong>Ph.D. positions are available in our [IRIS Lab](https://asu-iris.github.io/){:target="_blank"}! Please check <a href="https://asu-iris.github.io/joining/">Joining</a> for more details. 
- -->
 
 <p style="margin-bottom:1.2cm; margin-left: 1.5cm"> </p>
 
@@ -103,7 +101,7 @@ The  research of our **[Intelligent Robotics and Interactive Systems (IRIS)](htt
 
 ---
 
-<img src="collections/research/manipulation/orange_lime.gif"  width="145"  align="left" hspace="30" vspace=10 />
+<img src="collections/research/manipulation/orange_lime2.gif"  width="145"  align="left" hspace="30" vspace=10 />
 
 **Adaptive Contact-Implicit Model Predictive Control with Online Residual Learning** <br />
 Wei-Cheng Huang, Alp Aydinoglu, <b>Wanxin Jin</b>, Michael Posa<br />
@@ -239,6 +237,4 @@ Yixuan Wang, Simon Sinong Zhan, Ruochen Jiao, Zhilu Wang, <b>Wanxin Jin</b>, Zhu
 
 
 <p style="margin-bottom:1.8cm; margin-left: 1.5cm"> </p>
-
-
 

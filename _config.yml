@@ -47,27 +47,27 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: # your GitHub user name
-gitlab_username: # your GitLab user name
-twitter_username: # your Twitter handle
-linkedin_username: # your LinkedIn user name
-scholar_userid: # your Google Scholar ID
-orcid_id: # your ORCID ID
-medium_username: # your Medium username
-quora_username: # your Quora username
-publons_id: # your ID on Publons
-research_gate_profile: # your profile on ResearchGate
-blogger_url: # your blogger URL
-work_url: # work page URL
-keybase_username: # your keybase user name
-wikidata_id: # your wikidata id
-dblp_url: # your DBLP profile url
-stackoverflow_id: #your stackoverflow id
+# github_username: # your GitHub user name
+# gitlab_username: # your GitLab user name
+# twitter_username: # your Twitter handle
+# linkedin_username: # your LinkedIn user name
+# scholar_userid: # your Google Scholar ID
+# orcid_id: # your ORCID ID
+# medium_username: # your Medium username
+# quora_username: # your Quora username
+# publons_id: # your ID on Publons
+# research_gate_profile: # your profile on ResearchGate
+# blogger_url: # your blogger URL
+# work_url: # work page URL
+# keybase_username: # your keybase user name
+# wikidata_id: # your wikidata id
+# dblp_url: # your DBLP profile url
+# stackoverflow_id: #your stackoverflow id
 
-contact_note: 
+# contact_note: 
 
-google_analytics: UA-XXXXXXXXX # out your google-analytics code
-panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
+# google_analytics: UA-XXXXXXXXX # out your google-analytics code
+# panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 
 # -----------------------------------------------------------------------------
 # Blog
@@ -126,6 +126,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
+
 keep_files:
   - CNAME
   - .nojekyll
@@ -180,7 +181,7 @@ github: [metadata]
 
 enable_google_analytics:    false  # enables google analytics
 enable_panelbear_analytics: false  # enables panelbear analytics
-enable_mansory:             true   # enables automatic project cards arangement
+enable_mansory:             false   # enables automatic project cards arangement
 enable_math:                true   # enables math typesetting (uses MathJax)
 enable_tooltips:            false  # enables automatic tooltip links generated
                                    # for each section titles on pages and posts
