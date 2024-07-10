@@ -64,11 +64,11 @@ I obtained my Ph.D. from Purdue University in 2021, working with Dr. Shaoshuai M
 
 The  research of our **[Intelligent Robotics and Interactive Systems (IRIS)](https://asu-iris.github.io/){:target="_blank"}** Lab is focused on
 
-- **Human robot alignment:**  We develop methods to empower a robot with the ability to efficiently understand and be understood by human users through a variety of physical interactions. We explore how robots can aptly respond to and collaborate meaningfully with users.
+- **Human-robot alignment:**  We develop innovative methods that enable robots to seamlessly understand and communicate with humans through various physical interactions. Our work includes developing adaptive learning algorithms and intuitive control interfaces to enhance  representation alignment between humans and robots.
 
-- **Robot manipulation:** We leverage physical principles to derive representations/models that enable robots to interact efficiently with their surroundings. We  develop algorithms to enable robots manipulate objects through contact efficiently and robustly.
+- **Contact-rich manipulation:** We develop advanced physics-based representations and frameworks that enable robots to interact with and manipulate physical objects efficiently and precisely. Our goal is to enhance robots’ capabilities in performing complex tasks, such as assembly and sorting, in unstructured environments.
 
-- **Fundamental methods in robotics:** We focus on developing fundamental theories and algorithms for achieving efficient, safe, and robust robot intelligence. Our methods lie at the intersection of model-based (control and optimization) and data-driven approaches, harnessing the complementary benefits of both.
+- **Fundamental methods for robot autonomy:** We develop fundamental theories/algorithms for  efficient, safe, and robust robot intelligence, by harnessing the complementary benefits of model-based (control/optimization) and data-driven (machine learning & AI) approaches.
 
 
 
@@ -138,6 +138,18 @@ Wei-Cheng Huang, Alp Aydinoglu, <b>Wanxin Jin</b>, Michael Posa<br />
 
 
 ##### **2. Human-robot alignment**
+
+---
+<img src="collections/research/human/safe_mpc_alignment.gif" width="150"  align="left" hspace="30" vspace=5 />
+**Safe MPC Alignment with Human Directional Feedback** <br />
+Zhixian Xie, Wenlong Zhang, Yi Ren, Zhaoran Wang, George. J. Pappas, and Wanxin Jin<br />
+Submitted to *IEEE Transactions on Robotics (T-RO)*, 2024 <br />
+[[PDF]](https://arxiv.org/abs/2407.04216){:target="_blank"} /
+[[Code]](https://github.com/asu-iris/Safe-MPC-Alignment){:target="_blank"} /
+[[Videos]](https://youtu.be/QOODShHLQJE?si=mlWQdqWjTMRZZ-jn){:target="_blank"}/
+[[Webpage]](https://zhi-xian-xie.github.io/safe_alignment_site/){:target="_blank"}
+
+
 ---
 <img src="collections/research/human/correction.gif" width="150"  align="left" hspace="30" vspace=5 />
 **Learning from Human Directional Corrections** <br />
@@ -198,7 +210,7 @@ Wei-Cheng Huang, Alp Aydinoglu, <b>Wanxin Jin</b>, Michael Posa<br />
 *Advances in Neural Information Processing Systems (NeurIPS),*  2020 <br />
 [[PDF]](https://papers.nips.cc/paper/2020/file/5a7b238ba0f6502e5d6be14424b20ded-Paper.pdf){:target="_blank"} /
 [[Code]](https://github.com/wanxinjin/Pontryagin-Differentiable-Programming){:target="_blank"} /
-[[Videos]](https://slideslive.com/38936632){:target="_blank"}
+[[Videos]](https://slideslive.com/38936632){:target="_blank"}/
 [[Webpage]](https://wanxinjin.github.io/Pontryagin-Differentiable-Programming/){:target="_blank"}
 <p style="margin-bottom:1.4cm; margin-left: 1.5cm"> </p>
 
@@ -210,7 +222,7 @@ Wei-Cheng Huang, Alp Aydinoglu, <b>Wanxin Jin</b>, Michael Posa<br />
 *Advances in Neural Information Processing Systems (NeurIPS)*, 2021<br />
 [[PDF]](https://arxiv.org/abs/2105.14937){:target="_blank"} / 
 [[Code]](https://github.com/wanxinjin/Safe-PDP){:target="_blank"} / 
-[[Videos]](https://slideslive.com/38968248){:target="_blank"}
+[[Videos]](https://slideslive.com/38968248){:target="_blank"}/
 [[Webpage]](https://wanxinjin.github.io/Pontryagin-Differentiable-Programming/){:target="_blank"}
 <p style="margin-bottom:1.4cm; margin-left: 1.5cm"> </p>
 
