@@ -228,6 +228,15 @@ Submitted to *IEEE Transactions on Robotics (T-RO)*, 2024 <br />
 
 
 ---
+<img src="collections/research/fundamental/ddp_ioc.jpg"  width="140"  align="left" hspace="35" vspace=0 />
+**A Differential Dynamic Programming Framework for Inverse Reinforcement Learning** <br />
+Kun Cao, Xinhang Xu, <b>Wanxin Jin</b>, Karl H. Johansson, and Lihua Xie<br />
+*Submitted to IEEE Transactions on Robotics (T-RO)*, 2024<br />
+[[PDF]](https://arxiv.org/abs/2407.19902){:target="_blank"}   
+<p style="margin-bottom:1.0cm; margin-left: 1.5cm"> </p>
+
+
+---
 <img src="collections/research/fundamental/uncertainty_aware.gif"  width="160"  align="left" hspace="25" vspace=10 />
 **Robust Safe Learning and Control in Unknown Environments: An Uncertainty-Aware Control Barrier Function Approach** <br />
 Jiacheng Li, Qingchen Liu, <b>Wanxin Jin</b>, Jiahu Qin, and Sandra Hirche<br />
