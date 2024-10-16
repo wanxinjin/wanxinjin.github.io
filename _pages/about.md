@@ -25,9 +25,9 @@ social: false  # includes social icons at the bottom of the page
 <p style="margin-bottom:1.3cm; margin-left: 0.5cm"> </p>
 
 
-I am an Assistant Professor in the <a href="https://engineering.asu.edu/">Ira A. Fulton Schools of Engineering</a> at Arizona State University. I lead the **[Intelligent Robotics and Interactive Systems (IRIS)](https://asu-iris.github.io/){:target="_blank"}** Lab. I teach **[robotics courses](https://wanxinjin.github.io/asu-robotics/intro.html){:target="_blank"}** at ASU.
+I am an Assistant Professor in the School for Engineering of Matter, Transport and Energy at Arizona State University (ASU). I lead the **[Intelligent Robotics and Interactive Systems (IRIS)](https://asu-iris.github.io/){:target="_blank"}** Lab. I  **[teach robotics](https://asu-iris.github.io/course_robotics/intro.html){:target="_blank"}** at ASU.
 
-From July 2021 to July 2023, I was a Postdoctoral Researcher in the GRASP Lab, University of Pennsylvania, working with Dr. Michael Posa.
+Prior to ASU, I was a Postdoctoral Researcher in the GRASP Lab, University of Pennsylvania, working with Dr. Michael Posa.
 I obtained my Ph.D. from Purdue University in 2021, working with Dr. Shaoshuai Mou. I was  a research assistant at Technical University of Munich in 2016 and 2017, working with Dr. Sandra Hirche.
 
 
@@ -84,7 +84,45 @@ The  research of our **[Intelligent Robotics and Interactive Systems (IRIS)](htt
 <p style="margin-bottom:1.2cm; margin-left: 1.5cm"> </p>
 
 
-##### **1. Multi-contact manipulation**
+##### **1. Dexterous manipulation**
+
+
+---
+<img src="/collections/research/manipulation/contactsdf/contactSDF-eval-ccw.gif"  width="145"  align="left" hspace="30" vspace=10 />
+
+**ContactSDF: Signed Distance Functions as Multi-Contact Models for Dexterous Manipulation** <br />
+Wen Yang and <b>Wanxin Jin</b><br />
+Submitted to *IEEE Robotics and Automation Letters (RA-L), 2024*, 2024 <br />
+[[PDF]](https://arxiv.org/abs/2408.09612){:target="_blank"}/ 
+[[Code]](https://github.com/asu-iris/ContactSDF){:target="_blank"}/
+[[Video]](https://www.youtube.com/watch?v=2AsMYCT-jQI){:target="_blank"}/
+[[Webpage]](https://yangwen-1102.github.io/contactsdf.github.io/){:target="_blank"}
+<p style="margin-bottom:1.0cm; margin-left: 1.5cm"> </p>
+
+
+
+
+---
+<img src="/collections/research/manipulation/teaser-allegro.gif"  width="160"  align="left" hspace="20" vspace=10 />
+
+**Complementarity-Free Multi-Contact Modeling and Optimization for Dexterous Manipulation** <br />
+<b>Wanxin Jin</b><br />
+*arXiv preprint, 2024* <br />
+[[PDF]](https://arxiv.org/abs/2408.07855){:target="_blank"}/ 
+[[Code]](https://github.com/asu-iris/Complementarity-Free-Dexterous-Manipulation){:target="_blank"}/
+[[Video]](https://www.youtube.com/watch?v=NsL4hbSXvFg){:target="_blank"}
+<p style="margin-bottom:1.0cm; margin-left: 1.5cm"> </p>
+
+
+
+
+
+
+
+
+
+
+
 ---
 
 <img src="collections/research/manipulation/moving_webpage2.gif"  width="140"  align="left" hspace="30" vspace=0 />
@@ -100,6 +138,9 @@ The  research of our **[Intelligent Robotics and Interactive Systems (IRIS)](htt
 
 
 ---
+
+
+
 
 <img src="collections/research/manipulation/orange_lime2.gif"  width="145"  align="left" hspace="30" vspace=10 />
 
@@ -140,14 +181,28 @@ Wei-Cheng Huang, Alp Aydinoglu, <b>Wanxin Jin</b>, Michael Posa<br />
 ##### **2. Human-robot alignment**
 
 ---
+<img src="/collections/research/human/lfd-llm/lfd-llm.gif" width="150"  align="left" hspace="30" vspace=5 />
+**Language-Model-Assisted Bi-Level Programming for Reward Learning from Internet Videos** <br />
+Harsh Mahesheka, Zhixian Xie, Zhaoran Wang, and <b>Wanxin Jin</b><br />
+arXiv preprint, 2024 <br />
+[[PDF]](https://arxiv.org/abs/2410.09286){:target="_blank"} /
+[[Videos]](https://youtu.be/CzlyYLu4mLQ?si=PpGYsvusCC5S7-AZ){:target="_blank"}/
+
+
+<p style="margin-bottom:0.8cm; margin-left: 1.5cm"> </p>
+
+---
 <img src="collections/research/human/safe_mpc_alignment.gif" width="150"  align="left" hspace="30" vspace=5 />
 **Safe MPC Alignment with Human Directional Feedback** <br />
-Zhixian Xie, Wenlong Zhang, Yi Ren, Zhaoran Wang, George. J. Pappas, and Wanxin Jin<br />
+Zhixian Xie, Wenlong Zhang, Yi Ren, Zhaoran Wang, George. J. Pappas, and <b>Wanxin Jin</b><br />
 Submitted to *IEEE Transactions on Robotics (T-RO)*, 2024 <br />
 [[PDF]](https://arxiv.org/abs/2407.04216){:target="_blank"} /
 [[Code]](https://github.com/asu-iris/Safe-MPC-Alignment){:target="_blank"} /
 [[Videos]](https://youtu.be/QOODShHLQJE?si=mlWQdqWjTMRZZ-jn){:target="_blank"}/
 [[Webpage]](https://zhi-xian-xie.github.io/safe_alignment_site/){:target="_blank"}
+
+
+<p style="margin-bottom:0.8cm; margin-left: 1.5cm"> </p>
 
 
 ---
@@ -231,7 +286,7 @@ Submitted to *IEEE Transactions on Robotics (T-RO)*, 2024 <br />
 <img src="collections/research/fundamental/ddp_ioc.jpg"  width="140"  align="left" hspace="35" vspace=0 />
 **A Differential Dynamic Programming Framework for Inverse Reinforcement Learning** <br />
 Kun Cao, Xinhang Xu, <b>Wanxin Jin</b>, Karl H. Johansson, and Lihua Xie<br />
-*Submitted to IEEE Transactions on Robotics (T-RO)*, 2024<br />
+Submitted to *IEEE Transactions on Robotics (T-RO)*, 2024<br />
 [[PDF]](https://arxiv.org/abs/2407.19902){:target="_blank"}   
 <p style="margin-bottom:1.0cm; margin-left: 1.5cm"> </p>
 

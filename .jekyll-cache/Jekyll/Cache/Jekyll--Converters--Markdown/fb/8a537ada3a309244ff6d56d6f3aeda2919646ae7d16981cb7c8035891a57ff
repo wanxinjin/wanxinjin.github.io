@@ -1,0 +1,207 @@
+I")1<h2 id="wanxin-jin-靳万鑫"><strong>Wanxin Jin</strong> (靳万鑫)</h2>
+
+<p style="margin-bottom:1.3cm; margin-left: 0.5cm"> </p>
+
+<p>I am an Assistant Professor in the <a href="https://engineering.asu.edu/">Ira A. Fulton Schools of Engineering</a> at Arizona State University. I lead the <strong><a href="https://asu-iris.github.io/" target="_blank">Intelligent Robotics and Interactive Systems (IRIS)</a></strong> Lab. I teach <strong><a href="https://asu-iris.github.io/course_robotics/intro.html" target="_blank">robotics courses</a></strong> at ASU.</p>
+
+<p>Prior to ASU, I was a Postdoctoral Researcher in the GRASP Lab, University of Pennsylvania, working with Dr. Michael Posa.
+I obtained my Ph.D. from Purdue University in 2021. I was  a research assistant at Technical University of Munich in 2016 and 2017.</p>
+
+<p style="margin-bottom:1.2cm; margin-left: 1.5cm"> </p>
+
+<center>
+    <a href="mailto:wanxinjin@gmail.com" target="_blank"> 
+    <img src="assets/img/platform_icon/email.gif" width="35" target="_blank" /> </a>   &nbsp;&nbsp;&nbsp;
+<a href="https://scholar.google.com/citations?user=SoEC4h4AAAAJ&amp;hl=en" target="_blank"> 
+    <img src="assets/img/platform_icon/scholar.png" width="35" target="_blank" /></a>   &nbsp;&nbsp;&nbsp;
+<a href="https://github.com/wanxinjin" target="_blank">
+    <img src="assets/img/platform_icon/github.gif" width="35" target="_blank" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/jinwanxin" target="_blank">
+    <img src="assets/img/platform_icon/twitter.gif" width="35" target="_blank" /></a>  &nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/channel/UCkMgzXIhi3BmWP7tAdeyoaA" target="_blank">
+    <img src="assets/img/platform_icon/youtube.gif" width="35" target="_blank" /></a>  &nbsp;&nbsp;&nbsp;
+
+</center>
+
+<p><br /></p>
+
+<hr />
+<center>
+    <h4><strong>My Research</strong></h4>
+</center>
+
+<p style="margin-bottom:1.2cm; margin-left: 1.5cm"> </p>
+
+<p>The  research of our <strong><a href="https://asu-iris.github.io/" target="_blank">Intelligent Robotics and Interactive Systems (IRIS)</a></strong> Lab is focused on</p>
+
+<ul>
+  <li>
+    <p><strong>Human-robot alignment:</strong>  We develop innovative methods that enable robots to seamlessly understand and communicate with humans through various physical interactions. Our work includes developing adaptive learning algorithms and intuitive control interfaces to enhance  representation alignment between humans and robots.</p>
+  </li>
+  <li>
+    <p><strong>Contact-rich manipulation:</strong> We develop advanced physics-based representations and frameworks that enable robots to interact with and manipulate physical objects efficiently and precisely. Our goal is to enhance robots’ capabilities in performing complex tasks, such as assembly and sorting, in unstructured environments.</p>
+  </li>
+  <li>
+    <p><strong>Fundamental methods for robot autonomy:</strong> We develop fundamental theories/algorithms for  efficient, safe, and robust robot intelligence, by harnessing the complementary benefits of model-based (control/optimization) and data-driven (machine learning &amp; AI) approaches.</p>
+  </li>
+</ul>
+
+<p style="margin-bottom:1.2cm; margin-left: 1.5cm"> </p>
+
+<hr />
+<center>
+    <h4><strong>Highlighted Research and Publications</strong></h4>
+</center>
+
+<p style="margin-bottom:1.2cm; margin-left: 1.5cm"> </p>
+
+<h5 id="1-multi-contact-manipulation"><strong>1. Multi-contact manipulation</strong></h5>
+<hr />
+
+<p><img src="collections/research/manipulation/moving_webpage2.gif" width="140" align="left" hspace="30" vspace="0" /></p>
+
+<p><strong>Task-Driven Hybrid Model Reduction for Dexterous Manipulation</strong> <br />
+<b>Wanxin Jin</b> and Michael Posa<br />
+<em>IEEE Transactions on Robotics (T-RO)</em>, 2024 <br />
+<a href="https://ieeexplore.ieee.org/document/10415517" target="_blank">[PDF]</a>/ 
+<a href="https://github.com/wanxinjin/Task-Driven-Hybrid-Reduction" target="_blank">[Code]</a>/
+<a href="https://youtu.be/OvhTOQoagTM" target="_blank">[Video]</a>/
+<a href="../td_hybridreduction" target="_blank">[Webpage]</a></p>
+<p style="margin-bottom:1.0cm; margin-left: 1.5cm"> </p>
+
+<hr />
+
+<p><img src="collections/research/manipulation/orange_lime2.gif" width="145" align="left" hspace="30" vspace="10" /></p>
+
+<p><strong>Adaptive Contact-Implicit Model Predictive Control with Online Residual Learning</strong> <br />
+Wei-Cheng Huang, Alp Aydinoglu, <b>Wanxin Jin</b>, Michael Posa<br />
+<em>IEEE International Conference on Robotics and Automation (ICRA)</em>, 2024 <br />
+<a href="https://dair.seas.upenn.edu/assets/pdf/Huang2024.pdf" target="_blank">[PDF]</a>/ 
+<a href="https://sites.google.com/view/adaptive-contact-implicit-mpc/home" target="_blank">[Code]</a>/
+<a href="https://www.youtube.com/watch?v=abP1QGX6lWY" target="_blank">[Video]</a>/
+<a href="https://sites.google.com/view/adaptive-contact-implicit-mpc/home" target="_blank">[Webpage]</a></p>
+<p style="margin-bottom:1.0cm; margin-left: 1.5cm"> </p>
+
+<hr />
+<p><img src="collections/research/manipulation/cartpole_wall_crop.gif" title="SafePDP" width="150" align="left" hspace="25" vspace="0" />
+<strong>Learning Linear Complementarity Systems</strong> <br />
+<b>Wanxin Jin</b>, Alp Aydinoglu, Mathew Halm, and Michael Posa<br />
+<em>Learning for Dynamics and Control (L4DC)</em>, 2022 <br />
+<a href="https://arxiv.org/abs/2112.13284" target="_blank">[PDF]</a> / 
+<a href="https://github.com/wanxinjin/Learning-LCS" target="_blank">[Code]</a></p>
+
+<hr />
+<p><img src="collections/research/manipulation/ball_falling.png" title="SafePDP" width="150" align="left" hspace="25" vspace="0" />
+<strong>Adaptive Barrier Smoothing for First-Order Policy Gradient with Contact Dynamics</strong> <br />
+ Shenao Zhang, <b>Wanxin Jin</b>, Zhaoran Wang<br />
+<em>International Conference on Machine Learning (ICML)</em>, 2023 <br />
+<a href="https://proceedings.mlr.press/v202/zhang23s.html" target="_blank">[PDF]</a></p>
+
+<p style="margin-bottom:1.8cm; margin-left: 1.5cm"> </p>
+
+<h5 id="2-human-robot-alignment"><strong>2. Human-robot alignment</strong></h5>
+
+<hr />
+<p><img src="collections/research/human/safe_mpc_alignment.gif" width="150" align="left" hspace="30" vspace="5" />
+<strong>Safe MPC Alignment with Human Directional Feedback</strong> <br />
+Zhixian Xie, Wenlong Zhang, Yi Ren, Zhaoran Wang, George. J. Pappas, and Wanxin Jin<br />
+Submitted to <em>IEEE Transactions on Robotics (T-RO)</em>, 2024 <br />
+<a href="https://arxiv.org/abs/2407.04216" target="_blank">[PDF]</a> /
+<a href="https://github.com/asu-iris/Safe-MPC-Alignment" target="_blank">[Code]</a> /
+<a href="https://youtu.be/QOODShHLQJE?si=mlWQdqWjTMRZZ-jn" target="_blank">[Videos]</a>/
+<a href="https://zhi-xian-xie.github.io/safe_alignment_site/" target="_blank">[Webpage]</a></p>
+
+<hr />
+<p><img src="collections/research/human/correction.gif" width="150" align="left" hspace="30" vspace="5" />
+<strong>Learning from Human Directional Corrections</strong> <br />
+<b>Wanxin Jin</b>, Todd D Murphey, and Shaoshuai Mou<br />
+<em>IEEE Transactions on Robotics (T-RO)</em>, 2022 <br />
+<a href="https://arxiv.org/abs/2011.15014" target="_blank">[PDF]</a> /
+<a href="https://github.com/wanxinjin/Learning-from-Directional-Corrections" target="_blank">[Code]</a> /
+<a href="https://youtu.be/Mwlwt055Tgg" target="_blank">[Videos]</a></p>
+
+<p style="margin-bottom:0.8cm; margin-left: 1.5cm"> </p>
+
+<hr />
+<p><img src="collections/research/human/sparse_demo.gif" width="150" align="left" hspace="30" vspace="10" />
+<strong>Learning from Sparse Demonstrations</strong> <br />
+<b>Wanxin Jin</b>, Todd D Murphey, Dana Kulic, Neta Ezer, and Shaoshuai Mou<br />
+<em>IEEE Transactions on Robotics (T-RO)</em>, 2022<br />
+<a href="https://arxiv.org/abs/2008.02159" target="_blank">[PDF]</a>/
+<a href="https://github.com/wanxinjin/Learning-from-Sparse-Demonstrations" target="_blank">[Code]</a> /
+<a href="https://youtu.be/BYAsqMxW5Z4" target="_blank">[Videos]</a></p>
+
+<p style="margin-bottom:0.8cm; margin-left: 1.5cm"> </p>
+
+<hr />
+<p><img src="collections/research/human/ioc_incomplete.png" width="150" align="left" hspace="30" vspace="20" />
+<strong>Inverse Optimal Control from Incomplete Trajectory Observations</strong> <br />
+<b>Wanxin Jin</b>,  Dana Kulic, Shaoshuai Mou, and Sandra Hirche <br />
+<em>International Journal of Robotics Research (IJRR),</em> 40:848–865,
+2021 <br />
+<a href="https://journals.sagepub.com/doi/full/10.1177/0278364921996384" target="_blank">[PDF]</a> /
+<a href="https://github.com/wanxinjin/IOC-from-Incomplete-Trajectory-Observations" target="_blank">[Code]</a></p>
+
+<p style="margin-bottom:0.8cm; margin-left: 1.5cm"> </p>
+
+<hr />
+<p><img src="collections/research/human/ioc_multiphase.gif" width="190" align="left" hspace="10" vspace="0" />
+<strong>Inverse Optimal Control for Multiphase cost functions</strong> <br />
+<b>Wanxin Jin</b>, Dana Kulic, Jonathan  Lin, Shaoshuai Mou, and Sandra Hirche <br />
+<em>IEEE Transactions on Robotics (T-RO)</em>, 35(6):1387–1398,
+2019 <br />
+<a href="https://ieeexplore.ieee.org/document/8778698" target="_blank">[PDF]</a> / 
+<a href="https://github.com/adaptivesystemslab/ioc" target="_blank">[Code]</a></p>
+
+<p style="margin-bottom:1.8cm; margin-left: 1.5cm"> </p>
+
+<h5 id="3-fundamental-research"><strong>3. Fundamental Research</strong></h5>
+
+<hr />
+<p><img src="collections/research/fundamental/pdp.gif" width="160" align="left" hspace="25" vspace="0" />
+<strong>Pontryagin Differentiable Programming: An End-to-End Learning and Control Framework</strong> <br />
+<b>Wanxin Jin</b>, Zhaoran Wang, Zhuoran Yang, and Shaoshuai Mou<br />
+<em>Advances in Neural Information Processing Systems (NeurIPS),</em>  2020 <br />
+<a href="https://papers.nips.cc/paper/2020/file/5a7b238ba0f6502e5d6be14424b20ded-Paper.pdf" target="_blank">[PDF]</a> /
+<a href="https://github.com/wanxinjin/Pontryagin-Differentiable-Programming" target="_blank">[Code]</a> /
+<a href="https://slideslive.com/38936632" target="_blank">[Videos]</a>/
+<a href="https://wanxinjin.github.io/Pontryagin-Differentiable-Programming/" target="_blank">[Webpage]</a></p>
+<p style="margin-bottom:1.4cm; margin-left: 1.5cm"> </p>
+
+<hr />
+<p><img src="collections/research/fundamental/safepdp.gif" width="160" align="left" hspace="25" vspace="0" />
+<strong>Safe Pontryagin Differentiable Programming</strong> <br />
+<b>Wanxin Jin</b>, Shaoshuai Mou, and George J. Pappas<br />
+<em>Advances in Neural Information Processing Systems (NeurIPS)</em>, 2021<br />
+<a href="https://arxiv.org/abs/2105.14937" target="_blank">[PDF]</a> / 
+<a href="https://github.com/wanxinjin/Safe-PDP" target="_blank">[Code]</a> / 
+<a href="https://slideslive.com/38968248" target="_blank">[Videos]</a>/
+<a href="https://wanxinjin.github.io/Pontryagin-Differentiable-Programming/" target="_blank">[Webpage]</a></p>
+<p style="margin-bottom:1.4cm; margin-left: 1.5cm"> </p>
+
+<hr />
+<p><img src="collections/research/fundamental/ddp_ioc.jpg" width="140" align="left" hspace="35" vspace="0" />
+<strong>A Differential Dynamic Programming Framework for Inverse Reinforcement Learning</strong> <br />
+Kun Cao, Xinhang Xu, <b>Wanxin Jin</b>, Karl H. Johansson, and Lihua Xie<br />
+<em>Submitted to IEEE Transactions on Robotics (T-RO)</em>, 2024<br />
+<a href="https://arxiv.org/abs/2407.19902" target="_blank">[PDF]</a></p>
+<p style="margin-bottom:1.0cm; margin-left: 1.5cm"> </p>
+
+<hr />
+<p><img src="collections/research/fundamental/uncertainty_aware.gif" width="160" align="left" hspace="25" vspace="10" />
+<strong>Robust Safe Learning and Control in Unknown Environments: An Uncertainty-Aware Control Barrier Function Approach</strong> <br />
+Jiacheng Li, Qingchen Liu, <b>Wanxin Jin</b>, Jiahu Qin, and Sandra Hirche<br />
+<em>IEEE Robotics and Automation Letters (RA-L)</em>, 2023<br />
+<a href="https://ieeexplore.ieee.org/document/10232876" target="_blank">[PDF]</a>    / 
+<a href="https://www.youtube.com/watch?v=D-9urnmpZy8" target="_blank">[Videos]</a></p>
+
+<hr />
+<p><img src="collections/research/fundamental/keyidea.png" width="160" align="left" hspace="25" vspace="20" />
+<strong>Enforcing Hard Constraints with Soft Barriers: Safe-driven Reinforcement Learning in Unknown Stochastic Environments</strong> <br />
+Yixuan Wang, Simon Sinong Zhan, Ruochen Jiao, Zhilu Wang, <b>Wanxin Jin</b>, Zhuoran Yang, Zhaoran Wang, Chao Huang, Qi Zhu<br />
+<em>International Conference on Machine Learning (ICML)</em>,  2023<br />
+<a href="https://proceedings.mlr.press/v202/wang23as/wang23as.pdf" target="_blank">[PDF]</a></p>
+
+<p style="margin-bottom:1.8cm; margin-left: 1.5cm"> </p>
+
+:ET
