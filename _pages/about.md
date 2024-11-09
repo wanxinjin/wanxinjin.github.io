@@ -64,13 +64,11 @@ I obtained my Ph.D. from Purdue University in 2021, working with Dr. Shaoshuai M
 
 The  research of our **[Intelligent Robotics and Interactive Systems (IRIS)](https://asu-iris.github.io/){:target="_blank"}** Lab is focused on
 
-- **Human-robot alignment:**  We develop innovative methods that enable robots to seamlessly understand and communicate with humans through various physical interactions. Our work includes developing adaptive learning algorithms and intuitive control interfaces to enhance  representation alignment between humans and robots.
+- **Human-autonomy alignment:**  We develop certifiable, efficient, and empowering methods to enable robots to align their autonomy with human users through various natural interactions.
 
-- **Contact-rich manipulation:** We develop advanced physics-based representations and frameworks that enable robots to interact with and manipulate physical objects efficiently and precisely. Our goal is to enhance robots’ capabilities in performing complex tasks, such as assembly and sorting, in unstructured environments.
+- **Contact-rich dexterous manipulation:** We develop efficient physics-based representations/modeling, planning/control methods to enable robots to gain dexterity through frequently making or breaking contacts with objects.
 
-- **Fundamental methods for robot autonomy:** We develop fundamental theories/algorithms for  efficient, safe, and robust robot intelligence, by harnessing the complementary benefits of model-based (control/optimization) and data-driven (machine learning & AI) approaches.
-
-
+- **Fundamental computational methods:** We develop fundamental algorithms for  efficient, safe, and robust robot intelligence, by harnessing the complementary benefits of model-based and data-driven approaches.
 
 <p style="margin-bottom:1.2cm; margin-left: 1.5cm"> </p>
 
@@ -84,7 +82,7 @@ The  research of our **[Intelligent Robotics and Interactive Systems (IRIS)](htt
 <p style="margin-bottom:1.2cm; margin-left: 1.5cm"> </p>
 
 
-##### **1. Dexterous manipulation**
+##### **1. Contact-rich dexterous manipulation**
 
 
 ---
@@ -178,7 +176,7 @@ Wei-Cheng Huang, Alp Aydinoglu, <b>Wanxin Jin</b>, Michael Posa<br />
 <p style="margin-bottom:1.8cm; margin-left: 1.5cm"> </p>
 
 
-##### **2. Human-robot alignment**
+##### **2. Human-autonomy alignment**
 
 ---
 <img src="/collections/research/human/lfd-llm/lfd-llm.gif" width="150"  align="left" hspace="30" vspace=5 />
@@ -256,7 +254,7 @@ Submitted to *IEEE Transactions on Robotics (T-RO)*, 2024 <br />
 <p style="margin-bottom:1.8cm; margin-left: 1.5cm"> </p>
 
 
-##### **3. Fundamental Research**
+##### **3. Fundamental computational methods**
 
 ---
 <img src="collections/research/fundamental/pdp.gif"   width="160"  align="left" hspace="25" vspace=0 />
