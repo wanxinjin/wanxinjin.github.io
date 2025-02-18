@@ -20,6 +20,19 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="refresh" content="0; url='http://asu-iris.github.io/'" />
+    <script type="text/javascript">
+      window.location.href = "http://asu-iris.github.io/";
+    </script>
+  </head>
+  <body>
+  </body>
+</html>
+
+
 ## **Wanxin Jin** (靳万鑫)
 
 <p style="margin-bottom:1.3cm; margin-left: 0.5cm"> </p>
