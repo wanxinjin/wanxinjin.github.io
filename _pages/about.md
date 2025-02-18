@@ -20,18 +20,7 @@ social: false  # includes social icons at the bottom of the page
 
 ---
 
-<!-- 
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta http-equiv="refresh" content="0; url='http://asu-iris.github.io/'" />
-    <script type="text/javascript">
-      window.location.href = "http://asu-iris.github.io/";
-    </script>
-  </head>
-  <body>
-  </body>
-</html> -->
+
 
 
 ## **Wanxin Jin** (靳万鑫)
@@ -62,6 +51,11 @@ I obtained my Ph.D. from Purdue University in 2021, working with Dr. Shaoshuai M
     <img src="assets/img/platform_icon/youtube.gif" width="35" target="_blank"></a>  &nbsp;&nbsp;&nbsp;
 
 </center>
+
+
+<br />
+
+🔴 **IMPORTANT**❗ **This website has not been maintained. Please visit our lab website: [https://irislab.tech/](https://irislab.tech/)** 
 
 
 <br />
@@ -104,7 +98,7 @@ The  research of our **[Intelligent Robotics and Interactive Systems (IRIS)](htt
 
 **ContactSDF: Signed Distance Functions as Multi-Contact Models for Dexterous Manipulation** <br />
 Wen Yang and <b>Wanxin Jin</b><br />
-Submitted to *IEEE Robotics and Automation Letters (RA-L), 2024*, 2024 <br />
+*IEEE Robotics and Automation Letters (RA-L), 2025*,  <br />
 [[PDF]](https://arxiv.org/abs/2408.09612){:target="_blank"}/ 
 [[Code]](https://github.com/asu-iris/ContactSDF){:target="_blank"}/
 [[Video]](https://www.youtube.com/watch?v=2AsMYCT-jQI){:target="_blank"}/
