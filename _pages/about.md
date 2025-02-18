@@ -1,6 +1,6 @@
 ---
 layout: about
-redirect_to: "http://asu-iris.github.io/"
+# redirect_to: "http://asu-iris.github.io/"
 title: me
 permalink: /
 description: 
@@ -20,7 +20,7 @@ social: false  # includes social icons at the bottom of the page
 
 ---
 
-
+<!-- 
 <!DOCTYPE html>
 <html>
   <head>
@@ -31,7 +31,7 @@ social: false  # includes social icons at the bottom of the page
   </head>
   <body>
   </body>
-</html>
+</html> -->
 
 
 ## **Wanxin Jin** (靳万鑫)
