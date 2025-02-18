@@ -1,5 +1,6 @@
 ---
 layout: about
+redirect_to: "http://asu-iris.github.io/"
 title: me
 permalink: /
 description: 
